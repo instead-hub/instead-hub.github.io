@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on INSTEAD</title>
-    <link>http://instead-hub.github.io/www/article/</link>
+    <link>https://instead-hub.github.io/www/article/</link>
     <description>Recent content in Articles on INSTEAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
@@ -11,25 +11,25 @@
     <copyright>&amp;copy; 2009-2018</copyright>
     <lastBuildDate>Sat, 04 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://instead-hub.github.io/www/article/rss.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instead-hub.github.io/www/article/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ПРИНТЕД 4</title>
-      <link>http://instead-hub.github.io/www/article/printed4/</link>
+      <link>https://instead-hub.github.io/www/article/printed4/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>http://instead-hub.github.io/www/article/printed4/</guid>
+      <guid>https://instead-hub.github.io/www/article/printed4/</guid>
       <description>4 ноября 2017 г.
 http://instead.syscall.ru Когда просматриваешь старые электронные журналы, рассцвет которых в нашей стране пришелся на бум &amp;ldquo;бытовых&amp;rdquo; компьютеров, чувствуешь какую то странную ностальгию.</description>
     </item>
     
     <item>
       <title>ПРИНТЕД 3</title>
-      <link>http://instead-hub.github.io/www/article/printed3/</link>
+      <link>https://instead-hub.github.io/www/article/printed3/</link>
       <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>http://instead-hub.github.io/www/article/printed3/</guid>
+      <guid>https://instead-hub.github.io/www/article/printed3/</guid>
       <description>20 февраля 2016 г.
 http://instead.syscall.ru
 Привет всем, кто на связи! Последний выпуск принтеда вышел уже почти год назад. Как я и обещал, выпуски ПРИНТЕДА без игр не имеют смысла, поэтому такой вот период молчания не стал неожиданностью.</description>
@@ -37,10 +37,10 @@ http://instead.syscall.ru
     
     <item>
       <title>ПРИНТЕД 2</title>
-      <link>http://instead-hub.github.io/www/article/printed2/</link>
+      <link>https://instead-hub.github.io/www/article/printed2/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>http://instead-hub.github.io/www/article/printed2/</guid>
+      <guid>https://instead-hub.github.io/www/article/printed2/</guid>
       <description>1 апреля 2015 г.
 http://instead.syscall.ru
 Привет всем, кто читает #2 выпуск ПРИНТЕДА! За этот месяц произошло не так много событий, так что выпуск будет коротенький.</description>
@@ -48,10 +48,10 @@ http://instead.syscall.ru
     
     <item>
       <title>ПРИНТЕД 1</title>
-      <link>http://instead-hub.github.io/www/article/printed1/</link>
+      <link>https://instead-hub.github.io/www/article/printed1/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>http://instead-hub.github.io/www/article/printed1/</guid>
+      <guid>https://instead-hub.github.io/www/article/printed1/</guid>
       <description>1 марта 2015 г.
 http://instead.syscall.ru
 Вот и наступила весна! А вместе с ней и новый выпуск ПРИНТЕДА. Теперь уже под цифрой #1, а как мы все понимаем, #1 это не #0!</description>
@@ -59,10 +59,10 @@ http://instead.syscall.ru
     
     <item>
       <title>ПРИНТЕД 0</title>
-      <link>http://instead-hub.github.io/www/article/printed0/</link>
+      <link>https://instead-hub.github.io/www/article/printed0/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>http://instead-hub.github.io/www/article/printed0/</guid>
+      <guid>https://instead-hub.github.io/www/article/printed0/</guid>
       <description>1 февраля 2015 г.
 http://instead.syscall.ru
 Привет всем! Идея начать выпуск периодической сборки новостей, связанных с проектом INSTEAD, пришла ко мне во время чтения электронных газет на БК 0010 (теплых и ламповых!</description>
@@ -70,20 +70,20 @@ http://instead.syscall.ru
     
     <item>
       <title>Обзор INSTEAD 1.2.0</title>
-      <link>http://instead-hub.github.io/www/article/2010-09-12-instead-1-2-0-review/</link>
+      <link>https://instead-hub.github.io/www/article/2010-09-12-instead-1-2-0-review/</link>
       <pubDate>Sun, 12 Sep 2010 09:08:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>http://instead-hub.github.io/www/article/2010-09-12-instead-1-2-0-review/</guid>
+      <guid>https://instead-hub.github.io/www/article/2010-09-12-instead-1-2-0-review/</guid>
       <description>Выкладываю обзор INSTEAD, который был написан для журнала LGT непосредственно после выпуска версии 1.2.0.
  Введение В августе была выпущена новая версия INSTEAD — интерпретатора простых текстовых приключенческих игр.</description>
     </item>
     
     <item>
       <title>Как все начиналось</title>
-      <link>http://instead-hub.github.io/www/article/2010-05-09-history/</link>
+      <link>https://instead-hub.github.io/www/article/2010-05-09-history/</link>
       <pubDate>Sun, 09 May 2010 08:58:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>http://instead-hub.github.io/www/article/2010-05-09-history/</guid>
+      <guid>https://instead-hub.github.io/www/article/2010-05-09-history/</guid>
       <description>Уже больше года назад, увидела свет первая публичная версия INSTEAD и игра «Возвращение квантового кота». В то же время я написал статью в электронный журнал LGT о том, как создавался движок…</description>
     </item>
     
