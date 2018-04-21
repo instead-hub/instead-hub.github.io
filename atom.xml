@@ -1,0 +1,182 @@
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>INSTEAD</title>
+	<link href="http://instead-hub.github.io/atom.xml" rel="self"/>
+	<link href="http://instead-hub.github.io/"/>
+	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
+	<updated>2018-03-02T14:27:00+00:00</updated>
+	<id>http://instead-hub.github.io/</id>
+	<author>
+		<name>Peter Kosyh</name>
+		<email>gl00my@mail.ru</email>
+	</author>
+  <entry>
+	<title>Форум переехал</title>
+    <link href="http://instead-hub.github.io/post/2018-03-02-forum/"/>
+	<id>http://instead-hub.github.io/post/2018-03-02-forum/</id>
+    <published>2018-03-02T14:27:00+00:00</published>
+    <updated>2018-03-02T14:27:00+00:00</updated>
+	<content type="html"><![CDATA[
+Друзья, то о чем так долго говорили &ndash; произошло! Форум переезжает на площадку http://instead-games.ru/forum
+Администратором форума становится spline. (Andrew Lobanov) Я (автор INSTEAD) становлюсь просто рядовым пользователем этого ресурса.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>ПРИНТЕД 4</title>
+    <link href="http://instead-hub.github.io/article/printed4/"/>
+	<id>http://instead-hub.github.io/article/printed4/</id>
+    <published>2017-11-04T00:00:00+00:00</published>
+    <updated>2017-11-04T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+4 ноября 2017 г.
+http://instead.syscall.ru Когда просматриваешь старые электронные журналы, рассцвет которых в нашей стране пришелся на бум &ldquo;бытовых&rdquo; компьютеров, чувствуешь какую то странную ностальгию.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Скриншоты</title>
+    <link href="http://instead-hub.github.io/page/screenshots/"/>
+	<id>http://instead-hub.github.io/page/screenshots/</id>
+    <published>2017-05-09T08:58:00+00:00</published>
+    <updated>2017-05-09T08:58:00+00:00</updated>
+	<content type="html"><![CDATA[
+На данный момент под INSTEAD написано уже довольно много игр. Вы можете посмотреть на скриншоты некоторых из них.
+Возвращение квантового кота  Первая игра на INSTEAD &ndash; &ldquo;Возвращение квантового кота.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Contact</title>
+    <link href="http://instead-hub.github.io/contact/"/>
+	<id>http://instead-hub.github.io/contact/</id>
+    <published>2017-03-09T13:23:28+08:00</published>
+    <updated>2017-03-09T13:23:28+08:00</updated>
+	<content type="html"><![CDATA[
+Поддержи проект
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Documentation</title>
+    <link href="http://instead-hub.github.io/doc/"/>
+	<id>http://instead-hub.github.io/doc/</id>
+    <published>2017-03-09T13:23:28+08:00</published>
+    <updated>2017-03-09T13:23:28+08:00</updated>
+	<content type="html"><![CDATA[
+Авторам Для создания игры вам понадобится редактор, поддерживающий UTF-8 без BOM.
+Документация для разработчиков игр поставляется вместе с дистрибутивом INSTEAD в соответствующем каталоге (doc/).
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>About</title>
+    <link href="http://instead-hub.github.io/about/"/>
+	<id>http://instead-hub.github.io/about/</id>
+    <published>2017-03-09T13:19:25+08:00</published>
+    <updated>2017-03-09T13:19:25+08:00</updated>
+	<content type="html"><![CDATA[
+О проекте INSTEAD позволяет создавать текстографические приключенческие игры.
+Жанр таких игр находится на стыке интерактивной литературы, визуальных новелл и классических point &amp; click квестов.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Download</title>
+    <link href="http://instead-hub.github.io/download/"/>
+	<id>http://instead-hub.github.io/download/</id>
+    <published>2017-03-09T13:19:25+08:00</published>
+    <updated>2017-03-09T13:19:25+08:00</updated>
+	<content type="html"><![CDATA[
+ Скачать Версия 3.2.1
+    Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить)     PPA репозиторий для Ubuntu     Версия для OSX     Исходный код     Другие пакеты     
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>ПРИНТЕД 3</title>
+    <link href="http://instead-hub.github.io/article/printed3/"/>
+	<id>http://instead-hub.github.io/article/printed3/</id>
+    <published>2016-02-20T00:00:00+00:00</published>
+    <updated>2016-02-20T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+20 февраля 2016 г.
+http://instead.syscall.ru
+Привет всем, кто на связи! Последний выпуск принтеда вышел уже почти год назад. Как я и обещал, выпуски ПРИНТЕДА без игр не имеют смысла, поэтому такой вот период молчания не стал неожиданностью.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>ПРИНТЕД 2</title>
+    <link href="http://instead-hub.github.io/article/printed2/"/>
+	<id>http://instead-hub.github.io/article/printed2/</id>
+    <published>2015-04-01T00:00:00+00:00</published>
+    <updated>2015-04-01T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+1 апреля 2015 г.
+http://instead.syscall.ru
+Привет всем, кто читает #2 выпуск ПРИНТЕДА! За этот месяц произошло не так много событий, так что выпуск будет коротенький.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>ПРИНТЕД 1</title>
+    <link href="http://instead-hub.github.io/article/printed1/"/>
+	<id>http://instead-hub.github.io/article/printed1/</id>
+    <published>2015-03-01T00:00:00+00:00</published>
+    <updated>2015-03-01T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+1 марта 2015 г.
+http://instead.syscall.ru
+Вот и наступила весна! А вместе с ней и новый выпуск ПРИНТЕДА. Теперь уже под цифрой #1, а как мы все понимаем, #1 это не #0!
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>ПРИНТЕД 0</title>
+    <link href="http://instead-hub.github.io/article/printed0/"/>
+	<id>http://instead-hub.github.io/article/printed0/</id>
+    <published>2015-02-01T00:00:00+00:00</published>
+    <updated>2015-02-01T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+1 февраля 2015 г.
+http://instead.syscall.ru
+Привет всем! Идея начать выпуск периодической сборки новостей, связанных с проектом INSTEAD, пришла ко мне во время чтения электронных газет на БК 0010 (теплых и ламповых!
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Обзор INSTEAD 1.2.0</title>
+    <link href="http://instead-hub.github.io/article/2010-09-12-instead-1-2-0-review/"/>
+	<id>http://instead-hub.github.io/article/2010-09-12-instead-1-2-0-review/</id>
+    <published>2010-09-12T09:08:00+00:00</published>
+    <updated>2010-09-12T09:08:00+00:00</updated>
+	<content type="html"><![CDATA[
+Выкладываю обзор INSTEAD, который был написан для журнала LGT непосредственно после выпуска версии 1.2.0.
+ Введение В августе была выпущена новая версия INSTEAD — интерпретатора простых текстовых приключенческих игр.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Как все начиналось</title>
+    <link href="http://instead-hub.github.io/article/2010-05-09-history/"/>
+	<id>http://instead-hub.github.io/article/2010-05-09-history/</id>
+    <published>2010-05-09T08:58:00+00:00</published>
+    <updated>2010-05-09T08:58:00+00:00</updated>
+	<content type="html"><![CDATA[
+Уже больше года назад, увидела свет первая публичная версия INSTEAD и игра «Возвращение квантового кота». В то же время я написал статью в электронный журнал LGT о том, как создавался движок…
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>INSTEAD Клуб</title>
+    <link href="http://instead-hub.github.io/page/club/"/>
+	<id>http://instead-hub.github.io/page/club/</id>
+    <published>0001-01-01T00:00:00+00:00</published>
+    <updated>0001-01-01T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Добро пожаловать! Что это? Уютное место для тех, кто устал от публичности. Для тех, кто хочет пообщаться в более неформальной обстановке.
+]]></content>
+  </entry>
+	
+</feed>

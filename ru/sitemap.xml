@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://instead-hub.github.io/post/2018-03-02-forum/</loc>
+    <lastmod>2018-03-02T14:27:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/post/2018-03-02-forum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/post/2018-03-02-forum/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/article/printed4/</loc>
+    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/page/screenshots/</loc>
+    <lastmod>2017-05-09T08:58:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/page/screenshots/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/page/screenshots/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/contact/</loc>
+    <lastmod>2017-03-09T13:23:28+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/doc/</loc>
+    <lastmod>2017-03-09T13:23:28+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/doc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/doc/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/about/</loc>
+    <lastmod>2017-03-09T13:19:25+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/download/</loc>
+    <lastmod>2017-03-09T13:19:25+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/download/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/download/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/article/printed3/</loc>
+    <lastmod>2016-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/article/printed2/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/article/printed1/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/article/printed0/</loc>
+    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/article/2010-09-12-instead-1-2-0-review/</loc>
+    <lastmod>2010-09-12T09:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/article/2010-05-09-history/</loc>
+    <lastmod>2010-05-09T08:58:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/article/</loc>
+    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/article/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/</loc>
+    <lastmod>2018-03-02T14:27:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/page/club/</loc>
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/page/</loc>
+    <lastmod>2017-05-09T08:58:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/post/</loc>
+    <lastmod>2018-03-02T14:27:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/tags/printed/</loc>
+    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://instead-hub.github.io/tags/</loc>
+    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://instead-hub.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://instead-hub.github.io/tags/"
+                />
+  </url>
+  
+</urlset>

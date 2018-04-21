@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on INSTEAD</title>
+    <link>http://instead-hub.github.io/en/page/</link>
+    <description>Recent content in Pages on INSTEAD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
+    <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
+    <copyright>&amp;copy; 2009-2018</copyright>
+    <lastBuildDate>Tue, 09 May 2017 08:58:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://instead-hub.github.io/en/page/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Screenshots</title>
+      <link>http://instead-hub.github.io/en/page/screenshots/</link>
+      <pubDate>Tue, 09 May 2017 08:58:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>http://instead-hub.github.io/en/page/screenshots/</guid>
+      <description>Currently, there are a lot of games written with INSTEAD. Most of them are Russians only, but some are translated to other languages.</description>
+    </item>
+    
+  </channel>
+</rss>
