@@ -25,6 +25,16 @@
     </item>
     
     <item>
+      <title>Как скачать и запустить игру?</title>
+      <link>https://instead-hub.github.io/page/games/</link>
+      <pubDate>Sun, 22 Apr 2018 00:50:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/page/games/</guid>
+      <description>Где брать? Данный ресурс не содержит игр. Но вы можете найти их на следующих сайтах:
+ Некоторые игры на itch от автора INSTEAD Репозиторий instead-games.</description>
+    </item>
+    
+    <item>
       <title>Форум переехал</title>
       <link>https://instead-hub.github.io/post/2018-03-02-forum/</link>
       <pubDate>Fri, 02 Mar 2018 14:27:00 +0000</pubDate>
@@ -200,16 +210,6 @@ http://instead.syscall.ru
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>https://instead-hub.github.io/page/club/</guid>
       <description>Добро пожаловать! Что это? Уютное место для тех, кто устал от публичности. Для тех, кто хочет пообщаться в более неформальной обстановке.</description>
-    </item>
-    
-    <item>
-      <title>Как скачать и запустить игру?</title>
-      <link>https://instead-hub.github.io/page/games/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/page/games/</guid>
-      <description>Где брать? Данный ресурс не содержит игр. Но вы можете найти их на следующих сайтах:
- Некоторые игры на itch от автора INSTEAD Репозиторий instead-games.</description>
     </item>
     
   </channel>

@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://instead-hub.github.io/page/games/</loc>
+    <lastmod>2018-04-22T00:50:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://instead-hub.github.io/en/page/games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://instead-hub.github.io/page/games/"
+                />
+  </url>
+  
+  <url>
     <loc>https://instead-hub.github.io/post/2018-03-02-forum/</loc>
     <lastmod>2018-03-02T14:27:00+00:00</lastmod>
     <xhtml:link
@@ -215,7 +230,7 @@
   
   <url>
     <loc>https://instead-hub.github.io/page/</loc>
-    <lastmod>2017-05-09T08:58:00+00:00</lastmod>
+    <lastmod>2018-04-22T00:50:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -264,20 +279,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://instead-hub.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://instead-hub.github.io/page/games/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://instead-hub.github.io/en/page/games/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://instead-hub.github.io/page/games/"
                 />
   </url>
   

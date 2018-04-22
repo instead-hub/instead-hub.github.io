@@ -25,6 +25,16 @@ It is extremaly minimal now.</description>
     </item>
     
     <item>
+      <title>How to download and run game?</title>
+      <link>https://instead-hub.github.io/en/page/games/</link>
+      <pubDate>Sun, 22 Apr 2018 00:50:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/en/page/games/</guid>
+      <description>Where to get? You can find games here:
+ Some games on itch instead-games.ru repository  How to run? Manually You can download zip or idf file and select it from the INSTEAD menu.</description>
+    </item>
+    
+    <item>
       <title>Forum has moved</title>
       <link>https://instead-hub.github.io/en/post/2018-03-02-forum/</link>
       <pubDate>Fri, 02 Mar 2018 14:27:00 +0000</pubDate>
@@ -90,16 +100,6 @@ This games are mix of interactive ficrtion, visual novels and classic point &amp
       <guid>https://instead-hub.github.io/en/doc/</guid>
       <description>Documentation To make the game you need text editor with UTF-8 support (without BOM).
 Documentation already included in INSTEAD (doc/ directory).</description>
-    </item>
-    
-    <item>
-      <title>How to download and run game?</title>
-      <link>https://instead-hub.github.io/en/page/games/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/en/page/games/</guid>
-      <description>Where to get? You can find games here:
- Some games on itch instead-games.ru repository  How to run? Manually You can download zip or idf file and select it from the INSTEAD menu.</description>
     </item>
     
   </channel>

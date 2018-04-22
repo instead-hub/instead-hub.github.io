@@ -23,6 +23,18 @@ It is extremaly minimal now.
   </entry>
 	
   <entry>
+	<title>How to download and run game?</title>
+    <link href="https://instead-hub.github.io/en/page/games/"/>
+	<id>https://instead-hub.github.io/en/page/games/</id>
+    <published>2018-04-22T00:50:00+00:00</published>
+    <updated>2018-04-22T00:50:00+00:00</updated>
+	<content type="html"><![CDATA[
+Where to get? You can find games here:
+ Some games on itch instead-games.ru repository  How to run? Manually You can download zip or idf file and select it from the INSTEAD menu.
+]]></content>
+  </entry>
+	
+  <entry>
 	<title>Forum has moved</title>
     <link href="https://instead-hub.github.io/en/post/2018-03-02-forum/"/>
 	<id>https://instead-hub.github.io/en/post/2018-03-02-forum/</id>
@@ -101,18 +113,6 @@ Currently, they are in Russian only&hellip;
 	<content type="html"><![CDATA[
 Documentation To make the game you need text editor with UTF-8 support (without BOM).
 Documentation already included in INSTEAD (doc/ directory).
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>How to download and run game?</title>
-    <link href="https://instead-hub.github.io/en/page/games/"/>
-	<id>https://instead-hub.github.io/en/page/games/</id>
-    <published>0001-01-01T00:00:00+00:00</published>
-    <updated>0001-01-01T00:00:00+00:00</updated>
-	<content type="html"><![CDATA[
-Where to get? You can find games here:
- Some games on itch instead-games.ru repository  How to run? Manually You can download zip or idf file and select it from the INSTEAD menu.
 ]]></content>
   </entry>
 	

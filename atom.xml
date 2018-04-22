@@ -23,6 +23,18 @@
   </entry>
 	
   <entry>
+	<title>Как скачать и запустить игру?</title>
+    <link href="https://instead-hub.github.io/page/games/"/>
+	<id>https://instead-hub.github.io/page/games/</id>
+    <published>2018-04-22T00:50:00+00:00</published>
+    <updated>2018-04-22T00:50:00+00:00</updated>
+	<content type="html"><![CDATA[
+Где брать? Данный ресурс не содержит игр. Но вы можете найти их на следующих сайтах:
+ Некоторые игры на itch от автора INSTEAD Репозиторий instead-games.
+]]></content>
+  </entry>
+	
+  <entry>
 	<title>Форум переехал</title>
     <link href="https://instead-hub.github.io/post/2018-03-02-forum/"/>
 	<id>https://instead-hub.github.io/post/2018-03-02-forum/</id>
@@ -233,18 +245,6 @@ http://instead.syscall.ru
     <updated>0001-01-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
 Добро пожаловать! Что это? Уютное место для тех, кто устал от публичности. Для тех, кто хочет пообщаться в более неформальной обстановке.
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>Как скачать и запустить игру?</title>
-    <link href="https://instead-hub.github.io/page/games/"/>
-	<id>https://instead-hub.github.io/page/games/</id>
-    <published>0001-01-01T00:00:00+00:00</published>
-    <updated>0001-01-01T00:00:00+00:00</updated>
-	<content type="html"><![CDATA[
-Где брать? Данный ресурс не содержит игр. Но вы можете найти их на следующих сайтах:
- Некоторые игры на itch от автора INSTEAD Репозиторий instead-games.
 ]]></content>
   </entry>
 	
