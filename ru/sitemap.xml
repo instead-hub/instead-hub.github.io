@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://instead-hub.github.io/article/ponimanie-komiksa/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://instead-hub.github.io/page/screenshots/</loc>
     <lastmod>2017-05-09T08:58:00+00:00</lastmod>
     <xhtml:link
@@ -35,6 +40,16 @@
                 hreflang="ru"
                 href="https://instead-hub.github.io/page/screenshots/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://instead-hub.github.io/article/12-pravil/</loc>
+    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://instead-hub.github.io/article/istoki-sistem/</loc>
+    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -229,6 +244,20 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://instead-hub.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://instead-hub.github.io/page/games/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://instead-hub.github.io/en/page/games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://instead-hub.github.io/page/games/"
                 />
   </url>
   
