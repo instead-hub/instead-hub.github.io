@@ -1,19 +1,19 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>INSTEAD</title>
-	<link href="https://instead-hub.github.io/www/atom.xml" rel="self"/>
-	<link href="https://instead-hub.github.io/www/"/>
+	<link href="https://instead-hub.github.io/atom.xml" rel="self"/>
+	<link href="https://instead-hub.github.io/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
 	<updated>2018-03-02T14:27:00+00:00</updated>
-	<id>https://instead-hub.github.io/www/</id>
+	<id>https://instead-hub.github.io/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
   <entry>
 	<title>Форум переехал</title>
-    <link href="https://instead-hub.github.io/www/post/2018-03-02-forum/"/>
-	<id>https://instead-hub.github.io/www/post/2018-03-02-forum/</id>
+    <link href="https://instead-hub.github.io/post/2018-03-02-forum/"/>
+	<id>https://instead-hub.github.io/post/2018-03-02-forum/</id>
     <published>2018-03-02T14:27:00+00:00</published>
     <updated>2018-03-02T14:27:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -24,8 +24,8 @@
 	
   <entry>
 	<title>ПРИНТЕД 4</title>
-    <link href="https://instead-hub.github.io/www/article/printed4/"/>
-	<id>https://instead-hub.github.io/www/article/printed4/</id>
+    <link href="https://instead-hub.github.io/article/printed4/"/>
+	<id>https://instead-hub.github.io/article/printed4/</id>
     <published>2017-11-04T00:00:00+00:00</published>
     <updated>2017-11-04T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -36,8 +36,8 @@ http://instead.syscall.ru Когда просматриваешь старые �
 	
   <entry>
 	<title>Скриншоты</title>
-    <link href="https://instead-hub.github.io/www/page/screenshots/"/>
-	<id>https://instead-hub.github.io/www/page/screenshots/</id>
+    <link href="https://instead-hub.github.io/page/screenshots/"/>
+	<id>https://instead-hub.github.io/page/screenshots/</id>
     <published>2017-05-09T08:58:00+00:00</published>
     <updated>2017-05-09T08:58:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -48,8 +48,8 @@ http://instead.syscall.ru Когда просматриваешь старые �
 	
   <entry>
 	<title>Contact</title>
-    <link href="https://instead-hub.github.io/www/contact/"/>
-	<id>https://instead-hub.github.io/www/contact/</id>
+    <link href="https://instead-hub.github.io/contact/"/>
+	<id>https://instead-hub.github.io/contact/</id>
     <published>2017-03-09T13:23:28+08:00</published>
     <updated>2017-03-09T13:23:28+08:00</updated>
 	<content type="html"><![CDATA[
@@ -59,8 +59,8 @@ http://instead.syscall.ru Когда просматриваешь старые �
 	
   <entry>
 	<title>Documentation</title>
-    <link href="https://instead-hub.github.io/www/doc/"/>
-	<id>https://instead-hub.github.io/www/doc/</id>
+    <link href="https://instead-hub.github.io/doc/"/>
+	<id>https://instead-hub.github.io/doc/</id>
     <published>2017-03-09T13:23:28+08:00</published>
     <updated>2017-03-09T13:23:28+08:00</updated>
 	<content type="html"><![CDATA[
@@ -71,8 +71,8 @@ http://instead.syscall.ru Когда просматриваешь старые �
 	
   <entry>
 	<title>About</title>
-    <link href="https://instead-hub.github.io/www/about/"/>
-	<id>https://instead-hub.github.io/www/about/</id>
+    <link href="https://instead-hub.github.io/about/"/>
+	<id>https://instead-hub.github.io/about/</id>
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
@@ -83,8 +83,8 @@ http://instead.syscall.ru Когда просматриваешь старые �
 	
   <entry>
 	<title>Download</title>
-    <link href="https://instead-hub.github.io/www/download/"/>
-	<id>https://instead-hub.github.io/www/download/</id>
+    <link href="https://instead-hub.github.io/download/"/>
+	<id>https://instead-hub.github.io/download/</id>
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
@@ -95,8 +95,8 @@ http://instead.syscall.ru Когда просматриваешь старые �
 	
   <entry>
 	<title>ПРИНТЕД 3</title>
-    <link href="https://instead-hub.github.io/www/article/printed3/"/>
-	<id>https://instead-hub.github.io/www/article/printed3/</id>
+    <link href="https://instead-hub.github.io/article/printed3/"/>
+	<id>https://instead-hub.github.io/article/printed3/</id>
     <published>2016-02-20T00:00:00+00:00</published>
     <updated>2016-02-20T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -108,8 +108,8 @@ http://instead.syscall.ru
 	
   <entry>
 	<title>ПРИНТЕД 2</title>
-    <link href="https://instead-hub.github.io/www/article/printed2/"/>
-	<id>https://instead-hub.github.io/www/article/printed2/</id>
+    <link href="https://instead-hub.github.io/article/printed2/"/>
+	<id>https://instead-hub.github.io/article/printed2/</id>
     <published>2015-04-01T00:00:00+00:00</published>
     <updated>2015-04-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -121,8 +121,8 @@ http://instead.syscall.ru
 	
   <entry>
 	<title>ПРИНТЕД 1</title>
-    <link href="https://instead-hub.github.io/www/article/printed1/"/>
-	<id>https://instead-hub.github.io/www/article/printed1/</id>
+    <link href="https://instead-hub.github.io/article/printed1/"/>
+	<id>https://instead-hub.github.io/article/printed1/</id>
     <published>2015-03-01T00:00:00+00:00</published>
     <updated>2015-03-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -134,8 +134,8 @@ http://instead.syscall.ru
 	
   <entry>
 	<title>ПРИНТЕД 0</title>
-    <link href="https://instead-hub.github.io/www/article/printed0/"/>
-	<id>https://instead-hub.github.io/www/article/printed0/</id>
+    <link href="https://instead-hub.github.io/article/printed0/"/>
+	<id>https://instead-hub.github.io/article/printed0/</id>
     <published>2015-02-01T00:00:00+00:00</published>
     <updated>2015-02-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -147,8 +147,8 @@ http://instead.syscall.ru
 	
   <entry>
 	<title>Обзор INSTEAD 1.2.0</title>
-    <link href="https://instead-hub.github.io/www/article/2010-09-12-instead-1-2-0-review/"/>
-	<id>https://instead-hub.github.io/www/article/2010-09-12-instead-1-2-0-review/</id>
+    <link href="https://instead-hub.github.io/article/2010-09-12-instead-1-2-0-review/"/>
+	<id>https://instead-hub.github.io/article/2010-09-12-instead-1-2-0-review/</id>
     <published>2010-09-12T09:08:00+00:00</published>
     <updated>2010-09-12T09:08:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -159,8 +159,8 @@ http://instead.syscall.ru
 	
   <entry>
 	<title>Как все начиналось</title>
-    <link href="https://instead-hub.github.io/www/article/2010-05-09-history/"/>
-	<id>https://instead-hub.github.io/www/article/2010-05-09-history/</id>
+    <link href="https://instead-hub.github.io/article/2010-05-09-history/"/>
+	<id>https://instead-hub.github.io/article/2010-05-09-history/</id>
     <published>2010-05-09T08:58:00+00:00</published>
     <updated>2010-05-09T08:58:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -170,8 +170,8 @@ http://instead.syscall.ru
 	
   <entry>
 	<title>INSTEAD Клуб</title>
-    <link href="https://instead-hub.github.io/www/page/club/"/>
-	<id>https://instead-hub.github.io/www/page/club/</id>
+    <link href="https://instead-hub.github.io/page/club/"/>
+	<id>https://instead-hub.github.io/page/club/</id>
     <published>0001-01-01T00:00:00+00:00</published>
     <updated>0001-01-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[

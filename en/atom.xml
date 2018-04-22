@@ -1,19 +1,19 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>INSTEAD</title>
-	<link href="https://instead-hub.github.io/www/en/atom.xml" rel="self"/>
-	<link href="https://instead-hub.github.io/www/en/"/>
+	<link href="https://instead-hub.github.io/en/atom.xml" rel="self"/>
+	<link href="https://instead-hub.github.io/en/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
 	<updated>2018-03-02T14:27:00+00:00</updated>
-	<id>https://instead-hub.github.io/www/en/</id>
+	<id>https://instead-hub.github.io/en/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
   <entry>
 	<title>Forum has moved</title>
-    <link href="https://instead-hub.github.io/www/en/post/2018-03-02-forum/"/>
-	<id>https://instead-hub.github.io/www/en/post/2018-03-02-forum/</id>
+    <link href="https://instead-hub.github.io/en/post/2018-03-02-forum/"/>
+	<id>https://instead-hub.github.io/en/post/2018-03-02-forum/</id>
     <published>2018-03-02T14:27:00+00:00</published>
     <updated>2018-03-02T14:27:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -24,8 +24,8 @@ See ya!
 	
   <entry>
 	<title>Screenshots</title>
-    <link href="https://instead-hub.github.io/www/en/page/screenshots/"/>
-	<id>https://instead-hub.github.io/www/en/page/screenshots/</id>
+    <link href="https://instead-hub.github.io/en/page/screenshots/"/>
+	<id>https://instead-hub.github.io/en/page/screenshots/</id>
     <published>2017-05-09T08:58:00+00:00</published>
     <updated>2017-05-09T08:58:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -35,8 +35,8 @@ Currently, there are a lot of games written with INSTEAD. Most of them are Russi
 	
   <entry>
 	<title>Contact</title>
-    <link href="https://instead-hub.github.io/www/en/contact/"/>
-	<id>https://instead-hub.github.io/www/en/contact/</id>
+    <link href="https://instead-hub.github.io/en/contact/"/>
+	<id>https://instead-hub.github.io/en/contact/</id>
     <published>2017-03-09T13:23:28+08:00</published>
     <updated>2017-03-09T13:23:28+08:00</updated>
 	<content type="html"><![CDATA[
@@ -47,8 +47,8 @@ Currently, there are a lot of games written with INSTEAD. Most of them are Russi
 	
   <entry>
 	<title>About</title>
-    <link href="https://instead-hub.github.io/www/en/about/"/>
-	<id>https://instead-hub.github.io/www/en/about/</id>
+    <link href="https://instead-hub.github.io/en/about/"/>
+	<id>https://instead-hub.github.io/en/about/</id>
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
@@ -59,8 +59,8 @@ This games are mix of interactive ficrtion, visual novels and classic point &amp
 	
   <entry>
 	<title>Download</title>
-    <link href="https://instead-hub.github.io/www/en/download/"/>
-	<id>https://instead-hub.github.io/www/en/download/</id>
+    <link href="https://instead-hub.github.io/en/download/"/>
+	<id>https://instead-hub.github.io/en/download/</id>
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
@@ -71,8 +71,8 @@ This games are mix of interactive ficrtion, visual novels and classic point &amp
 	
   <entry>
 	<title>Where are the articles?</title>
-    <link href="https://instead-hub.github.io/www/en/article/english/"/>
-	<id>https://instead-hub.github.io/www/en/article/english/</id>
+    <link href="https://instead-hub.github.io/en/article/english/"/>
+	<id>https://instead-hub.github.io/en/article/english/</id>
     <published>2010-05-09T08:58:00+00:00</published>
     <updated>2010-05-09T08:58:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -82,8 +82,8 @@ Currently, they are in Russian only&hellip;
 	
   <entry>
 	<title>Documentation</title>
-    <link href="https://instead-hub.github.io/www/en/doc/"/>
-	<id>https://instead-hub.github.io/www/en/doc/</id>
+    <link href="https://instead-hub.github.io/en/doc/"/>
+	<id>https://instead-hub.github.io/en/doc/</id>
     <published>0001-01-01T00:00:00+00:00</published>
     <updated>0001-01-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>INSTEAD</title>
-    <link>https://instead-hub.github.io/www/en/</link>
+    <link>https://instead-hub.github.io/en/</link>
     <description>Recent content on INSTEAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,73 +11,73 @@
     <copyright>&amp;copy; 2009-2018</copyright>
     <lastBuildDate>Fri, 02 Mar 2018 14:27:00 +0000</lastBuildDate>
     
-	<atom:link href="https://instead-hub.github.io/www/en/rss.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instead-hub.github.io/en/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Forum has moved</title>
-      <link>https://instead-hub.github.io/www/en/post/2018-03-02-forum/</link>
+      <link>https://instead-hub.github.io/en/post/2018-03-02-forum/</link>
       <pubDate>Fri, 02 Mar 2018 14:27:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/www/en/post/2018-03-02-forum/</guid>
+      <guid>https://instead-hub.github.io/en/post/2018-03-02-forum/</guid>
       <description>Attention! Forum has moved to http://instead-games.ru/forum Please, update your bookmarks. ;)
 See ya!</description>
     </item>
     
     <item>
       <title>Screenshots</title>
-      <link>https://instead-hub.github.io/www/en/page/screenshots/</link>
+      <link>https://instead-hub.github.io/en/page/screenshots/</link>
       <pubDate>Tue, 09 May 2017 08:58:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/www/en/page/screenshots/</guid>
+      <guid>https://instead-hub.github.io/en/page/screenshots/</guid>
       <description>Currently, there are a lot of games written with INSTEAD. Most of them are Russians only, but some are translated to other languages.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://instead-hub.github.io/www/en/contact/</link>
+      <link>https://instead-hub.github.io/en/contact/</link>
       <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/www/en/contact/</guid>
+      <guid>https://instead-hub.github.io/en/contact/</guid>
       <description> Donations You may transfer some money for hosting. Thank you!
     </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://instead-hub.github.io/www/en/about/</link>
+      <link>https://instead-hub.github.io/en/about/</link>
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/www/en/about/</guid>
+      <guid>https://instead-hub.github.io/en/about/</guid>
       <description>About INSTEAD was designed to make the textographic games.
 This games are mix of interactive ficrtion, visual novels and classic point &amp;amp; click adventures.</description>
     </item>
     
     <item>
       <title>Download</title>
-      <link>https://instead-hub.github.io/www/en/download/</link>
+      <link>https://instead-hub.github.io/en/download/</link>
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/www/en/download/</guid>
+      <guid>https://instead-hub.github.io/en/download/</guid>
       <description> Download Version 3.2.1
     Installer for Windows (.exe file) Archive for Windows (unpack and run)     PPA repository for Ubuntu     OS X     Sources     Others     </description>
     </item>
     
     <item>
       <title>Where are the articles?</title>
-      <link>https://instead-hub.github.io/www/en/article/english/</link>
+      <link>https://instead-hub.github.io/en/article/english/</link>
       <pubDate>Sun, 09 May 2010 08:58:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/www/en/article/english/</guid>
+      <guid>https://instead-hub.github.io/en/article/english/</guid>
       <description>Currently, they are in Russian only&amp;hellip;</description>
     </item>
     
     <item>
       <title>Documentation</title>
-      <link>https://instead-hub.github.io/www/en/doc/</link>
+      <link>https://instead-hub.github.io/en/doc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/www/en/doc/</guid>
+      <guid>https://instead-hub.github.io/en/doc/</guid>
       <description>Documentation To make the game you need text editor with UTF-8 support (without BOM).
 Documentation already included in INSTEAD (doc/ directory).</description>
     </item>

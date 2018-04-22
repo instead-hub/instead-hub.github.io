@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on INSTEAD</title>
-    <link>https://instead-hub.github.io/www/en/article/</link>
+    <link>https://instead-hub.github.io/en/article/</link>
     <description>Recent content in Articles on INSTEAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,15 +11,15 @@
     <copyright>&amp;copy; 2009-2018</copyright>
     <lastBuildDate>Sun, 09 May 2010 08:58:00 +0000</lastBuildDate>
     
-	<atom:link href="https://instead-hub.github.io/www/en/article/rss.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instead-hub.github.io/en/article/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Where are the articles?</title>
-      <link>https://instead-hub.github.io/www/en/article/english/</link>
+      <link>https://instead-hub.github.io/en/article/english/</link>
       <pubDate>Sun, 09 May 2010 08:58:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/www/en/article/english/</guid>
+      <guid>https://instead-hub.github.io/en/article/english/</guid>
       <description>Currently, they are in Russian only&amp;hellip;</description>
     </item>
     
