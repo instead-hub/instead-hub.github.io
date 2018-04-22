@@ -4,12 +4,24 @@
 	<link href="https://instead-hub.github.io/atom.xml" rel="self"/>
 	<link href="https://instead-hub.github.io/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2018-03-02T14:27:00+00:00</updated>
+	<updated>2018-04-22T09:24:00+00:00</updated>
 	<id>https://instead-hub.github.io/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>Новая страница INSTEAD3</title>
+    <link href="https://instead-hub.github.io/post/2018-04-22-site/"/>
+	<id>https://instead-hub.github.io/post/2018-04-22-site/</id>
+    <published>2018-04-22T09:24:00+00:00</published>
+    <updated>2018-04-22T09:24:00+00:00</updated>
+	<content type="html"><![CDATA[
+Если вы читаете это сообщение, значит вы находитесь на новом сайте INSTEAD3.
+Кроме того, что сайт стал экстремально простым (он прекрасно смотрится в w3m), в работе ресурсов INSTEAD произошли следующие изменения:
+]]></content>
+  </entry>
+	
   <entry>
 	<title>Форум переехал</title>
     <link href="https://instead-hub.github.io/post/2018-03-02-forum/"/>
@@ -72,11 +84,22 @@ http://instead.syscall.ru Когда просматриваешь старые �
 	<title>Истоки систем интерактивного повествования</title>
     <link href="https://instead-hub.github.io/article/istoki-sistem/"/>
 	<id>https://instead-hub.github.io/article/istoki-sistem/</id>
-    <published>2017-03-22T00:00:00+00:00</published>
-    <updated>2017-03-22T00:00:00+00:00</updated>
+    <published>2017-03-22T00:01:00+00:00</published>
+    <updated>2017-03-22T00:01:00+00:00</updated>
 	<content type="html"><![CDATA[
 Речь пойдет о разработках далекого прошлого, которые несут в себе существенные элементы систем интерактивного повествования (ИП).
 Морфология сказки (1928) Советский ученый, филолог-фольклорист В.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Wander: забытые истоки IF</title>
+    <link href="https://instead-hub.github.io/article/wander/"/>
+	<id>https://instead-hub.github.io/article/wander/</id>
+    <published>2017-03-22T00:00:00+00:00</published>
+    <updated>2017-03-22T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Введение Любой поклонник интерактивной литературы знает, что начало этому жанру положила знаменитая Colossal Cave Adventure (1975). Но текстовые игры на мэйнфреймах существовали и до нее.
 ]]></content>
   </entry>
 	
@@ -122,7 +145,7 @@ http://instead.syscall.ru Когда просматриваешь старые �
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
- Скачать Версия 3.2.1
+ Скачать Версия 3.2.0
     Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить)     PPA репозиторий для Ubuntu     Версия для OSX     Исходный код     Другие пакеты     
 ]]></content>
   </entry>

@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2018</copyright>
-    <lastBuildDate>Fri, 02 Mar 2018 14:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 09:24:00 +0000</lastBuildDate>
     
 	<atom:link href="https://instead-hub.github.io/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Новая страница INSTEAD3</title>
+      <link>https://instead-hub.github.io/post/2018-04-22-site/</link>
+      <pubDate>Sun, 22 Apr 2018 09:24:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/post/2018-04-22-site/</guid>
+      <description>Если вы читаете это сообщение, значит вы находитесь на новом сайте INSTEAD3.
+Кроме того, что сайт стал экстремально простым (он прекрасно смотрится в w3m), в работе ресурсов INSTEAD произошли следующие изменения:</description>
+    </item>
     
     <item>
       <title>Форум переехал</title>
@@ -65,11 +75,20 @@ http://instead.syscall.ru Когда просматриваешь старые �
     <item>
       <title>Истоки систем интерактивного повествования</title>
       <link>https://instead-hub.github.io/article/istoki-sistem/</link>
-      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Mar 2017 00:01:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>https://instead-hub.github.io/article/istoki-sistem/</guid>
       <description>Речь пойдет о разработках далекого прошлого, которые несут в себе существенные элементы систем интерактивного повествования (ИП).
 Морфология сказки (1928) Советский ученый, филолог-фольклорист В.</description>
+    </item>
+    
+    <item>
+      <title>Wander: забытые истоки IF</title>
+      <link>https://instead-hub.github.io/article/wander/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/article/wander/</guid>
+      <description>Введение Любой поклонник интерактивной литературы знает, что начало этому жанру положила знаменитая Colossal Cave Adventure (1975). Но текстовые игры на мэйнфреймах существовали и до нее.</description>
     </item>
     
     <item>
@@ -107,7 +126,7 @@ http://instead.syscall.ru Когда просматриваешь старые �
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>https://instead-hub.github.io/download/</guid>
-      <description> Скачать Версия 3.2.1
+      <description> Скачать Версия 3.2.0
     Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить)     PPA репозиторий для Ubuntu     Версия для OSX     Исходный код     Другие пакеты     </description>
     </item>
     

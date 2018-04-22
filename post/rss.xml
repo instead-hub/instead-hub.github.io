@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2018</copyright>
-    <lastBuildDate>Fri, 02 Mar 2018 14:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 09:24:00 +0000</lastBuildDate>
     
 	<atom:link href="https://instead-hub.github.io/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Новая страница INSTEAD3</title>
+      <link>https://instead-hub.github.io/post/2018-04-22-site/</link>
+      <pubDate>Sun, 22 Apr 2018 09:24:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/post/2018-04-22-site/</guid>
+      <description>Если вы читаете это сообщение, значит вы находитесь на новом сайте INSTEAD3.
+Кроме того, что сайт стал экстремально простым (он прекрасно смотрится в w3m), в работе ресурсов INSTEAD произошли следующие изменения:</description>
+    </item>
     
     <item>
       <title>Форум переехал</title>

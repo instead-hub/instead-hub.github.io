@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2018</copyright>
-    <lastBuildDate>Fri, 02 Mar 2018 14:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 09:24:00 +0000</lastBuildDate>
     
 	<atom:link href="https://instead-hub.github.io/en/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>INSTEAD3 new website</title>
+      <link>https://instead-hub.github.io/en/post/2018-04-22-site/</link>
+      <pubDate>Sun, 22 Apr 2018 09:24:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/en/post/2018-04-22-site/</guid>
+      <description>Welcome to the new site of INSTEAD – interpreter of simple text adventures for Unix and Windows!
+It is extremaly minimal now.</description>
+    </item>
     
     <item>
       <title>Forum has moved</title>
@@ -59,7 +69,7 @@ This games are mix of interactive ficrtion, visual novels and classic point &amp
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>https://instead-hub.github.io/en/download/</guid>
-      <description> Download Version 3.2.1
+      <description> Download Version 3.2.0
     Installer for Windows (.exe file) Archive for Windows (unpack and run)     PPA repository for Ubuntu     OS X     Sources     Others     </description>
     </item>
     
