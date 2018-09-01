@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2018</copyright>
-    <lastBuildDate>Sun, 22 Apr 2018 09:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 07:18:00 +0000</lastBuildDate>
     
 	<atom:link href="https://instead-hub.github.io/en/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>INSTEAD 3.2.2</title>
+      <link>https://instead-hub.github.io/en/post/2018-09-01-instead-3-2-2/</link>
+      <pubDate>Sat, 01 Sep 2018 07:18:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/en/post/2018-09-01-instead-3-2-2/</guid>
+      <description>INSTEAD 3.2.2 is out! Changes are:
+ new: mobile theme; new: -lang parameter; new: -notheme parameter; new: instead.screen_size(); enh: themes cleanups; new: cmake and LuaJIT build (-DWITH_LUAJIT=1); enh: autosave in emscripten build; enh: load status in emscripten build; new: machine-translated English manual; fix: Lua5.</description>
+    </item>
     
     <item>
       <title>INSTEAD3 new website</title>
@@ -79,7 +89,7 @@ These games are mix of interactive fiction, visual novels and classic point &amp
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>https://instead-hub.github.io/en/download/</guid>
-      <description> Download Version 3.2.1
+      <description> Download Version 3.2.2
     Installer for Windows (.exe file) Archive for Windows (unpack and run)     PPA repository for Ubuntu     OS X     Sources     Others     </description>
     </item>
     

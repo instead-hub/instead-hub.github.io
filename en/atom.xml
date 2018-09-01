@@ -4,12 +4,24 @@
 	<link href="https://instead-hub.github.io/en/atom.xml" rel="self"/>
 	<link href="https://instead-hub.github.io/en/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2018-04-22T09:24:00+00:00</updated>
+	<updated>2018-09-01T07:18:00+00:00</updated>
 	<id>https://instead-hub.github.io/en/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>INSTEAD 3.2.2</title>
+    <link href="https://instead-hub.github.io/en/post/2018-09-01-instead-3-2-2/"/>
+	<id>https://instead-hub.github.io/en/post/2018-09-01-instead-3-2-2/</id>
+    <published>2018-09-01T07:18:00+00:00</published>
+    <updated>2018-09-01T07:18:00+00:00</updated>
+	<content type="html"><![CDATA[
+INSTEAD 3.2.2 is out! Changes are:
+ new: mobile theme; new: -lang parameter; new: -notheme parameter; new: instead.screen_size(); enh: themes cleanups; new: cmake and LuaJIT build (-DWITH_LUAJIT=1); enh: autosave in emscripten build; enh: load status in emscripten build; new: machine-translated English manual; fix: Lua5.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>INSTEAD3 new website</title>
     <link href="https://instead-hub.github.io/en/post/2018-04-22-site/"/>
@@ -88,7 +100,7 @@ These games are mix of interactive fiction, visual novels and classic point &amp
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
- Download Version 3.2.1
+ Download Version 3.2.2
     Installer for Windows (.exe file) Archive for Windows (unpack and run)     PPA repository for Ubuntu     OS X     Sources     Others     
 ]]></content>
   </entry>

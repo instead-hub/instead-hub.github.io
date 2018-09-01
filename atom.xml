@@ -4,12 +4,24 @@
 	<link href="https://instead-hub.github.io/atom.xml" rel="self"/>
 	<link href="https://instead-hub.github.io/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2018-04-22T09:24:00+00:00</updated>
+	<updated>2018-09-01T07:18:00+00:00</updated>
 	<id>https://instead-hub.github.io/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>INSTEAD 3.2.2</title>
+    <link href="https://instead-hub.github.io/post/2018-09-01-instead-3-2-2/"/>
+	<id>https://instead-hub.github.io/post/2018-09-01-instead-3-2-2/</id>
+    <published>2018-09-01T07:18:00+00:00</published>
+    <updated>2018-09-01T07:18:00+00:00</updated>
+	<content type="html"><![CDATA[
+Выпущен INSTEAD 3.2.2. Список изменений:
+ переработаны некоторые игровые темы, добавлена тема &ldquo;Мобильная&rdquo;; параметр -lang; параметр -notheme; функция instead.screen_size() (модуль autotheme в stead3-modules); сборка с LuaJIT в cmake (-DWITH_LUAJIT=1); улучшения в emscripten версии (автосохранение, статус загрузки); документация на английском; исправлена совместимость с Lua5.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>Новая страница INSTEAD3</title>
     <link href="https://instead-hub.github.io/post/2018-04-22-site/"/>
@@ -157,7 +169,7 @@ http://instead.syscall.ru Когда просматриваешь старые �
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
- Скачать Версия 3.2.1
+ Скачать Версия 3.2.2
     Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить)     PPA репозиторий для Ubuntu     Версия для OSX     Исходный код     Другие пакеты     
 ]]></content>
   </entry>

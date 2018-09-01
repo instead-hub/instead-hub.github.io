@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2018</copyright>
-    <lastBuildDate>Sun, 22 Apr 2018 09:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 07:18:00 +0000</lastBuildDate>
     
 	<atom:link href="https://instead-hub.github.io/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>INSTEAD 3.2.2</title>
+      <link>https://instead-hub.github.io/post/2018-09-01-instead-3-2-2/</link>
+      <pubDate>Sat, 01 Sep 2018 07:18:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/post/2018-09-01-instead-3-2-2/</guid>
+      <description>Выпущен INSTEAD 3.2.2. Список изменений:
+ переработаны некоторые игровые темы, добавлена тема &amp;ldquo;Мобильная&amp;rdquo;; параметр -lang; параметр -notheme; функция instead.screen_size() (модуль autotheme в stead3-modules); сборка с LuaJIT в cmake (-DWITH_LUAJIT=1); улучшения в emscripten версии (автосохранение, статус загрузки); документация на английском; исправлена совместимость с Lua5.</description>
+    </item>
     
     <item>
       <title>Новая страница INSTEAD3</title>
