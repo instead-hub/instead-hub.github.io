@@ -4,12 +4,23 @@
 	<link href="https://instead-hub.github.io/atom.xml" rel="self"/>
 	<link href="https://instead-hub.github.io/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2018-09-01T07:18:00+00:00</updated>
+	<updated>2018-10-11T00:00:00+00:00</updated>
 	<id>https://instead-hub.github.io/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>МЕТАПАРСЕР3</title>
+    <link href="https://instead-hub.github.io/page/metaparser/"/>
+	<id>https://instead-hub.github.io/page/metaparser/</id>
+    <published>2018-10-11T00:00:00+00:00</published>
+    <updated>2018-10-11T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Модуль для создания игр с текстовым вводом МЕТАПАСРЕР3 (далее, МП3) &ndash; модуль INSTEAD3, который позволяет создавать игры с текстовым вводом на русском и английском языках.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>INSTEAD 3.2.2</title>
     <link href="https://instead-hub.github.io/post/2018-09-01-instead-3-2-2/"/>

@@ -9,10 +9,19 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2018</copyright>
-    <lastBuildDate>Sat, 01 Sep 2018 07:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://instead-hub.github.io/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>МЕТАПАРСЕР3</title>
+      <link>https://instead-hub.github.io/page/metaparser/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/page/metaparser/</guid>
+      <description>Модуль для создания игр с текстовым вводом МЕТАПАСРЕР3 (далее, МП3) &amp;ndash; модуль INSTEAD3, который позволяет создавать игры с текстовым вводом на русском и английском языках.</description>
+    </item>
     
     <item>
       <title>INSTEAD 3.2.2</title>

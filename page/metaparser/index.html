@@ -2,16 +2,13 @@
 <html lang="ru">
 <head>
 	<title>
-		Posts - INSTEAD
+		МЕТАПАРСЕР3 - INSTEAD
 	</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index,follow">
 	<base href="https://instead-hub.github.io/">
-	<link rel="canonical" href="https://instead-hub.github.io/post/"> 
-
-	<link rel="alternate" type="application/rss" 
-	      href="https://instead-hub.github.io/post/rss.xml" title="INSTEAD">
+	<link rel="canonical" href="https://instead-hub.github.io/page/metaparser/">
 	<link rel="preload" href="https://instead-hub.github.io/css/smorg.css" as="style">
 	<link rel="stylesheet" href="https://instead-hub.github.io/css/smorg.css">
 	<meta name="generator" content="Hugo 0.41-DEV" />
@@ -53,64 +50,60 @@
 			</div>
 		</div>
 	</nav>
-<section class="section" itemscope itemtype="http://schema.org/AboutPage">
+<section class="section" itemscope itemtype="http://schema.org/WebPage">
 	<div class="container">
 		<div class="columns">
 			<div class="column is-8 is-offset-2">
 				<article class="content">
-				<h1 class="title">Блог</h1>
-				
-				<article>
-    <header>
-		<h1 class="title is-4"><a href="https://instead-hub.github.io/post/2018-09-01-instead-3-2-2/">INSTEAD 3.2.2</a> </h1>
-		<p class="subtitle has-text-grey-light is-6">
-		
-<time datetime="2018-09-01">01.09.2018</time>
-</p>
-    </header>
-	Выпущен INSTEAD 3.2.2. Список изменений:
- переработаны некоторые игровые темы, добавлена тема &ldquo;Мобильная&rdquo;; параметр -lang; параметр -notheme; функция instead.screen_size() (модуль autotheme в stead3-modules); сборка с LuaJIT в cmake (-DWITH_LUAJIT=1); улучшения в emscripten версии (автосохранение, статус загрузки); документация на английском; исправлена совместимость с Lua5. <a href='https://instead-hub.github.io/post/2018-09-01-instead-3-2-2/'><nobr>Дальше (100 слов)...</nobr></a>
-  <footer>
-  </footer>
-</article>
-<br>
+					<h1 class="title is-3">МЕТАПАРСЕР3</h1>
+					<p class="subtitle is-6 has-text-grey"><em>
+<br></em></p>
 
-				
-				<article>
-    <header>
-		<h1 class="title is-4"><a href="https://instead-hub.github.io/post/2018-04-22-site/">Новая страница INSTEAD3</a> </h1>
-		<p class="subtitle has-text-grey-light is-6">
-		
-<time datetime="2018-04-22">22.04.2018</time>
-</p>
-    </header>
-	Если вы читаете это сообщение, значит вы находитесь на новом сайте INSTEAD3.
-Кроме того, что сайт стал экстремально простым (он прекрасно смотрится в w3m), в работе ресурсов INSTEAD произошли следующие изменения: <a href='https://instead-hub.github.io/post/2018-04-22-site/'><nobr>Дальше (100 слов)...</nobr></a>
-  <footer>
-  </footer>
-</article>
-<br>
 
-				
-				<article>
-    <header>
-		<h1 class="title is-4"><a href="https://instead-hub.github.io/post/2018-03-02-forum/">Форум переехал</a> </h1>
-		<p class="subtitle has-text-grey-light is-6">
-		
-<time datetime="2018-03-02">02.03.2018</time>
-</p>
-    </header>
-	Друзья, то о чем так долго говорили &ndash; произошло! Форум переезжает на площадку http://instead-games.ru/forum
-Администратором форума становится spline. (Andrew Lobanov) Я (автор INSTEAD) становлюсь просто рядовым пользователем этого ресурса. <a href='https://instead-hub.github.io/post/2018-03-02-forum/'><nobr>Дальше (200 слов)...</nobr></a>
-  <footer>
-  </footer>
-</article>
-<br>
+<h1 id="модуль-для-создания-игр-с-текстовым-вводом">Модуль для создания игр с текстовым вводом</h1>
 
-				
+<p><strong>МЕТАПАСРЕР3</strong> (далее, МП3) &ndash; <a href="https://github.com/instead-hub/stead3-modules">модуль</a> INSTEAD3, который позволяет
+создавать игры с текстовым вводом на русском и английском языках.</p>
+
+<p><img src="/screenshots/mars.png" alt="Текстовое приключение" /></p>
+
+<p>Игры с текстовым вводом представляют из себя самостоятельный жанр,
+поэтому МП3 превращает INSTEAD3 в <em>инструмент с особой
+специализацией</em>. На данной странице предоставлена информация о модуле МП3,
+а также стабильные выпуски модуля.</p>
+
+<h2 id="особенности">Особенности:</h2>
+
+<ul>
+<li>Изначально предназначен для разработки игр на русском языке;</li>
+<li>Морфологический анализ выполняется с помощью словаря;</li>
+<li>Доступны все мультимедийные возможности INSTEAD3;</li>
+<li>Ввод возможен как c клавиатуры, так и с помощью ссылок;</li>
+<li>Работает автодополнение ввода;</li>
+<li>Работает на всех платформах, поддерживаемых INSTEAD (включая веб);</li>
+<li>Большая библиотека для стандартных реакций;</li>
+<li>Режим подсказок ввода для неопытных игроков.</li>
+</ul>
+
+<hr />
+
+<p><img src="/screenshots/mars2.png" alt="Другой Марс" /></p>
+
+<h2 id="материалы">Материалы:</h2>
+
+<ul>
+<li><a href="https://gamin.me/posts/19616">Статья &ldquo;Другой Марс: парсер в 2018 году&rdquo;</a></li>
+<li><a href="https://instead.itch.io/mars">Игра Другой Марс на itch.io</a></li>
+<li><a href="https://github.com/instead-hub/stead3-modules/blob/master/metaparser/manual.md">Документация</a></li>
+<li><a href="https://github.com/instead-hub/stead3-modules/tree/master/metaparser">Исходный код</a></li>
+</ul>
+
+<h2 id="стабильные-версии">Стабильные версии:</h2>
+
+<p>Stay tuned&hellip;</p>
+
+
 				</article>
-				
-
 			</div>
 		</div>
 	</div>
@@ -139,8 +132,8 @@
 { 
 	"@context": "http://schema.org", 
 	"@type": "WebPage",
-	"@id": "https://instead-hub.github.io/post/",
-	"name": "Posts",
+	"@id": "https://instead-hub.github.io/page/metaparser/",
+	"name": "МЕТАПАРСЕР3",
 }
 </script>
 
