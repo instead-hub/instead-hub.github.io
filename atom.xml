@@ -4,12 +4,24 @@
 	<link href="https://instead-hub.github.io/atom.xml" rel="self"/>
 	<link href="https://instead-hub.github.io/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2018-10-13T10:10:00+00:00</updated>
+	<updated>2019-02-20T07:00:00+00:00</updated>
 	<id>https://instead-hub.github.io/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>С Днём Рождения, INSTEAD!</title>
+    <link href="https://instead-hub.github.io/post/2019-02-20-ten-years/"/>
+	<id>https://instead-hub.github.io/post/2019-02-20-ten-years/</id>
+    <published>2019-02-20T07:00:00+00:00</published>
+    <updated>2019-02-20T07:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Привет, друзья! Сегодня у нашего проекта юбилей. Ровно 10 лет назад вышла первая версия INSTEAD.
+Это серьезный возраст для любительского проекта.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>МЕТАПАРСЕР 0.9</title>
     <link href="https://instead-hub.github.io/post/2018-10-13-metaparser-0-9/"/>

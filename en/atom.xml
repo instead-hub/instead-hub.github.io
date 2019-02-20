@@ -4,12 +4,24 @@
 	<link href="https://instead-hub.github.io/en/atom.xml" rel="self"/>
 	<link href="https://instead-hub.github.io/en/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2018-09-01T07:18:00+00:00</updated>
+	<updated>2019-02-20T07:00:00+00:00</updated>
 	<id>https://instead-hub.github.io/en/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>Happy Birthday, INSTEAD!</title>
+    <link href="https://instead-hub.github.io/en/post/2019-02-20-ten-years/"/>
+	<id>https://instead-hub.github.io/en/post/2019-02-20-ten-years/</id>
+    <published>2019-02-20T07:00:00+00:00</published>
+    <updated>2019-02-20T07:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Hello friends! Today is our project anniversary. Exactly 10 years ago the first version of INSTEAD was released.
+This is a serious age for an amateur project.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>INSTEAD 3.2.2</title>
     <link href="https://instead-hub.github.io/en/post/2018-09-01-instead-3-2-2/"/>

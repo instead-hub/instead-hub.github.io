@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2019</copyright>
-    <lastBuildDate>Sat, 13 Oct 2018 10:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Feb 2019 07:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://instead-hub.github.io/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>С Днём Рождения, INSTEAD!</title>
+      <link>https://instead-hub.github.io/post/2019-02-20-ten-years/</link>
+      <pubDate>Wed, 20 Feb 2019 07:00:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/post/2019-02-20-ten-years/</guid>
+      <description>Привет, друзья! Сегодня у нашего проекта юбилей. Ровно 10 лет назад вышла первая версия INSTEAD.
+Это серьезный возраст для любительского проекта.</description>
+    </item>
     
     <item>
       <title>МЕТАПАРСЕР 0.9</title>

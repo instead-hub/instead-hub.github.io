@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2019</copyright>
-    <lastBuildDate>Sat, 01 Sep 2018 07:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Feb 2019 07:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://instead-hub.github.io/en/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Happy Birthday, INSTEAD!</title>
+      <link>https://instead-hub.github.io/en/post/2019-02-20-ten-years/</link>
+      <pubDate>Wed, 20 Feb 2019 07:00:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/en/post/2019-02-20-ten-years/</guid>
+      <description>Hello friends! Today is our project anniversary. Exactly 10 years ago the first version of INSTEAD was released.
+This is a serious age for an amateur project.</description>
+    </item>
     
     <item>
       <title>INSTEAD 3.2.2</title>

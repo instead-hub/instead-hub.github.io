@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://instead-hub.github.io/post/2019-02-20-ten-years/</loc>
+    <lastmod>2019-02-20T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://instead-hub.github.io/en/post/2019-02-20-ten-years/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://instead-hub.github.io/post/2019-02-20-ten-years/"
+                />
+  </url>
+  
+  <url>
     <loc>https://instead-hub.github.io/post/2018-10-13-metaparser-0-9/</loc>
     <lastmod>2018-10-13T10:10:00+00:00</lastmod>
   </url>
@@ -235,7 +250,7 @@
   
   <url>
     <loc>https://instead-hub.github.io/</loc>
-    <lastmod>2018-10-13T10:10:00+00:00</lastmod>
+    <lastmod>2019-02-20T07:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -271,7 +286,7 @@
   
   <url>
     <loc>https://instead-hub.github.io/post/</loc>
-    <lastmod>2018-10-13T10:10:00+00:00</lastmod>
+    <lastmod>2019-02-20T07:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
