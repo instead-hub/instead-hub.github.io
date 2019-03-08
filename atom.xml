@@ -4,12 +4,24 @@
 	<link href="https://instead-hub.github.io/atom.xml" rel="self"/>
 	<link href="https://instead-hub.github.io/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2019-02-20T07:00:00+00:00</updated>
+	<updated>2019-03-08T11:15:00+00:00</updated>
 	<id>https://instead-hub.github.io/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>INSTEAD 3.3.0</title>
+    <link href="https://instead-hub.github.io/post/2019-03-08-instead-3-3-0/"/>
+	<id>https://instead-hub.github.io/post/2019-03-08-instead-3-3-0/</id>
+    <published>2019-03-08T11:15:00+00:00</published>
+    <updated>2019-03-08T11:15:00+00:00</updated>
+	<content type="html"><![CDATA[
+Выпущен INSTEAD 3.3.0. Список изменений:
+ возможность принимать unicode символы при вводе (SDL2, метапарсер3); tiny instead вариант для метапарсера3; боты для telegram, vk и discord (golang); улучшена английская документация; улучшен Android порт (от Бориса Тимофеева); исправлена ошибка сортировки при list:add(); исправлены замечания при компиляции; исправлена ошибка при освобождении темы (падение); улучшен клавиатурный ввод; emscripten версия собрана в режиме WASM.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>С Днём Рождения, INSTEAD!</title>
     <link href="https://instead-hub.github.io/post/2019-02-20-ten-years/"/>
@@ -204,8 +216,8 @@ http://instead.syscall.ru Когда просматриваешь старые �
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
- Скачать Версия 3.2.2
-    Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить)     PPA репозиторий для Ubuntu     Версия для OSX     Исходный код     Другие пакеты     
+ Скачать Версия 3.3.0
+    Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить)     PPA репозиторий для Ubuntu     Исходный код     Другие пакеты     
 ]]></content>
   </entry>
 	

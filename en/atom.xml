@@ -4,12 +4,24 @@
 	<link href="https://instead-hub.github.io/en/atom.xml" rel="self"/>
 	<link href="https://instead-hub.github.io/en/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2019-02-20T07:00:00+00:00</updated>
+	<updated>2019-03-08T11:15:00+00:00</updated>
 	<id>https://instead-hub.github.io/en/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>INSTEAD 3.3.0</title>
+    <link href="https://instead-hub.github.io/en/post/2019-03-08-instead-3-3-0/"/>
+	<id>https://instead-hub.github.io/en/post/2019-03-08-instead-3-3-0/</id>
+    <published>2019-03-08T11:15:00+00:00</published>
+    <updated>2019-03-08T11:15:00+00:00</updated>
+	<content type="html"><![CDATA[
+INSTEAD 3.3.0 is out! Changes are:
+ new: input:text() event; new: tiny instead for metaparser; new: telegram, vk and discord bots; enh: english documentation; enh: Android port; fix: list:add() and order; fix: some compilation warnings; fix: makefile and source code cleanups; fix: possible segfault; fix: do not eat keyboard input; enh: emscripten port builded with -s WASM=1  Binary builds will be available as soon as they are ready.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>Happy Birthday, INSTEAD!</title>
     <link href="https://instead-hub.github.io/en/post/2019-02-20-ten-years/"/>
@@ -112,8 +124,8 @@ These games are mix of interactive fiction, visual novels and classic point &amp
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
- Download Version 3.2.2
-    Installer for Windows (.exe file) Archive for Windows (unpack and run)     PPA repository for Ubuntu     OS X     Sources     Others     
+ Download Version 3.3.0
+    Installer for Windows (.exe file) Archive for Windows (unpack and run)     PPA repository for Ubuntu     Sources     Others     
 ]]></content>
   </entry>
 	

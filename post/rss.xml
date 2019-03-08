@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2019</copyright>
-    <lastBuildDate>Wed, 20 Feb 2019 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2019 11:15:00 +0000</lastBuildDate>
     
 	<atom:link href="https://instead-hub.github.io/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>INSTEAD 3.3.0</title>
+      <link>https://instead-hub.github.io/post/2019-03-08-instead-3-3-0/</link>
+      <pubDate>Fri, 08 Mar 2019 11:15:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>https://instead-hub.github.io/post/2019-03-08-instead-3-3-0/</guid>
+      <description>Выпущен INSTEAD 3.3.0. Список изменений:
+ возможность принимать unicode символы при вводе (SDL2, метапарсер3); tiny instead вариант для метапарсера3; боты для telegram, vk и discord (golang); улучшена английская документация; улучшен Android порт (от Бориса Тимофеева); исправлена ошибка сортировки при list:add(); исправлены замечания при компиляции; исправлена ошибка при освобождении темы (падение); улучшен клавиатурный ввод; emscripten версия собрана в режиме WASM.</description>
+    </item>
     
     <item>
       <title>С Днём Рождения, INSTEAD!</title>
