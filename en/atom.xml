@@ -1,19 +1,19 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>INSTEAD</title>
-	<link href="https://instead-hub.github.io/en/atom.xml" rel="self"/>
-	<link href="https://instead-hub.github.io/en/"/>
+	<link href="/en/atom.xml" rel="self"/>
+	<link href="/en/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
 	<updated>2019-03-08T11:15:00+00:00</updated>
-	<id>https://instead-hub.github.io/en/</id>
+	<id>/en/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
   <entry>
 	<title>INSTEAD 3.3.0</title>
-    <link href="https://instead-hub.github.io/en/post/2019-03-08-instead-3-3-0/"/>
-	<id>https://instead-hub.github.io/en/post/2019-03-08-instead-3-3-0/</id>
+    <link href="/en/post/2019-03-08-instead-3-3-0/"/>
+	<id>/en/post/2019-03-08-instead-3-3-0/</id>
     <published>2019-03-08T11:15:00+00:00</published>
     <updated>2019-03-08T11:15:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -24,8 +24,8 @@ INSTEAD 3.3.0 is out! Changes are:
 	
   <entry>
 	<title>Happy Birthday, INSTEAD!</title>
-    <link href="https://instead-hub.github.io/en/post/2019-02-20-ten-years/"/>
-	<id>https://instead-hub.github.io/en/post/2019-02-20-ten-years/</id>
+    <link href="/en/post/2019-02-20-ten-years/"/>
+	<id>/en/post/2019-02-20-ten-years/</id>
     <published>2019-02-20T07:00:00+00:00</published>
     <updated>2019-02-20T07:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -36,8 +36,8 @@ This is a serious age for an amateur project.
 	
   <entry>
 	<title>INSTEAD 3.2.2</title>
-    <link href="https://instead-hub.github.io/en/post/2018-09-01-instead-3-2-2/"/>
-	<id>https://instead-hub.github.io/en/post/2018-09-01-instead-3-2-2/</id>
+    <link href="/en/post/2018-09-01-instead-3-2-2/"/>
+	<id>/en/post/2018-09-01-instead-3-2-2/</id>
     <published>2018-09-01T07:18:00+00:00</published>
     <updated>2018-09-01T07:18:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -48,8 +48,8 @@ INSTEAD 3.2.2 is out! Changes are:
 	
   <entry>
 	<title>INSTEAD3 new website</title>
-    <link href="https://instead-hub.github.io/en/post/2018-04-22-site/"/>
-	<id>https://instead-hub.github.io/en/post/2018-04-22-site/</id>
+    <link href="/en/post/2018-04-22-site/"/>
+	<id>/en/post/2018-04-22-site/</id>
     <published>2018-04-22T09:24:00+00:00</published>
     <updated>2018-04-22T09:24:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -60,8 +60,8 @@ It is extremaly minimal now.
 	
   <entry>
 	<title>How to download and run game?</title>
-    <link href="https://instead-hub.github.io/en/page/games/"/>
-	<id>https://instead-hub.github.io/en/page/games/</id>
+    <link href="/en/page/games/"/>
+	<id>/en/page/games/</id>
     <published>2018-04-22T00:50:00+00:00</published>
     <updated>2018-04-22T00:50:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -72,8 +72,8 @@ Where to get? You can find games here:
 	
   <entry>
 	<title>Forum has moved</title>
-    <link href="https://instead-hub.github.io/en/post/2018-03-02-forum/"/>
-	<id>https://instead-hub.github.io/en/post/2018-03-02-forum/</id>
+    <link href="/en/post/2018-03-02-forum/"/>
+	<id>/en/post/2018-03-02-forum/</id>
     <published>2018-03-02T14:27:00+00:00</published>
     <updated>2018-03-02T14:27:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -84,8 +84,8 @@ See ya!
 	
   <entry>
 	<title>Screenshots</title>
-    <link href="https://instead-hub.github.io/en/page/screenshots/"/>
-	<id>https://instead-hub.github.io/en/page/screenshots/</id>
+    <link href="/en/page/screenshots/"/>
+	<id>/en/page/screenshots/</id>
     <published>2017-05-09T08:58:00+00:00</published>
     <updated>2017-05-09T08:58:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -95,8 +95,8 @@ Currently, there are a lot of games written with INSTEAD. Most of them are Russi
 	
   <entry>
 	<title>Contact</title>
-    <link href="https://instead-hub.github.io/en/contact/"/>
-	<id>https://instead-hub.github.io/en/contact/</id>
+    <link href="/en/contact/"/>
+	<id>/en/contact/</id>
     <published>2017-03-09T13:23:28+08:00</published>
     <updated>2017-03-09T13:23:28+08:00</updated>
 	<content type="html"><![CDATA[
@@ -107,8 +107,8 @@ Currently, there are a lot of games written with INSTEAD. Most of them are Russi
 	
   <entry>
 	<title>About</title>
-    <link href="https://instead-hub.github.io/en/about/"/>
-	<id>https://instead-hub.github.io/en/about/</id>
+    <link href="/en/about/"/>
+	<id>/en/about/</id>
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
@@ -119,8 +119,8 @@ These games are mix of interactive fiction, visual novels and classic point &amp
 	
   <entry>
 	<title>Download</title>
-    <link href="https://instead-hub.github.io/en/download/"/>
-	<id>https://instead-hub.github.io/en/download/</id>
+    <link href="/en/download/"/>
+	<id>/en/download/</id>
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
@@ -131,8 +131,8 @@ These games are mix of interactive fiction, visual novels and classic point &amp
 	
   <entry>
 	<title>Where are the articles?</title>
-    <link href="https://instead-hub.github.io/en/article/english/"/>
-	<id>https://instead-hub.github.io/en/article/english/</id>
+    <link href="/en/article/english/"/>
+	<id>/en/article/english/</id>
     <published>2010-05-09T08:58:00+00:00</published>
     <updated>2010-05-09T08:58:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -142,8 +142,8 @@ Currently, they are in Russian only&hellip;
 	
   <entry>
 	<title>Documentation</title>
-    <link href="https://instead-hub.github.io/en/doc/"/>
-	<id>https://instead-hub.github.io/en/doc/</id>
+    <link href="/en/doc/"/>
+	<id>/en/doc/</id>
     <published>0001-01-01T00:00:00+00:00</published>
     <updated>0001-01-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[

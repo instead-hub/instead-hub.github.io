@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on INSTEAD</title>
-    <link>https://instead-hub.github.io/en/page/</link>
+    <link>/en/page/</link>
     <description>Recent content in Pages on INSTEAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,25 +11,25 @@
     <copyright>&amp;copy; 2009-2019</copyright>
     <lastBuildDate>Sun, 22 Apr 2018 00:50:00 +0000</lastBuildDate>
     
-	<atom:link href="https://instead-hub.github.io/en/page/rss.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/page/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to download and run game?</title>
-      <link>https://instead-hub.github.io/en/page/games/</link>
+      <link>/en/page/games/</link>
       <pubDate>Sun, 22 Apr 2018 00:50:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/en/page/games/</guid>
+      <guid>/en/page/games/</guid>
       <description>Where to get? You can find games here:
  Some games on itch instead-games.ru repository  How to run? Manually You can download zip or idf file and select it from the INSTEAD menu.</description>
     </item>
     
     <item>
       <title>Screenshots</title>
-      <link>https://instead-hub.github.io/en/page/screenshots/</link>
+      <link>/en/page/screenshots/</link>
       <pubDate>Tue, 09 May 2017 08:58:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/en/page/screenshots/</guid>
+      <guid>/en/page/screenshots/</guid>
       <description>Currently, there are a lot of games written with INSTEAD. Most of them are Russians only, but some are translated to other languages.</description>
     </item>
     

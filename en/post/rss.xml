@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on INSTEAD</title>
-    <link>https://instead-hub.github.io/en/post/</link>
+    <link>/en/post/</link>
     <description>Recent content in Posts on INSTEAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,55 +11,55 @@
     <copyright>&amp;copy; 2009-2019</copyright>
     <lastBuildDate>Fri, 08 Mar 2019 11:15:00 +0000</lastBuildDate>
     
-	<atom:link href="https://instead-hub.github.io/en/post/rss.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/post/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>INSTEAD 3.3.0</title>
-      <link>https://instead-hub.github.io/en/post/2019-03-08-instead-3-3-0/</link>
+      <link>/en/post/2019-03-08-instead-3-3-0/</link>
       <pubDate>Fri, 08 Mar 2019 11:15:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/en/post/2019-03-08-instead-3-3-0/</guid>
+      <guid>/en/post/2019-03-08-instead-3-3-0/</guid>
       <description>INSTEAD 3.3.0 is out! Changes are:
  new: input:text() event; new: tiny instead for metaparser; new: telegram, vk and discord bots; enh: english documentation; enh: Android port; fix: list:add() and order; fix: some compilation warnings; fix: makefile and source code cleanups; fix: possible segfault; fix: do not eat keyboard input; enh: emscripten port builded with -s WASM=1  Binary builds will be available as soon as they are ready.</description>
     </item>
     
     <item>
       <title>Happy Birthday, INSTEAD!</title>
-      <link>https://instead-hub.github.io/en/post/2019-02-20-ten-years/</link>
+      <link>/en/post/2019-02-20-ten-years/</link>
       <pubDate>Wed, 20 Feb 2019 07:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/en/post/2019-02-20-ten-years/</guid>
+      <guid>/en/post/2019-02-20-ten-years/</guid>
       <description>Hello friends! Today is our project anniversary. Exactly 10 years ago the first version of INSTEAD was released.
 This is a serious age for an amateur project.</description>
     </item>
     
     <item>
       <title>INSTEAD 3.2.2</title>
-      <link>https://instead-hub.github.io/en/post/2018-09-01-instead-3-2-2/</link>
+      <link>/en/post/2018-09-01-instead-3-2-2/</link>
       <pubDate>Sat, 01 Sep 2018 07:18:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/en/post/2018-09-01-instead-3-2-2/</guid>
+      <guid>/en/post/2018-09-01-instead-3-2-2/</guid>
       <description>INSTEAD 3.2.2 is out! Changes are:
  new: mobile theme; new: -lang parameter; new: -notheme parameter; new: instead.screen_size(); enh: themes cleanups; new: cmake and LuaJIT build (-DWITH_LUAJIT=1); enh: autosave in emscripten build; enh: load status in emscripten build; new: machine-translated English manual; fix: Lua5.</description>
     </item>
     
     <item>
       <title>INSTEAD3 new website</title>
-      <link>https://instead-hub.github.io/en/post/2018-04-22-site/</link>
+      <link>/en/post/2018-04-22-site/</link>
       <pubDate>Sun, 22 Apr 2018 09:24:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/en/post/2018-04-22-site/</guid>
+      <guid>/en/post/2018-04-22-site/</guid>
       <description>Welcome to the new site of INSTEAD – interpreter of simple text adventures for Unix and Windows!
 It is extremaly minimal now.</description>
     </item>
     
     <item>
       <title>Forum has moved</title>
-      <link>https://instead-hub.github.io/en/post/2018-03-02-forum/</link>
+      <link>/en/post/2018-03-02-forum/</link>
       <pubDate>Fri, 02 Mar 2018 14:27:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/en/post/2018-03-02-forum/</guid>
+      <guid>/en/post/2018-03-02-forum/</guid>
       <description>Attention! Forum has moved to http://instead-games.ru/forum Please, update your bookmarks. ;)
 See ya!</description>
     </item>

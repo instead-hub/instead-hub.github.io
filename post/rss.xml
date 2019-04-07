@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on INSTEAD</title>
-    <link>https://instead-hub.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on INSTEAD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
@@ -11,65 +11,65 @@
     <copyright>&amp;copy; 2009-2019</copyright>
     <lastBuildDate>Fri, 08 Mar 2019 11:15:00 +0000</lastBuildDate>
     
-	<atom:link href="https://instead-hub.github.io/post/rss.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>INSTEAD 3.3.0</title>
-      <link>https://instead-hub.github.io/post/2019-03-08-instead-3-3-0/</link>
+      <link>/post/2019-03-08-instead-3-3-0/</link>
       <pubDate>Fri, 08 Mar 2019 11:15:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/post/2019-03-08-instead-3-3-0/</guid>
+      <guid>/post/2019-03-08-instead-3-3-0/</guid>
       <description>Выпущен INSTEAD 3.3.0. Список изменений:
  возможность принимать unicode символы при вводе (SDL2, метапарсер3); tiny instead вариант для метапарсера3; боты для telegram, vk и discord (golang); улучшена английская документация; улучшен Android порт (от Бориса Тимофеева); исправлена ошибка сортировки при list:add(); исправлены замечания при компиляции; исправлена ошибка при освобождении темы (падение); улучшен клавиатурный ввод; emscripten версия собрана в режиме WASM.</description>
     </item>
     
     <item>
       <title>С Днём Рождения, INSTEAD!</title>
-      <link>https://instead-hub.github.io/post/2019-02-20-ten-years/</link>
+      <link>/post/2019-02-20-ten-years/</link>
       <pubDate>Wed, 20 Feb 2019 07:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/post/2019-02-20-ten-years/</guid>
+      <guid>/post/2019-02-20-ten-years/</guid>
       <description>Привет, друзья! Сегодня у нашего проекта юбилей. Ровно 10 лет назад вышла первая версия INSTEAD.
 Это серьезный возраст для любительского проекта.</description>
     </item>
     
     <item>
       <title>МЕТАПАРСЕР 0.9</title>
-      <link>https://instead-hub.github.io/post/2018-10-13-metaparser-0-9/</link>
+      <link>/post/2018-10-13-metaparser-0-9/</link>
       <pubDate>Sat, 13 Oct 2018 10:10:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/post/2018-10-13-metaparser-0-9/</guid>
+      <guid>/post/2018-10-13-metaparser-0-9/</guid>
       <description>После продолжительного периода разработки и бета-тестирования, Выпущена первая стабильная версия модуля &amp;ldquo;МЕТАПАРСЕР3&amp;rdquo;.
 Модуль предназначен для создания игр с текстовым вводом.</description>
     </item>
     
     <item>
       <title>INSTEAD 3.2.2</title>
-      <link>https://instead-hub.github.io/post/2018-09-01-instead-3-2-2/</link>
+      <link>/post/2018-09-01-instead-3-2-2/</link>
       <pubDate>Sat, 01 Sep 2018 07:18:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/post/2018-09-01-instead-3-2-2/</guid>
+      <guid>/post/2018-09-01-instead-3-2-2/</guid>
       <description>Выпущен INSTEAD 3.2.2. Список изменений:
  переработаны некоторые игровые темы, добавлена тема &amp;ldquo;Мобильная&amp;rdquo;; параметр -lang; параметр -notheme; функция instead.screen_size() (модуль autotheme в stead3-modules); сборка с LuaJIT в cmake (-DWITH_LUAJIT=1); улучшения в emscripten версии (автосохранение, статус загрузки); документация на английском; исправлена совместимость с Lua5.</description>
     </item>
     
     <item>
       <title>Новая страница INSTEAD3</title>
-      <link>https://instead-hub.github.io/post/2018-04-22-site/</link>
+      <link>/post/2018-04-22-site/</link>
       <pubDate>Sun, 22 Apr 2018 09:24:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/post/2018-04-22-site/</guid>
+      <guid>/post/2018-04-22-site/</guid>
       <description>Если вы читаете это сообщение, значит вы находитесь на новом сайте INSTEAD3.
 Кроме того, что сайт стал экстремально простым (он прекрасно смотрится в w3m), в работе ресурсов INSTEAD произошли следующие изменения:</description>
     </item>
     
     <item>
       <title>Форум переехал</title>
-      <link>https://instead-hub.github.io/post/2018-03-02-forum/</link>
+      <link>/post/2018-03-02-forum/</link>
       <pubDate>Fri, 02 Mar 2018 14:27:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
-      <guid>https://instead-hub.github.io/post/2018-03-02-forum/</guid>
+      <guid>/post/2018-03-02-forum/</guid>
       <description>Друзья, то о чем так долго говорили &amp;ndash; произошло! Форум переезжает на площадку http://instead-games.ru/forum
 Администратором форума становится spline. (Andrew Lobanov) Я (автор INSTEAD) становлюсь просто рядовым пользователем этого ресурса.</description>
     </item>
