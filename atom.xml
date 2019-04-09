@@ -4,12 +4,24 @@
 	<link href="/atom.xml" rel="self"/>
 	<link href="/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2019-03-08T11:15:00+00:00</updated>
+	<updated>2019-04-09T09:56:00+00:00</updated>
 	<id>/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>МЕТАПАРСЕР-js 1.0</title>
+    <link href="/post/2019-04-09-metaparser-js-1.0/"/>
+	<id>/post/2019-04-09-metaparser-js-1.0/</id>
+    <published>2019-04-09T09:56:00+00:00</published>
+    <updated>2019-04-09T09:56:00+00:00</updated>
+	<content type="html"><![CDATA[
+Хорошие новости для любителей парсерных игр! Одновременно с выпуском МЕТАПАРСЕРА 1.4 выпущена специальная минимальная js версия интерпретатора парсерных игр!
+Посмотреть на то, как выглядят игры в этом формате можно в библиотеке парсерных игр: https://metaparser.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>INSTEAD 3.3.0</title>
     <link href="/post/2019-03-08-instead-3-3-0/"/>

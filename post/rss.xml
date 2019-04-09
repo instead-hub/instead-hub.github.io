@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2019</copyright>
-    <lastBuildDate>Fri, 08 Mar 2019 11:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2019 09:56:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>МЕТАПАРСЕР-js 1.0</title>
+      <link>/post/2019-04-09-metaparser-js-1.0/</link>
+      <pubDate>Tue, 09 Apr 2019 09:56:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/post/2019-04-09-metaparser-js-1.0/</guid>
+      <description>Хорошие новости для любителей парсерных игр! Одновременно с выпуском МЕТАПАРСЕРА 1.4 выпущена специальная минимальная js версия интерпретатора парсерных игр!
+Посмотреть на то, как выглядят игры в этом формате можно в библиотеке парсерных игр: https://metaparser.</description>
+    </item>
     
     <item>
       <title>INSTEAD 3.3.0</title>
