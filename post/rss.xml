@@ -9,10 +9,21 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2019</copyright>
-    <lastBuildDate>Tue, 09 Apr 2019 09:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 16:08:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>INSTEAD 3.3.1</title>
+      <link>/post/2019-10-04-instead-3-3-1/</link>
+      <pubDate>Fri, 04 Oct 2019 16:08:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/post/2019-10-04-instead-3-3-1/</guid>
+      <description>В связи с проблемой сборки INSTEAD с последней версией SDL2, экстренно выпущен INSTEAD 3.3.1.
+Изменения:
+ исправлена сборка с SDL 2.</description>
+    </item>
     
     <item>
       <title>МЕТАПАРСЕР-js 1.0</title>

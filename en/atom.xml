@@ -4,12 +4,24 @@
 	<link href="/en/atom.xml" rel="self"/>
 	<link href="/en/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2019-03-08T11:15:00+00:00</updated>
+	<updated>2019-10-04T16:08:00+00:00</updated>
 	<id>/en/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>INSTEAD 3.3.1</title>
+    <link href="/en/post/2019-10-04-instead-3-3-1/"/>
+	<id>/en/post/2019-10-04-instead-3-3-1/</id>
+    <published>2019-10-04T16:08:00+00:00</published>
+    <updated>2019-10-04T16:08:00+00:00</updated>
+	<content type="html"><![CDATA[
+INSTEAD 3.3.1 released:
+ fix: build with SDL 2.0.10; enh: discord bot can be sticked to channel(s); enh: english doc fixes;  This is source code only release.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>INSTEAD 3.3.0</title>
     <link href="/en/post/2019-03-08-instead-3-3-0/"/>
