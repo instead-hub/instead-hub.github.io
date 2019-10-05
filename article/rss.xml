@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2019</copyright>
-    <lastBuildDate>Sat, 04 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/article/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Мой инди проект длиной в 10 лет</title>
+      <link>/article/instead-10/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/article/instead-10/</guid>
+      <description>Статья была опубликована на dtf.ru.
+ Эту статью я собирался написать не один раз, но каждый раз &amp;ndash; откладывал.</description>
+    </item>
     
     <item>
       <title>ПРИНТЕД 4</title>
