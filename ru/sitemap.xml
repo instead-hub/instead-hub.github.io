@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2019-10-05-metaparser-1-6/</loc>
+    <lastmod>2019-10-05T05:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2019-10-04-instead-3-3-1/</loc>
     <lastmod>2019-10-04T16:08:00+00:00</lastmod>
     <xhtml:link
@@ -285,7 +290,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-10-04T16:08:00+00:00</lastmod>
+    <lastmod>2019-10-05T05:06:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -321,7 +326,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-10-04T16:08:00+00:00</lastmod>
+    <lastmod>2019-10-05T05:06:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

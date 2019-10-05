@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2019</copyright>
-    <lastBuildDate>Fri, 04 Oct 2019 16:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2019 05:06:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>МЕТАПАРСЕР 1.6</title>
+      <link>/post/2019-10-05-metaparser-1-6/</link>
+      <pubDate>Sat, 05 Oct 2019 05:06:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/post/2019-10-05-metaparser-1-6/</guid>
+      <description>Обновлён МЕТАПАРСЕР &amp;ndash; модуль для создания парсерных игр. Среди изменений:
+ улучшенная реакция на ошибки ввода; исправления в стандартной библиотеке.  Одновременно с этим обновлена также и js версия.</description>
+    </item>
     
     <item>
       <title>INSTEAD 3.3.1</title>
