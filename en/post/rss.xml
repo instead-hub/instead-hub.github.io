@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on INSTEAD</title>
@@ -8,11 +8,21 @@
     <language>en-us</language>
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
-    <copyright>&amp;copy; 2009-2019</copyright>
-    <lastBuildDate>Fri, 08 Mar 2019 11:15:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2009-2020</copyright>
+    <lastBuildDate>Fri, 04 Oct 2019 16:08:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>INSTEAD 3.3.1</title>
+      <link>/en/post/2019-10-04-instead-3-3-1/</link>
+      <pubDate>Fri, 04 Oct 2019 16:08:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/en/post/2019-10-04-instead-3-3-1/</guid>
+      <description>INSTEAD 3.3.1 released:
+ fix: build with SDL 2.0.10; enh: discord bot can be sticked to channel(s); enh: english doc fixes;  This is source code only release.</description>
+    </item>
     
     <item>
       <title>INSTEAD 3.3.0</title>
@@ -30,7 +40,7 @@
       <pubDate>Wed, 20 Feb 2019 07:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2019-02-20-ten-years/</guid>
-      <description>Hello friends! Today is our project anniversary. Exactly 10 years ago the first version of INSTEAD was released.
+      <description>Hello friends! Today is our project anniversary. Exactly 10 years ago [the first version of INSTEAD was released] (https://www.linux.org.ru/news/games/3518942).
 This is a serious age for an amateur project.</description>
     </item>
     
