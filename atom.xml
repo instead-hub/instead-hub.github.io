@@ -11,35 +11,215 @@
 		<email>gl00my@mail.ru</email>
 	</author>
   <entry>
-	<title>Posts</title>
-    <link href="/post/"/>
-	<id>/post/</id>
+	<title>МЕТАПАРСЕР 1.6</title>
+    <link href="/post/2019-10-05-metaparser-1-6/"/>
+	<id>/post/2019-10-05-metaparser-1-6/</id>
     <published>2019-10-05T05:06:00+00:00</published>
     <updated>2019-10-05T05:06:00+00:00</updated>
 	<content type="html"><![CDATA[
-
+Обновлён МЕТАПАРСЕР &ndash; модуль для создания парсерных игр. Среди изменений:
+ улучшенная реакция на ошибки ввода; исправления в стандартной библиотеке.  Одновременно с этим обновлена также и js версия.
 ]]></content>
   </entry>
 	
   <entry>
-	<title>Articles</title>
-    <link href="/article/"/>
-	<id>/article/</id>
+	<title>Мой инди проект длиной в 10 лет</title>
+    <link href="/article/instead-10/"/>
+	<id>/article/instead-10/</id>
     <published>2019-10-05T00:00:00+00:00</published>
     <updated>2019-10-05T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
-
+Статья была опубликована на dtf.ru.
+ Эту статью я собирался написать не один раз, но каждый раз &ndash; откладывал.
 ]]></content>
   </entry>
 	
   <entry>
-	<title>Pages</title>
-    <link href="/page/"/>
-	<id>/page/</id>
+	<title>INSTEAD 3.3.1</title>
+    <link href="/post/2019-10-04-instead-3-3-1/"/>
+	<id>/post/2019-10-04-instead-3-3-1/</id>
+    <published>2019-10-04T16:08:00+00:00</published>
+    <updated>2019-10-04T16:08:00+00:00</updated>
+	<content type="html"><![CDATA[
+В связи с проблемой сборки INSTEAD с последней версией SDL2, экстренно выпущен INSTEAD 3.3.1.
+Изменения:
+ исправлена сборка с SDL 2.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>МЕТАПАРСЕР-js 1.0</title>
+    <link href="/post/2019-04-09-metaparser-js-1.0/"/>
+	<id>/post/2019-04-09-metaparser-js-1.0/</id>
+    <published>2019-04-09T09:56:00+00:00</published>
+    <updated>2019-04-09T09:56:00+00:00</updated>
+	<content type="html"><![CDATA[
+Хорошие новости для любителей парсерных игр! Одновременно с выпуском МЕТАПАРСЕРА 1.4 выпущена специальная минимальная js версия интерпретатора парсерных игр!
+Посмотреть на то, как выглядят игры в этом формате можно в библиотеке парсерных игр: https://metaparser.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>INSTEAD 3.3.0</title>
+    <link href="/post/2019-03-08-instead-3-3-0/"/>
+	<id>/post/2019-03-08-instead-3-3-0/</id>
+    <published>2019-03-08T11:15:00+00:00</published>
+    <updated>2019-03-08T11:15:00+00:00</updated>
+	<content type="html"><![CDATA[
+Выпущен INSTEAD 3.3.0. Список изменений:
+ возможность принимать unicode символы при вводе (SDL2, метапарсер3); tiny instead вариант для метапарсера3; боты для telegram, vk и discord (golang); улучшена английская документация; улучшен Android порт (от Бориса Тимофеева); исправлена ошибка сортировки при list:add(); исправлены замечания при компиляции; исправлена ошибка при освобождении темы (падение); улучшен клавиатурный ввод; emscripten версия собрана в режиме WASM.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>С Днём Рождения, INSTEAD!</title>
+    <link href="/post/2019-02-20-ten-years/"/>
+	<id>/post/2019-02-20-ten-years/</id>
+    <published>2019-02-20T07:00:00+00:00</published>
+    <updated>2019-02-20T07:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Привет, друзья! Сегодня у нашего проекта юбилей. Ровно 10 лет назад вышла первая версия INSTEAD.
+Это серьезный возраст для любительского проекта.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>МЕТАПАРСЕР 0.9</title>
+    <link href="/post/2018-10-13-metaparser-0-9/"/>
+	<id>/post/2018-10-13-metaparser-0-9/</id>
+    <published>2018-10-13T10:10:00+00:00</published>
+    <updated>2018-10-13T10:10:00+00:00</updated>
+	<content type="html"><![CDATA[
+После продолжительного периода разработки и бета-тестирования, Выпущена первая стабильная версия модуля &ldquo;МЕТАПАРСЕР3&rdquo;.
+Модуль предназначен для создания игр с текстовым вводом.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>МЕТАПАРСЕР3</title>
+    <link href="/page/metaparser/"/>
+	<id>/page/metaparser/</id>
     <published>2018-10-11T00:00:00+00:00</published>
     <updated>2018-10-11T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
-
+Модуль для создания игр с текстовым вводом МЕТАПАРСЕР3 (далее, МП3) &ndash; модуль INSTEAD3, который позволяет создавать игры с текстовым вводом на русском и английском языках.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>INSTEAD 3.2.2</title>
+    <link href="/post/2018-09-01-instead-3-2-2/"/>
+	<id>/post/2018-09-01-instead-3-2-2/</id>
+    <published>2018-09-01T07:18:00+00:00</published>
+    <updated>2018-09-01T07:18:00+00:00</updated>
+	<content type="html"><![CDATA[
+Выпущен INSTEAD 3.2.2. Список изменений:
+ переработаны некоторые игровые темы, добавлена тема &ldquo;Мобильная&rdquo;; параметр -lang; параметр -notheme; функция instead.screen_size() (модуль autotheme в stead3-modules); сборка с LuaJIT в cmake (-DWITH_LUAJIT=1); улучшения в emscripten версии (автосохранение, статус загрузки); документация на английском; исправлена совместимость с Lua5.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Новая страница INSTEAD3</title>
+    <link href="/post/2018-04-22-site/"/>
+	<id>/post/2018-04-22-site/</id>
+    <published>2018-04-22T09:24:00+00:00</published>
+    <updated>2018-04-22T09:24:00+00:00</updated>
+	<content type="html"><![CDATA[
+Если вы читаете это сообщение, значит вы находитесь на новом сайте INSTEAD3.
+Кроме того, что сайт стал экстремально простым (он прекрасно смотрится в w3m), в работе ресурсов INSTEAD произошли следующие изменения:
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Как скачать и запустить игру?</title>
+    <link href="/page/games/"/>
+	<id>/page/games/</id>
+    <published>2018-04-22T00:50:00+00:00</published>
+    <updated>2018-04-22T00:50:00+00:00</updated>
+	<content type="html"><![CDATA[
+Где брать? Данный ресурс не содержит игр. Но вы можете найти их на следующих сайтах:
+ Некоторые игры на itch от автора INSTEAD Репозиторий instead-games.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Форум переехал</title>
+    <link href="/post/2018-03-02-forum/"/>
+	<id>/post/2018-03-02-forum/</id>
+    <published>2018-03-02T14:27:00+00:00</published>
+    <updated>2018-03-02T14:27:00+00:00</updated>
+	<content type="html"><![CDATA[
+Друзья, то о чем так долго говорили &ndash; произошло! Форум переезжает на площадку http://instead-games.ru/forum
+Администратором форума становится spline. (Andrew Lobanov) Я (автор INSTEAD) становлюсь просто рядовым пользователем этого ресурса.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>ПРИНТЕД 4</title>
+    <link href="/article/printed4/"/>
+	<id>/article/printed4/</id>
+    <published>2017-11-04T00:00:00+00:00</published>
+    <updated>2017-11-04T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+4 ноября 2017 г.
+http://instead.syscall.ru Когда просматриваешь старые электронные журналы, рассцвет которых в нашей стране пришелся на бум &ldquo;бытовых&rdquo; компьютеров, чувствуешь какую то странную ностальгию.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Понимание комикса</title>
+    <link href="/article/ponimanie-komiksa/"/>
+	<id>/article/ponimanie-komiksa/</id>
+    <published>2017-05-22T00:00:00+00:00</published>
+    <updated>2017-05-22T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+О работе &ldquo;Понимание комикса&rdquo; я впервые узнал из списка &ldquo;рекомендуемых вещей&rdquo; Брета Виктора. В этом списке имеется множество интересной литературы, но на наличие там комикса я внимания особого не обратил, списав на американскую специфику.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Скриншоты</title>
+    <link href="/page/screenshots/"/>
+	<id>/page/screenshots/</id>
+    <published>2017-05-09T08:58:00+00:00</published>
+    <updated>2017-05-09T08:58:00+00:00</updated>
+	<content type="html"><![CDATA[
+На данный момент под INSTEAD написано уже довольно много игр. Вы можете посмотреть на скриншоты некоторых из них.
+Возвращение квантового кота  Первая игра на INSTEAD &ndash; &ldquo;Возвращение квантового кота.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>12 правил для игр-приключений от Рона Гилберта</title>
+    <link href="/article/12-pravil/"/>
+	<id>/article/12-pravil/</id>
+    <published>2017-04-15T00:00:00+00:00</published>
+    <updated>2017-04-15T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+В далеком 1989 году, в журнале, который уже давно не существует (The Journal of Computer Game Design) была напечатана заметка Рона Гилберта (Monkey Island и проч.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Истоки систем интерактивного повествования</title>
+    <link href="/article/istoki-sistem/"/>
+	<id>/article/istoki-sistem/</id>
+    <published>2017-03-22T00:01:00+00:00</published>
+    <updated>2017-03-22T00:01:00+00:00</updated>
+	<content type="html"><![CDATA[
+Речь пойдет о разработках далекого прошлого, которые несут в себе существенные элементы систем интерактивного повествования (ИП).
+Морфология сказки (1928) Советский ученый, филолог-фольклорист В.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Wander: забытые истоки IF</title>
+    <link href="/article/wander/"/>
+	<id>/article/wander/</id>
+    <published>2017-03-22T00:00:00+00:00</published>
+    <updated>2017-03-22T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Введение Любой поклонник интерактивной литературы знает, что начало этому жанру положила знаменитая Colossal Cave Adventure (1975). Но текстовые игры на мэйнфреймах существовали и до нее.
 ]]></content>
   </entry>
 	
@@ -50,7 +230,7 @@
     <published>2017-03-09T13:23:28+08:00</published>
     <updated>2017-03-09T13:23:28+08:00</updated>
 	<content type="html"><![CDATA[
-Поддержи проект    
+ Поддержи проект    
 ]]></content>
   </entry>
 	
@@ -85,8 +265,94 @@
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
-Скачать Версия 3.3.1
+ Скачать Версия 3.3.1
     Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить)     PPA репозиторий для Ubuntu     Версия для OS X     Версия для Android     Исходный код     Другие пакеты     
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>ПРИНТЕД 3</title>
+    <link href="/article/printed3/"/>
+	<id>/article/printed3/</id>
+    <published>2016-02-20T00:00:00+00:00</published>
+    <updated>2016-02-20T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+20 февраля 2016 г.
+http://instead.syscall.ru
+Привет всем, кто на связи! Последний выпуск принтеда вышел уже почти год назад. Как я и обещал, выпуски ПРИНТЕДА без игр не имеют смысла, поэтому такой вот период молчания не стал неожиданностью.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>ПРИНТЕД 2</title>
+    <link href="/article/printed2/"/>
+	<id>/article/printed2/</id>
+    <published>2015-04-01T00:00:00+00:00</published>
+    <updated>2015-04-01T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+1 апреля 2015 г.
+http://instead.syscall.ru
+Привет всем, кто читает #2 выпуск ПРИНТЕДА! За этот месяц произошло не так много событий, так что выпуск будет коротенький.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>ПРИНТЕД 1</title>
+    <link href="/article/printed1/"/>
+	<id>/article/printed1/</id>
+    <published>2015-03-01T00:00:00+00:00</published>
+    <updated>2015-03-01T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+1 марта 2015 г.
+http://instead.syscall.ru
+Вот и наступила весна! А вместе с ней и новый выпуск ПРИНТЕДА. Теперь уже под цифрой #1, а как мы все понимаем, #1 это не #0!
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>ПРИНТЕД 0</title>
+    <link href="/article/printed0/"/>
+	<id>/article/printed0/</id>
+    <published>2015-02-01T00:00:00+00:00</published>
+    <updated>2015-02-01T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+1 февраля 2015 г.
+http://instead.syscall.ru
+Привет всем! Идея начать выпуск периодической сборки новостей, связанных с проектом INSTEAD, пришла ко мне во время чтения электронных газет на БК 0010 (теплых и ламповых!
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Обзор INSTEAD 1.2.0</title>
+    <link href="/article/2010-09-12-instead-1-2-0-review/"/>
+	<id>/article/2010-09-12-instead-1-2-0-review/</id>
+    <published>2010-09-12T09:08:00+00:00</published>
+    <updated>2010-09-12T09:08:00+00:00</updated>
+	<content type="html"><![CDATA[
+Выкладываю обзор INSTEAD, который был написан для журнала LGT непосредственно после выпуска версии 1.2.0.
+ Введение В августе была выпущена новая версия INSTEAD — интерпретатора простых текстовых приключенческих игр.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Как все начиналось</title>
+    <link href="/article/2010-05-09-history/"/>
+	<id>/article/2010-05-09-history/</id>
+    <published>2010-05-09T08:58:00+00:00</published>
+    <updated>2010-05-09T08:58:00+00:00</updated>
+	<content type="html"><![CDATA[
+Уже больше года назад, увидела свет первая публичная версия INSTEAD и игра «Возвращение квантового кота». В то же время я написал статью в электронный журнал LGT о том, как создавался движок…
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>INSTEAD Клуб</title>
+    <link href="/page/club/"/>
+	<id>/page/club/</id>
+    <published>0001-01-01T00:00:00+00:00</published>
+    <updated>0001-01-01T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Добро пожаловать! Что это? Уютное место для тех, кто устал от публичности. Для тех, кто хочет пообщаться в более неформальной обстановке.
 ]]></content>
   </entry>
 	

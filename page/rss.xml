@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on INSTEAD</title>
@@ -20,7 +20,7 @@
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/page/metaparser/</guid>
-      <description>Модуль для создания игр с текстовым вводом МЕТАПАСРЕР3 (далее, МП3) &amp;ndash; модуль INSTEAD3, который позволяет создавать игры с текстовым вводом на русском и английском языках.</description>
+      <description>Модуль для создания игр с текстовым вводом МЕТАПАРСЕР3 (далее, МП3) &amp;ndash; модуль INSTEAD3, который позволяет создавать игры с текстовым вводом на русском и английском языках.</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/page/screenshots/</guid>
       <description>На данный момент под INSTEAD написано уже довольно много игр. Вы можете посмотреть на скриншоты некоторых из них.
- Возвращение квантового кота  Первая игра на INSTEAD &amp;ndash; &amp;ldquo;Возвращение квантового кота.</description>
+Возвращение квантового кота  Первая игра на INSTEAD &amp;ndash; &amp;ldquo;Возвращение квантового кота.</description>
     </item>
     
     <item>
