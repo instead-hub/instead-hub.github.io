@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/post/2020-04-19-instead-3-3-2/</loc>
+    <lastmod>2020-04-19T10:10:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/post/2020-04-19-instead-3-3-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/2020-04-19-instead-3-3-2/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/post/2019-10-04-instead-3-3-1/</loc>
     <lastmod>2019-10-04T16:08:00+00:00</lastmod>
     <xhtml:link
@@ -219,7 +234,7 @@
   
   <url>
     <loc>/en/</loc>
-    <lastmod>2019-10-04T16:08:00+00:00</lastmod>
+    <lastmod>2020-04-19T10:10:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -251,7 +266,7 @@
   
   <url>
     <loc>/en/post/</loc>
-    <lastmod>2019-10-04T16:08:00+00:00</lastmod>
+    <lastmod>2020-04-19T10:10:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

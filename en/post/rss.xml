@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2020</copyright>
-    <lastBuildDate>Fri, 04 Oct 2019 16:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2020 10:10:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>INSTEAD 3.3.2</title>
+      <link>/en/post/2020-04-19-instead-3-3-2/</link>
+      <pubDate>Sun, 19 Apr 2020 10:10:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/en/post/2020-04-19-instead-3-3-2/</guid>
+      <description>INSTEAD 3.3.2 is out! Changes are:
+ fix: -lua parameter; fix: WM minimized state fix; fix: anigif and decorators fix; fix: gtk3 build warning; new: initial gamepad support; new: utf8 tiny library; enh: loadstring sandboxed; enh: stead3 debugger uses native text input; enh: doc fixes;  Binary builds will be available as soon as they are ready.</description>
+    </item>
     
     <item>
       <title>INSTEAD 3.3.1</title>
