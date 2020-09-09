@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>INSTEAD</title>
@@ -50,7 +50,7 @@
       <pubDate>Wed, 20 Feb 2019 07:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2019-02-20-ten-years/</guid>
-      <description>Hello friends! Today is our project anniversary. Exactly 10 years ago the first version of INSTEAD was released.
+      <description>Hello friends! Today is our project anniversary. Exactly 10 years ago [the first version of INSTEAD was released] (https://www.linux.org.ru/news/games/3518942).
 This is a serious age for an amateur project.</description>
     </item>
     
@@ -109,8 +109,8 @@ See ya!</description>
       <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/contact/</guid>
-      <description> Donations You may transfer some money for hosting. Thank you!
-   </description>
+      <description>Donations You may transfer some money for hosting. Thank you!
+  </description>
     </item>
     
     <item>
@@ -129,7 +129,7 @@ These games are mix of interactive fiction, visual novels and classic point &amp
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/download/</guid>
-      <description> Download Version 3.3.2
+      <description>Download Version 3.3.2
     Installer for Windows (.exe file) Archive for Windows (unpack and run)     PPA repository for Ubuntu     Repository for openSUSE     OS X     Android     Sources     Others     </description>
     </item>
     
