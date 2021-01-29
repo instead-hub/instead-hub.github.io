@@ -11,7 +11,7 @@
 	<link rel="canonical" href="/article/istoki-sistem/">
 	<link rel="preload" href="/css/smorg.css" as="style">
 	<link rel="stylesheet" href="/css/smorg.css">
-	<meta name="generator" content="Hugo 0.74.3" />
+	<meta name="generator" content="Hugo 0.54.0" />
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -61,90 +61,109 @@
 
 <br>Опубликовано 
 <time datetime="2017-03-22">22.03.2017</time></em></p>
+
+
 <p>Речь пойдет о разработках далекого прошлого, которые несут в себе существенные элементы систем интерактивного повествования (ИП).</p>
+
 <!-- pagebreak -->
+
 <h2 id="морфология-сказки-1928">Морфология сказки (1928)</h2>
+
 <p>Советский ученый, филолог-фольклорист В.Я. Пропп одним из первых начал анализировать морфологию текстов, их формальную сторону. Изучив структуру волшебных сказок, он выявил схему с 31 обобщенной функцией действующих лиц и однотипной последовательностью этих функций. С помощью соответствующей модели (иными словами — с помощью порождающей грамматики) получаются разнообразные варианты сказочных сюжетов.</p>
+
 <h2 id="saga-ii-1960">SAGA II (1960)</h2>
+
 <p>26 октября 1960 года в передаче «Thinking Machine» (см. раздел «Источники») канала CBS были показаны несколько сценок из жанра вестерн. Эти сюжеты созданы программой SAGA II (авторы Douglas Ross и Harrison Morse из MIT) на компьютере TX-O. Пользователь запускал программу командой «run» с параметром — затравкой для генератора псевдослучайных чисел. В процессе работы использовалось 16 переменных состояния (в духе: «шериф видит грабителя» или «дверь открыта»), а также множество «переключателей», которые производили вероятностный выбор между различными сюжетными ветвями. Примеры работы SAGA II можно обнаружить во втором томе «Искусства программирования» Д.Э. Кнута.</p>
+
 <h2 id="eliza-1966">ELIZA (1966)</h2>
+
 <p>Виртуальный психотерапевт ELIZA Дж. Вейценбаума в особенном представлении не нуждается. Программа реагирует на ключевые слова в сообщениях пользователя и отвечает, используя подходящие правила преобразования.</p>
+
 <h2 id="shrdlu-1968">SHRDLU (1968)</h2>
+
 <p>Удивительная программа SHRDLU Терри Винограда, как и ELIZA, представляет собой диалог с компьютером на естественном языке. Главная особенность SHRDLU в том, что эта программа действительно пытается понять пользователя, а не просто «притворяется», как в случае с детищем Вейценбаума. Секрет в том, что разговор с компьютером ведется в терминах «мира блоков», достаточно простых для восприятия машиной.</p>
+
 <h2 id="automatic-novel-writing-1973">Automatic Novel Writing (1973)</h2>
+
 <p>Программа Automated Novel Writer Шелдона Клейна выдавала «рассказы об убийствах на 2100 слов, глубоко проработанные, менее чем за 19 секунд». Герои могли иметь различные характеристики, а конкретные убийца и жертва варьировались. «Вселенная» рассказа представлялась в виде семантической сети, моделирующей объекты и отношения между ними. Изменения состояния «вселенной» порождали очередные порции текста.</p>
+
 <p>В 1974 году у Клейна вышла работа, где было описано применение той же системы к синтезу волшебных сказок по Проппу.</p>
+
 <h2 id="tale-spin-1976">TALE-SPIN (1976)</h2>
+
 <p>В программе TALE-SPIN (автор James Meehan) используется подход на основе постановки целей перед персонажами и последующего автоматического процесса движения по подзадачам к окончательным решениям. В базу знаний первоначально заносятся характеристики героев и окружающего мира, а также процедуры для решения различных частных задач. В этой системе нет предварительно подготовленных сюжетных фрагментов, и персонажи-агенты творят историю самостоятельно.</p>
+
 <h2 id="порождение-структур-волшебных-сказок-1980">Порождение структур волшебных сказок (1980)</h2>
+
 <p>Советский специалист по искусственному интеллекту М.Г. Гаазе-Рапопорт предложил свой алгоритм сочинения волшебных сказок на основе идей Проппа. Он основан на генерировании по нисходящему многоуровневому принципу: начиная с самых общих шаблонов (вариант экспозиции, основные константы сказки) и заканчивая конкретной глагольной структурой.</p>
+
 <h2 id="author-1981">AUTHOR (1981)</h2>
+
 <p>В своей статье Natalie Dehn противопоставляет подходу TALE-SPIN, основанному на моделировании мира и движении персонажей к своим целям, автороцентричный подход. Основу разработанной ей системы AUTHOR составляет моделирование поведения сочинителя: итеративное переформулирование целей, которые он перед собой ставит, а также вариантов их достижения.</p>
+
 <h2 id="hobbit-1982">Hobbit (1982)</h2>
+
 <p>Знаменитая текстовая игра для ZX Spectrum с непревзойденным даже сегодня уровнем моделирования мира.</p>
+
 <h2 id="universe-1983">UNIVERSE (1983)</h2>
+
 <p>Программа Universe (автор Michael Lebowitz) предназначена для сочинения сценариев бесконечных ТВ-сериалов. Сюжет генерируется на основе отдельных фрагментов, в которых описываются задачи и методы их достижения как со стороны персонажей, так и с точки зрения моделируемого сочинителя. Подход Universe имеет много достоинств и заслуживает самого внимательного изучения.</p>
-<h2 id="trust--betrayal-the-legacy-of-siboot-1987">Trust &amp; Betrayal: The Legacy of Siboot (1987)</h2>
+
+<h2 id="trust-betrayal-the-legacy-of-siboot-1987">Trust &amp; Betrayal: The Legacy of Siboot (1987)</h2>
+
 <p>Крис Кроуфорд — один из самых незаурядных ветеранов-разработчиков компьютерных игр. Еще в 1983 году он создал небольшую и очень оригинальную игру Gossip на тему социальных взаимоотношений. Trust &amp; Betrayal: The Legacy of Siboot можно считать развитием идей из Gossip. Кроуфорд называет героев своей игры «искусственными личностями», поскольку они обладают различными характерами, настроением, находятся в разнообразных взаимоотношениях. Для общения с персонажами игрок использует так называемый обратный парсер на основе пиктограмм.</p>
+
 <h2 id="заключение">Заключение</h2>
+
 <p>Выскажу несколько замечаний по поводу систем интерактивного повествования в целом. Современную ИП-систему и «мир блоков» древней SHRDLU роднит общая «камерность» виртуальной обстановки. Это неудивительно, ведь в подобных системах слишком легко возникает комбинаторный взрыв сюжетных вариантов. Также имеется существенная разница между автоматическим генерированием лабиринтов, планет, имен персонажей в обычных играх и тем, что происходит в ИП-системах. В последнем случае алгоритмы опираются на «литературность», а не на «реализм». Важна не «процедурная генерация» ландшафтов и «искусственной жизни», а то, как эта «жизнь» драматургически взаимодействует с игроком и другими компьютерными персонажами.</p>
+
 <p>Завершить этот текст мне бы хотелось парой слов об ИП-системах будущего. Вспомните, как бабушки рассказывают сказки своим внукам. Исходный сюжет часто меняется до неузнаваемости, слушатель и рассказчик воздействуют друг на друга. Теперь представьте себе игровой мир, игрока, а также рассказчика, роль которого выполняет компьютер. Рассказчик анализирует поведение игрока и в дело вступает обратная связь — сюжет становится более драматичным, захватывающим. Конечно же, пока совершенно неясно, как строить подобные вещи. Но поиграть в одну из таких систем будущего я бы не отказался. А вы?</p>
+
 <h2 id="источники">Источники</h2>
+
 <ol>
-<li>
-<p>Морфология сказки
-feb-web.ru/feb/classics/critics/propp/pms/pms-001-.htm</p>
-</li>
-<li>
-<p>«Memorandum 8436-M-29: Preliminary Operating Notes for SAGA II»
+<li><p>Морфология сказки
+feb-web.ru/feb/classics/critics/propp/pms/pms-001-.htm</p></li>
+
+<li><p>«Memorandum 8436-M-29: Preliminary Operating Notes for SAGA II»
 bitsavers.trailing-edge.com/pdf/mit/tx-0/memos/Morse_SAGAII_Oct60.pdf
 «An Account of Randomness in Literary Computing»
-<a href="http://www.samplereality.com/2013/01/08/an-account-of-randomness-in-literary-computing/">www.samplereality.com/2013/01/08/an-account-of-randomness-in-literary-computing/</a>
+www.samplereality.com/2013/01/08/an-account-of-randomness-in-literary-computing/
 «The Thinking Machine» (1961) — MIT Centennial Film
-techtv.mit.edu/videos/10268-the-thinking-machine-1961&mdash;mit-centennial-film</p>
-</li>
-<li>
-<p>«ELIZA&ndash;A Computer Program For the Study of Natural Language Communication Between Man and Machine»
-<a href="http://www.csee.umbc.edu/courses/331/papers/eliza.html">www.csee.umbc.edu/courses/331/papers/eliza.html</a></p>
-</li>
-<li>
-<p>SHRDLU hci.stanford.edu/winograd/shrdlu/</p>
-</li>
-<li>
-<p>«Automatic Novel Writing: A Status Report»
+techtv.mit.edu/videos/10268-the-thinking-machine-1961&mdash;mit-centennial-film</p></li>
+
+<li><p>«ELIZA&ndash;A Computer Program For the Study of Natural Language Communication Between Man and Machine»
+www.csee.umbc.edu/courses/331/papers/eliza.html</p></li>
+
+<li><p>SHRDLU hci.stanford.edu/winograd/shrdlu/</p></li>
+
+<li><p>«Automatic Novel Writing: A Status Report»
 minds.wisconsin.edu/bitstream/handle/1793/57816/TR186.pdf?sequence=1
 «Modelling Propp and Levi-Strauss in a meta-symbolic simulation system»
-<a href="ftp://ftp.cs.wisc.edu/pub/techreports/1974/TR226.pdf">ftp://ftp.cs.wisc.edu/pub/techreports/1974/TR226.pdf</a></p>
-</li>
-<li>
-<p>«TALE-SPIN, An Interactive Program that Writes Stories»
+<a href="ftp://ftp.cs.wisc.edu/pub/techreports/1974/TR226.pdf">ftp://ftp.cs.wisc.edu/pub/techreports/1974/TR226.pdf</a></p></li>
+
+<li><p>«TALE-SPIN, An Interactive Program that Writes Stories»
 gel.msu.edu/classes/tc848/papers/Meehan.Tale-Spin.pdf
 “The Story of Meehan’s Tale-Spin”
-grandtextauto.soe.ucsc.edu/2006/09/13/the-story-of-meehans-tale-spin/</p>
-</li>
-<li>
-<p>Гаазе-Рапопорт М.Г. Поиск вариантов в сочинении сказок. В кн. Зарипов Р.Х. Машинный поиск вариантов при моделировании творческого процесса. – М.: Наука, 1983. – 232 с.
-<a href="http://www.piano.ru/scores/books/zaripov.pdf">www.piano.ru/scores/books/zaripov.pdf</a></p>
-</li>
-<li>
-<p>&ldquo;Об автоматизации нетворческих литературных процессов&rdquo;, Карпов В.Э., Мещерякова Т.В.
-<a href="http://www.interface.ru/home.asp?artId=36317">www.interface.ru/home.asp?artId=36317</a></p>
-</li>
-<li>
-<p>«Story Generation After TALE-SPIN»
-nil.cs.uno.edu/publications/papers/dehn1981story.pdf</p>
-</li>
-<li>
-<p>«Story Telling as Planning and Learning»
+grandtextauto.soe.ucsc.edu/2006/09/13/the-story-of-meehans-tale-spin/</p></li>
+
+<li><p>Гаазе-Рапопорт М.Г. Поиск вариантов в сочинении сказок. В кн. Зарипов Р.Х. Машинный поиск вариантов при моделировании творческого процесса. – М.: Наука, 1983. – 232 с.
+www.piano.ru/scores/books/zaripov.pdf</p></li>
+
+<li><p>&ldquo;Об автоматизации нетворческих литературных процессов&rdquo;, Карпов В.Э., Мещерякова Т.В.
+www.interface.ru/home.asp?artId=36317</p></li>
+
+<li><p>«Story Generation After TALE-SPIN»
+nil.cs.uno.edu/publications/papers/dehn1981story.pdf</p></li>
+
+<li><p>«Story Telling as Planning and Learning»
 classes.soe.ucsc.edu/cmps148/Winter10/readings/LebowitzUniversePoetics14.pdf
 «Lebowitz’s Universe, part 1»
-grandtextauto.soe.ucsc.edu/2006/03/04/lebowitzs-universe-part-1/</p>
-</li>
-<li>
-<p>Trust &amp; Betrayal: The Legacy of Siboot
+grandtextauto.soe.ucsc.edu/2006/03/04/lebowitzs-universe-part-1/</p></li>
+
+<li><p>Trust &amp; Betrayal: The Legacy of Siboot
 «Blowing my Siboot-Horn»
-<a href="http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-1/blowing-my-siboot-horn.html">www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-1/blowing-my-siboot-horn.html</a></p>
-</li>
+www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-1/blowing-my-siboot-horn.html</p></li>
 </ol>
 
 
@@ -179,7 +198,7 @@ grandtextauto.soe.ucsc.edu/2006/03/04/lebowitzs-universe-part-1/</p>
 		<p class="has-text-grey is-size-7">
 		 Автор <a href="http://syscall.ru/">Петр Косых</a><br>
 			   
-		 &copy; 2009-2020<br>
+		 &copy; 2009-2021<br>
 			   
 		</p>
 	</div>
@@ -191,7 +210,7 @@ grandtextauto.soe.ucsc.edu/2006/03/04/lebowitzs-universe-part-1/</p>
 { 
 	"@context": "http://schema.org", 
 	"@type": "WebPage",
-	"@id": "\/article\/istoki-sistem\/",
+	"@id": "/article/istoki-sistem/",
 	"name": "Истоки систем интерактивного повествования",,
 	"author": { 
 		"@type": "Person", 

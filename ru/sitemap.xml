@@ -1,21 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-04-19T10:10:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/"
-                />
-  </url>
   
   <url>
     <loc>/post/2020-04-19-instead-3-3-2/</loc>
@@ -33,38 +18,8 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-04-19T10:10:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/post/"
-                />
-  </url>
-  
-  <url>
     <loc>/post/2019-10-05-metaparser-1-6/</loc>
     <lastmod>2019-10-05T05:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/article/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/article/"
-                />
   </url>
   
   <url>
@@ -125,21 +80,6 @@
   <url>
     <loc>/post/2018-10-13-metaparser-0-9/</loc>
     <lastmod>2018-10-13T10:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page/</loc>
-    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/page/"
-                />
   </url>
   
   <url>
@@ -204,26 +144,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/post/2018-03-02-forum/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/printed/</loc>
-    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/tags/"
                 />
   </url>
   
@@ -358,7 +278,24 @@
   </url>
   
   <url>
+    <loc>/article/</loc>
+    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/article/"
+                />
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -372,7 +309,77 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-04-19T10:10:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/"
+                />
+  </url>
+  
+  <url>
     <loc>/page/club/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-04-19T10:10:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/printed/</loc>
+    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/tags/"
+                />
   </url>
   
 </urlset>
