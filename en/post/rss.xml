@@ -20,7 +20,7 @@
       <pubDate>Wed, 10 Feb 2021 11:03:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2021-02-10-instead-3-3-3/</guid>
-      <description>INSTEAD 3.3.2 is out! Changes are:
+      <description>INSTEAD 3.3.3 is out! Changes are:
  new: scr.col.brd in theme.ini; new: rtl support (_USE_HARFBUZZ and new SDL_ttf needed); new: instead.</description>
     </item>
     
