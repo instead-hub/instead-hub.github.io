@@ -4,12 +4,24 @@
 	<link href="/atom.xml" rel="self"/>
 	<link href="/"/>
 	<generator uri="https://gohugo.io/" version="hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2020-04-19T10:10:00+00:00</updated>
+	<updated>2021-02-10T11:03:00+00:00</updated>
 	<id>/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>INSTEAD 3.3.3</title>
+    <link href="/post/2021-02-10-instead-3-3-3/"/>
+	<id>/post/2021-02-10-instead-3-3-3/</id>
+    <published>2021-02-10T11:03:00+00:00</published>
+    <updated>2021-02-10T11:03:00+00:00</updated>
+	<content type="html"><![CDATA[
+Выпущен INSTEAD 3.3.3. Список изменений:
+ добавлен параметр темы scr.col.brd (цвет бордюра); поддержка RTL (при сборке с _USE_HARFBUZZ и новым SDL_ttf); добавлен флаг instead.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>INSTEAD 3.3.2</title>
     <link href="/post/2020-04-19-instead-3-3-2/"/>
@@ -277,7 +289,7 @@ http://instead.syscall.ru Когда просматриваешь старые �
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
- Скачать Версия 3.3.2
+ Скачать Версия 3.3.3
     Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить)     PPA репозиторий для Ubuntu     Репозиторий для openSUSE     Версия для OS X     Версия для Android     Исходный код     Другие пакеты     
 ]]></content>
   </entry>

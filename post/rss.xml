@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2021</copyright>
-    <lastBuildDate>Sun, 19 Apr 2020 10:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 11:03:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>INSTEAD 3.3.3</title>
+      <link>/post/2021-02-10-instead-3-3-3/</link>
+      <pubDate>Wed, 10 Feb 2021 11:03:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/post/2021-02-10-instead-3-3-3/</guid>
+      <description>Выпущен INSTEAD 3.3.3. Список изменений:
+ добавлен параметр темы scr.col.brd (цвет бордюра); поддержка RTL (при сборке с _USE_HARFBUZZ и новым SDL_ttf); добавлен флаг instead.</description>
+    </item>
     
     <item>
       <title>INSTEAD 3.3.2</title>
