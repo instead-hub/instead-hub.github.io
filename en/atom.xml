@@ -4,12 +4,25 @@
 	<link href="/en/atom.xml" rel="self"/>
 	<link href="/en/"/>
 	<generator uri="https://gohugo.io/" version="hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2021-02-10T11:03:00+00:00</updated>
+	<updated>2021-03-10T12:03:00+00:00</updated>
 	<id>/en/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>DNS name changing!</title>
+    <link href="/en/post/2021-03-10-hugeping/"/>
+	<id>/en/post/2021-03-10-hugeping/</id>
+    <published>2021-03-10T12:03:00+00:00</published>
+    <updated>2021-03-10T12:03:00+00:00</updated>
+	<content type="html"><![CDATA[
+ATTENTION! The INSTEAD project page will not be available at: https://instead.syscall.ru anymore!
+New address: https://instead.hugeping.ru.
+Also, as usual, this address works: https://instead-hub.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>INSTEAD 3.3.3</title>
     <link href="/en/post/2021-02-10-instead-3-3-3/"/>

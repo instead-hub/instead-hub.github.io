@@ -9,10 +9,21 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2021</copyright>
-    <lastBuildDate>Wed, 10 Feb 2021 11:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 12:03:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DNS name changing!</title>
+      <link>/en/post/2021-03-10-hugeping/</link>
+      <pubDate>Wed, 10 Mar 2021 12:03:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/en/post/2021-03-10-hugeping/</guid>
+      <description>ATTENTION! The INSTEAD project page will not be available at: https://instead.syscall.ru anymore!
+New address: https://instead.hugeping.ru.
+Also, as usual, this address works: https://instead-hub.</description>
+    </item>
     
     <item>
       <title>INSTEAD 3.3.3</title>
