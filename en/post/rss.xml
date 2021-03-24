@@ -9,10 +9,20 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2021</copyright>
-    <lastBuildDate>Wed, 10 Mar 2021 12:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 07:35:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/post/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>INSTEAD 3.3.4</title>
+      <link>/en/post/2021-03-24-instead-3-3-4/</link>
+      <pubDate>Wed, 24 Mar 2021 07:35:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/en/post/2021-03-24-instead-3-3-4/</guid>
+      <description>Regression found in version 3.3.3! So, the INSTEAD 3.3.4 is out:
+ regression with direct mode fixed; emscripten build is done with older emscripten version (compatibility with old browsers).</description>
+    </item>
     
     <item>
       <title>DNS name changing!</title>

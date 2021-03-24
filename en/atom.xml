@@ -4,12 +4,24 @@
 	<link href="/en/atom.xml" rel="self"/>
 	<link href="/en/"/>
 	<generator uri="https://gohugo.io/" version="hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2021-03-10T12:03:00+00:00</updated>
+	<updated>2021-03-24T07:35:00+00:00</updated>
 	<id>/en/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>INSTEAD 3.3.4</title>
+    <link href="/en/post/2021-03-24-instead-3-3-4/"/>
+	<id>/en/post/2021-03-24-instead-3-3-4/</id>
+    <published>2021-03-24T07:35:00+00:00</published>
+    <updated>2021-03-24T07:35:00+00:00</updated>
+	<content type="html"><![CDATA[
+Regression found in version 3.3.3! So, the INSTEAD 3.3.4 is out:
+ regression with direct mode fixed; emscripten build is done with older emscripten version (compatibility with old browsers).
+]]></content>
+  </entry>
+	
   <entry>
 	<title>DNS name changing!</title>
     <link href="/en/post/2021-03-10-hugeping/"/>
@@ -173,7 +185,7 @@ These games are mix of interactive fiction, visual novels and classic point &amp
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
- Download Version 3.3.3
+ Download Version 3.3.4
     Installer for Windows (.exe file) Archive for Windows (unpack and run)     PPA repository for Ubuntu     Repository for openSUSE     OS X     Android     Sources     Others     
 ]]></content>
   </entry>

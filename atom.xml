@@ -4,12 +4,24 @@
 	<link href="/atom.xml" rel="self"/>
 	<link href="/"/>
 	<generator uri="https://gohugo.io/" version="hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2021-03-10T12:03:00+00:00</updated>
+	<updated>2021-03-24T07:35:00+00:00</updated>
 	<id>/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
+  <entry>
+	<title>INSTEAD 3.3.4</title>
+    <link href="/post/2021-03-24-instead-3-3-4/"/>
+	<id>/post/2021-03-24-instead-3-3-4/</id>
+    <published>2021-03-24T07:35:00+00:00</published>
+    <updated>2021-03-24T07:35:00+00:00</updated>
+	<content type="html"><![CDATA[
+В связи с тем, что в версии 3.3.4 выявлена неприятная регрессия, выпущен INSTEAD 3.3.4. Список изменений:
+ исправлена регрессия при работе в direct режиме; emscripten версия собрана с более старым emscripten для совместимости со старыми браузерами.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>Смена доменного имени</title>
     <link href="/post/2021-03-10-hugeping/"/>
@@ -303,7 +315,7 @@ http://instead.hugeping.ru Когда просматриваешь старые 
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
- Скачать Версия 3.3.3
+ Скачать Версия 3.3.4
     Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить)     PPA репозиторий для Ubuntu     Репозиторий для openSUSE     Версия для OS X     Версия для Android     Исходный код     Другие пакеты     
 ]]></content>
   </entry>
