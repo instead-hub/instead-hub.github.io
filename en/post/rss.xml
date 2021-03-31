@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on INSTEAD</title>
@@ -9,7 +9,11 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2021</copyright>
-    <lastBuildDate>Wed, 24 Mar 2021 07:35:00 +0000</lastBuildDate><atom:link href="/en/post/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Mar 2021 07:35:00 +0000</lastBuildDate>
+    
+	<atom:link href="/en/post/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>INSTEAD 3.3.4</title>
       <link>/en/post/2021-03-24-instead-3-3-4/</link>
@@ -77,7 +81,7 @@ Also, as usual, this address works: https://instead-hub.</description>
       <pubDate>Wed, 20 Feb 2019 07:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2019-02-20-ten-years/</guid>
-      <description>Hello friends! Today is our project anniversary. Exactly 10 years ago [the first version of INSTEAD was released] (https://www.linux.org.ru/news/games/3518942).
+      <description>Hello friends! Today is our project anniversary. Exactly 10 years ago the first version of INSTEAD was released.
 This is a serious age for an amateur project.</description>
     </item>
     
