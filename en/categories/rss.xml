@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on INSTEAD</title>
@@ -8,10 +8,6 @@
     <language>en-us</language>
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
-    <copyright>&amp;copy; 2009-2021</copyright>
-    
-	<atom:link href="/en/categories/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2009-2021</copyright><atom:link href="/en/categories/rss.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

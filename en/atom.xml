@@ -11,146 +11,24 @@
 		<email>gl00my@mail.ru</email>
 	</author>
   <entry>
-	<title>INSTEAD 3.3.4</title>
-    <link href="/en/post/2021-03-24-instead-3-3-4/"/>
-	<id>/en/post/2021-03-24-instead-3-3-4/</id>
+	<title>Posts</title>
+    <link href="/en/post/"/>
+	<id>/en/post/</id>
     <published>2021-03-24T07:35:00+00:00</published>
     <updated>2021-03-24T07:35:00+00:00</updated>
 	<content type="html"><![CDATA[
-Regression found in version 3.3.3! So, the INSTEAD 3.3.4 is out:
- regression with direct mode fixed; emscripten build is done with older emscripten version (compatibility with old browsers).
+
 ]]></content>
   </entry>
 	
   <entry>
-	<title>DNS name changing!</title>
-    <link href="/en/post/2021-03-10-hugeping/"/>
-	<id>/en/post/2021-03-10-hugeping/</id>
-    <published>2021-03-10T12:03:00+00:00</published>
-    <updated>2021-03-10T12:03:00+00:00</updated>
-	<content type="html"><![CDATA[
-ATTENTION! The INSTEAD project page will not be available at: https://instead.syscall.ru anymore!
-New address: https://instead.hugeping.ru.
-Also, as usual, this address works: https://instead-hub.
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>INSTEAD 3.3.3</title>
-    <link href="/en/post/2021-02-10-instead-3-3-3/"/>
-	<id>/en/post/2021-02-10-instead-3-3-3/</id>
-    <published>2021-02-10T11:03:00+00:00</published>
-    <updated>2021-02-10T11:03:00+00:00</updated>
-	<content type="html"><![CDATA[
-INSTEAD 3.3.3 is out! Changes are:
- new: scr.col.brd in theme.ini; new: rtl support (_USE_HARFBUZZ and new SDL_ttf needed); new: instead.
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>INSTEAD 3.3.2</title>
-    <link href="/en/post/2020-04-19-instead-3-3-2/"/>
-	<id>/en/post/2020-04-19-instead-3-3-2/</id>
-    <published>2020-04-19T10:10:00+00:00</published>
-    <updated>2020-04-19T10:10:00+00:00</updated>
-	<content type="html"><![CDATA[
-INSTEAD 3.3.2 is out! Changes are:
- fix: -lua parameter; fix: WM minimized state fix; fix: anigif and decorators fix; fix: gtk3 build warning; new: initial gamepad support; new: utf8 tiny library; enh: loadstring sandboxed; enh: stead3 debugger uses native text input; enh: doc fixes;  Binary builds will be available as soon as they are ready.
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>INSTEAD 3.3.1</title>
-    <link href="/en/post/2019-10-04-instead-3-3-1/"/>
-	<id>/en/post/2019-10-04-instead-3-3-1/</id>
-    <published>2019-10-04T16:08:00+00:00</published>
-    <updated>2019-10-04T16:08:00+00:00</updated>
-	<content type="html"><![CDATA[
-INSTEAD 3.3.1 released:
- fix: build with SDL 2.0.10; enh: discord bot can be sticked to channel(s); enh: english doc fixes;  This is source code only release.
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>INSTEAD 3.3.0</title>
-    <link href="/en/post/2019-03-08-instead-3-3-0/"/>
-	<id>/en/post/2019-03-08-instead-3-3-0/</id>
-    <published>2019-03-08T11:15:00+00:00</published>
-    <updated>2019-03-08T11:15:00+00:00</updated>
-	<content type="html"><![CDATA[
-INSTEAD 3.3.0 is out! Changes are:
- new: input:text() event; new: tiny instead for metaparser; new: telegram, vk and discord bots; enh: english documentation; enh: Android port; fix: list:add() and order; fix: some compilation warnings; fix: makefile and source code cleanups; fix: possible segfault; fix: do not eat keyboard input; enh: emscripten port builded with -s WASM=1  Binary builds will be available as soon as they are ready.
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>Happy Birthday, INSTEAD!</title>
-    <link href="/en/post/2019-02-20-ten-years/"/>
-	<id>/en/post/2019-02-20-ten-years/</id>
-    <published>2019-02-20T07:00:00+00:00</published>
-    <updated>2019-02-20T07:00:00+00:00</updated>
-	<content type="html"><![CDATA[
-Hello friends! Today is our project anniversary. Exactly 10 years ago the first version of INSTEAD was released.
-This is a serious age for an amateur project.
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>INSTEAD 3.2.2</title>
-    <link href="/en/post/2018-09-01-instead-3-2-2/"/>
-	<id>/en/post/2018-09-01-instead-3-2-2/</id>
-    <published>2018-09-01T07:18:00+00:00</published>
-    <updated>2018-09-01T07:18:00+00:00</updated>
-	<content type="html"><![CDATA[
-INSTEAD 3.2.2 is out! Changes are:
- new: mobile theme; new: -lang parameter; new: -notheme parameter; new: instead.screen_size(); enh: themes cleanups; new: cmake and LuaJIT build (-DWITH_LUAJIT=1); enh: autosave in emscripten build; enh: load status in emscripten build; new: machine-translated English manual; fix: Lua5.
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>INSTEAD3 new website</title>
-    <link href="/en/post/2018-04-22-site/"/>
-	<id>/en/post/2018-04-22-site/</id>
-    <published>2018-04-22T09:24:00+00:00</published>
-    <updated>2018-04-22T09:24:00+00:00</updated>
-	<content type="html"><![CDATA[
-Welcome to the new site of INSTEAD – interpreter of simple text adventures for Unix and Windows!
-It is extremaly minimal now.
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>How to download and run game?</title>
-    <link href="/en/page/games/"/>
-	<id>/en/page/games/</id>
+	<title>Pages</title>
+    <link href="/en/page/"/>
+	<id>/en/page/</id>
     <published>2018-04-22T00:50:00+00:00</published>
     <updated>2018-04-22T00:50:00+00:00</updated>
 	<content type="html"><![CDATA[
-Where to get? You can find games here:
- Some games on itch instead-games.ru repository  How to run? Manually You can download zip or idf file and select it from the INSTEAD menu.
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>Forum has moved</title>
-    <link href="/en/post/2018-03-02-forum/"/>
-	<id>/en/post/2018-03-02-forum/</id>
-    <published>2018-03-02T14:27:00+00:00</published>
-    <updated>2018-03-02T14:27:00+00:00</updated>
-	<content type="html"><![CDATA[
-Attention! Forum has moved to http://instead-games.ru/forum Please, update your bookmarks. ;)
-See ya!
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>Screenshots</title>
-    <link href="/en/page/screenshots/"/>
-	<id>/en/page/screenshots/</id>
-    <published>2017-05-09T08:58:00+00:00</published>
-    <updated>2017-05-09T08:58:00+00:00</updated>
-	<content type="html"><![CDATA[
-Currently, there are a lot of games written with INSTEAD. Most of them are Russians only, but some are translated to other languages.
+
 ]]></content>
   </entry>
 	
@@ -161,7 +39,7 @@ Currently, there are a lot of games written with INSTEAD. Most of them are Russi
     <published>2017-03-09T13:23:28+08:00</published>
     <updated>2017-03-09T13:23:28+08:00</updated>
 	<content type="html"><![CDATA[
- Donations If you like project, you may transfer some money. Thank you!
+Donations If you like project, you may transfer some money. Thank you!
  Paypal Я-Деньги  
 ]]></content>
   </entry>
@@ -185,19 +63,19 @@ These games are mix of interactive fiction, visual novels and classic point &amp
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
- Download Version 3.3.5
+Download Version 3.3.5
     Installer for Windows (.exe file) Archive for Windows (unpack and run)     PPA repository for Ubuntu     Repository for openSUSE     OS X     Android     Sources     Others     
 ]]></content>
   </entry>
 	
   <entry>
-	<title>Where are the articles?</title>
-    <link href="/en/article/english/"/>
-	<id>/en/article/english/</id>
+	<title>Articles</title>
+    <link href="/en/article/"/>
+	<id>/en/article/</id>
     <published>2010-05-09T08:58:00+00:00</published>
     <updated>2010-05-09T08:58:00+00:00</updated>
 	<content type="html"><![CDATA[
-Currently, they are in Russian only&hellip;
+
 ]]></content>
   </entry>
 	
