@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/</loc>
     <lastmod>2021-09-08T19:00:00+00:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="ru"
                 href="/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-09-08-instead-3-4-1/</loc>
     <lastmod>2021-09-08T19:00:00+00:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="ru"
                 href="/post/2021-09-08-instead-3-4-1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2021-09-08T19:00:00+00:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="ru"
                 href="/post/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-08-31-instead-3-4-0/</loc>
     <lastmod>2021-08-31T14:35:00+00:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="ru"
                 href="/post/2021-08-31-instead-3-4-0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-03-24-instead-3-3-4/</loc>
     <lastmod>2021-03-24T07:35:00+00:00</lastmod>
     <xhtml:link
@@ -75,9 +66,7 @@
                 hreflang="ru"
                 href="/post/2021-03-24-instead-3-3-4/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-03-10-hugeping/</loc>
     <lastmod>2021-03-10T12:03:00+00:00</lastmod>
     <xhtml:link
@@ -90,9 +79,7 @@
                 hreflang="ru"
                 href="/post/2021-03-10-hugeping/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-02-10-instead-3-3-3/</loc>
     <lastmod>2021-02-10T11:03:00+00:00</lastmod>
     <xhtml:link
@@ -105,9 +92,7 @@
                 hreflang="ru"
                 href="/post/2021-02-10-instead-3-3-3/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-04-19-instead-3-3-2/</loc>
     <lastmod>2020-04-19T10:10:00+00:00</lastmod>
     <xhtml:link
@@ -120,14 +105,10 @@
                 hreflang="ru"
                 href="/post/2020-04-19-instead-3-3-2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-10-05-metaparser-1-6/</loc>
     <lastmod>2019-10-05T05:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/</loc>
     <lastmod>2019-10-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -140,14 +121,10 @@
                 hreflang="ru"
                 href="/article/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/instead-10/</loc>
     <lastmod>2019-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-10-04-instead-3-3-1/</loc>
     <lastmod>2019-10-04T16:08:00+00:00</lastmod>
     <xhtml:link
@@ -160,14 +137,10 @@
                 hreflang="ru"
                 href="/post/2019-10-04-instead-3-3-1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-04-09-metaparser-js-1.0/</loc>
     <lastmod>2019-04-09T09:56:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-03-08-instead-3-3-0/</loc>
     <lastmod>2019-03-08T11:15:00+00:00</lastmod>
     <xhtml:link
@@ -180,9 +153,7 @@
                 hreflang="ru"
                 href="/post/2019-03-08-instead-3-3-0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-02-20-ten-years/</loc>
     <lastmod>2019-02-20T07:00:00+00:00</lastmod>
     <xhtml:link
@@ -195,14 +166,10 @@
                 hreflang="ru"
                 href="/post/2019-02-20-ten-years/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2018-10-13-metaparser-0-9/</loc>
     <lastmod>2018-10-13T10:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/page/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -215,14 +182,10 @@
                 hreflang="ru"
                 href="/page/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/page/metaparser/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2018-09-01-instead-3-2-2/</loc>
     <lastmod>2018-09-01T07:18:00+00:00</lastmod>
     <xhtml:link
@@ -235,9 +198,7 @@
                 hreflang="ru"
                 href="/post/2018-09-01-instead-3-2-2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2018-04-22-site/</loc>
     <lastmod>2018-04-22T09:24:00+00:00</lastmod>
     <xhtml:link
@@ -250,9 +211,7 @@
                 hreflang="ru"
                 href="/post/2018-04-22-site/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/page/games/</loc>
     <lastmod>2018-04-22T00:50:00+00:00</lastmod>
     <xhtml:link
@@ -265,9 +224,7 @@
                 hreflang="ru"
                 href="/page/games/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2018-03-02-forum/</loc>
     <lastmod>2018-03-02T14:27:00+00:00</lastmod>
     <xhtml:link
@@ -280,14 +237,10 @@
                 hreflang="ru"
                 href="/post/2018-03-02-forum/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/printed/</loc>
     <lastmod>2017-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2017-11-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -300,19 +253,13 @@
                 hreflang="ru"
                 href="/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/printed4/</loc>
     <lastmod>2017-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/ponimanie-komiksa/</loc>
     <lastmod>2017-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/page/screenshots/</loc>
     <lastmod>2017-05-09T08:58:00+00:00</lastmod>
     <xhtml:link
@@ -325,24 +272,16 @@
                 hreflang="ru"
                 href="/page/screenshots/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/12-pravil/</loc>
     <lastmod>2017-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/istoki-sistem/</loc>
     <lastmod>2017-03-22T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/wander/</loc>
     <lastmod>2017-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/contact/</loc>
     <lastmod>2017-03-09T13:23:28+08:00</lastmod>
     <xhtml:link
@@ -355,9 +294,7 @@
                 hreflang="ru"
                 href="/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/doc/</loc>
     <lastmod>2017-03-09T13:23:28+08:00</lastmod>
     <xhtml:link
@@ -370,9 +307,7 @@
                 hreflang="ru"
                 href="/doc/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
     <lastmod>2017-03-09T13:19:25+08:00</lastmod>
     <xhtml:link
@@ -385,9 +320,7 @@
                 hreflang="ru"
                 href="/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/download/</loc>
     <lastmod>2017-03-09T13:19:25+08:00</lastmod>
     <xhtml:link
@@ -400,39 +333,25 @@
                 hreflang="ru"
                 href="/download/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/printed3/</loc>
     <lastmod>2016-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/printed2/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/printed1/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/printed0/</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/2010-09-12-instead-1-2-0-review/</loc>
     <lastmod>2010-09-12T09:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/article/2010-05-09-history/</loc>
     <lastmod>2010-05-09T08:58:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -444,10 +363,7 @@
                 hreflang="ru"
                 href="/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/page/club/</loc>
   </url>
-  
 </urlset>

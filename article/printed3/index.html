@@ -11,7 +11,7 @@
 	<link rel="canonical" href="/article/printed3/">
 	<link rel="preload" href="/css/smorg.css" as="style">
 	<link rel="stylesheet" href="/css/smorg.css">
-	<meta name="generator" content="Hugo 0.80.0" />
+	<meta name="generator" content="Hugo 0.89.4" />
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -286,7 +286,7 @@ INSTEAD, а не об игре.</p>
 игре.  Используется информация из тегов игры: Name,  Author,
 Version и  Info  (новый  тег,  который  может  достигать  4х
 строк). Например:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">--$Name: Это моя супер игра!$
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">--$Name: Это моя супер игра!$
 --$Author: Pupkin&#39;2016$
 --$Version:1.0$
 --$Info:Эта игра про\nКОТИКОВ!!!$
@@ -304,13 +304,13 @@ Version и  Info  (новый  тег,  который  может  достиг
 называется profile.</p>
 <p>Что это означает?  Что для создания отдельной игры в windows
 теперь достаточно  сделать  следующую  структуру  каталогов:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">  appdata/
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">  appdata/
     games/
         mygame/
           main.lua
     profile
 </code></pre></div><p>А в профайле строки:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"> standalone = 1
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"> standalone = 1
  game = mygame
 </code></pre></div><p>При запуске  .exe  файла  &ndash;  будет  запущена  ваша  игра  в
 standalone режиме.</p>
@@ -327,10 +327,10 @@ INSTEAD,   и   все   пути   к   библиотекам   Lua   оста
 doc/examples есть замечательный файл  webinst.lua.   Поставь
 для своей системы пакет luasocket и запусти инстед так  (про
 то,  что  запускаешь  из  терминала  я  даже  не  заикаюсь):</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">$ sdl-instead -lua doc/examples/webinst.lua
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">$ sdl-instead -lua doc/examples/webinst.lua
 </code></pre></div><p>Если все сделано правильно, ты увидишь&hellip; увидишь список игр
 с  <a href="http://instead-games.ru">http://instead-games.ru</a>   Поставить   игру   можно   так:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">$ sdl-instead -lua doc/examples/webinst.lua minerbold
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">$ sdl-instead -lua doc/examples/webinst.lua minerbold
 </code></pre></div><p>Почему это работает?  Потому что  запуск  скриптов  инстедом
 всегда осуществляется в standalone режиме.  Так что,  можешь
 поизучать  webinst.lua  и  начать  писать   свои   хакерские
@@ -347,7 +347,7 @@ scr.gfx.icon параметр в теме.   Это  дает  возможно�
 <p>Теперь стало проще делать титульные экраны, так как появился
 тег txty &ndash;  вертикальный  табулятор.   В  документации  уже
 описан. Но примеры всегда понятней, поэтому:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">  dsc = txty(&#39;50%&#39;, &#39;middle&#39;)..&#34;PART I&#34;;
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">  dsc = txty(&#39;50%&#39;, &#39;middle&#39;)..&#34;PART I&#34;;
 </code></pre></div><p>Глядя на игру &ldquo;Рок&rdquo; от epoxa (ох, а я ведь  не  написал  про
 нее!  Но если честно, эта игра оказалась  для  меня  слишком
 брутальной.   Там  встречаются  металлисты  с  глазами   без
@@ -356,7 +356,7 @@ scr.gfx.icon параметр в теме.   Это  дает  возможно�
 оформление запомнилось! Игру тепло встретили в РИЛ.) так вот
 глядя  на  эту  игру,  мне  тоже  захотелось  сделать  режим
 переходов внизу текста.  Теперь в  теме  вы  можете  задать:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">  win.ways.mode = bottom
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">  win.ways.mode = bottom
 </code></pre></div><p>И увидеть переходы внизу сцены. В режиме embedded графики &ndash;
 переходы будет прямо под текстом.  В  остальных  режимах  &ndash;
 переходы будут иметь фиксированное  положение  под  областью
