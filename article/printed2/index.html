@@ -11,7 +11,7 @@
 	<link rel="canonical" href="/article/printed2/">
 	<link rel="preload" href="/css/smorg.css" as="style">
 	<link rel="stylesheet" href="/css/smorg.css">
-	<meta name="generator" content="Hugo 0.89.4" />
+	<meta name="generator" content="Hugo 0.80.0" />
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -161,7 +161,7 @@ ifiction.ru.</li>
 очень понравились такие вещи как: &ldquo;Холм  фей&rdquo;  и  &ldquo;Проклятое
 наследство&rdquo;.  Уже во время портирования второй игры я узнал,
 что  автор  этих  игр  &ndash;  Николай  Жариков,   автор   сайта
-<a href="http://www.questtext.narod.ru/">http://www.questtext.narod.ru/</a>,  трагически  погиб  в  марте
+<a href="http://www.questtext.narod.ru/,">http://www.questtext.narod.ru/,</a>  трагически  погиб  в  марте
 2007 года.</p>
 <p>Я задумался тогда о том,  стоит  ли  портировать  игру?   Во
 первых, мое отношение к игре как-то поменялось.  Во  вторых,
@@ -202,7 +202,7 @@ game.onact,   game.onwalk,    game.onuse    и    game.oninv.</p>
 вызываются  <em>перед</em>  событием,   и   позволяют   перехватить
 нормальный ход вещей.</p>
 <p>Так, для случая с раненой рукой, можно написать:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">...
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
 game.onact = function(s, w)
     if ranen then
         p [[Я ранен!]]
@@ -224,7 +224,7 @@ end;
 избегайте рекурсий!  Так как если вы делаете walk из onwalk,
 то это снова  приведет  к  событию  walk  и  вызову  onwalk.
 Избежать рекурсии легко,  например,  с  помощью  переменной:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">...
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
 global { power = 100 };
 in_walk = false
 game.onwalk = function(s, w)
@@ -249,7 +249,7 @@ end
 существует готовый модуль  &ldquo;counters&rdquo;,  который  как  раз  и
 использует эти обработчики.</p>
 <p>Например:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">...
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
 require &#34;counters&#34;
 
 apple = obj {
@@ -272,7 +272,7 @@ use_count, act_count.</p>
 <p>Если  вы  хотите  использовать  модуль   counters   и   сами
 обработчики  onXXXXXX,  включите  модуль  после  определения
 своих функций, например:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">...
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
 game.oninv = [[Я действую!]];
 game.onwalk = [[Я хожу!!!]];
 require &#39;counters&#39;
