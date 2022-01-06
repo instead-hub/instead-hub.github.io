@@ -11,7 +11,7 @@
 	<link rel="canonical" href="/article/printed4/">
 	<link rel="preload" href="/css/smorg.css" as="style">
 	<link rel="stylesheet" href="/css/smorg.css">
-	<meta name="generator" content="Hugo 0.80.0" />
+	<meta name="generator" content="Hugo 0.89.4" />
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -436,7 +436,7 @@ Unix people, но и для пользователей других ОС. Одн
 портировать его в свою ОС.</p>
 <p>Итак, после того как вы собрали tiny-instead, вы можете запустить
 игру:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">$ ./tiny-instead &lt;путь к каталогу с игрой&gt;
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">$ ./tiny-instead &lt;путь к каталогу с игрой&gt;
 </code></pre></div><p>Все классические игры должны работать. По понятным причинам, некоторые
 функции недоступны в 100 строчной версии: типа спрайтов, таймера и
 клавиатуры.</p>
@@ -445,12 +445,12 @@ Unix people, но и для пользователей других ОС. Одн
 сцены (они видны в скобках после слов).</p>
 <p>В tiny-instead есть режим записи команд в stderr. Таким образом,
 сначала мы создаем скрипт прохождения (тестирования) игры.</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">$ ./tiny-instead &lt;путь к игре&gt; 2&gt;log.txt
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">$ ./tiny-instead &lt;путь к игре&gt; 2&gt;log.txt
 </code></pre></div><p>После чего, в приглашении пишем log и &lt;ввод&gt; и начинаем прохождение
 игры. Когда, наконец, мы проходим всю игру, можно выйти командой quit.</p>
 <p>У нас появился log.txt. Теперь, чтобы прогнать всю игру с самого
 начала в автоматическом режиме мы делаем:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">$ cat log.txt | ./tiny-instead &lt;путь к игре&gt;
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">$ cat log.txt | ./tiny-instead &lt;путь к игре&gt;
 </code></pre></div><p>И сравниваем вывод с эталоном. Этот метод &ldquo;регрессионного
 тестирования&rdquo; помог мне при разработке проводника и INSTEAD. Когда я
 менял что то в STEAD3, я снова прогонял эталонный скрипт и смотрел &ndash;
