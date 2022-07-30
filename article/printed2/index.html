@@ -11,7 +11,7 @@
 	<link rel="canonical" href="/article/printed2/">
 	<link rel="preload" href="/css/smorg.css" as="style">
 	<link rel="stylesheet" href="/css/smorg.css">
-	<meta name="generator" content="Hugo 0.80.0" />
+	<meta name="generator" content="Hugo 0.101.0" />
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -161,7 +161,7 @@ ifiction.ru.</li>
 очень понравились такие вещи как: &ldquo;Холм  фей&rdquo;  и  &ldquo;Проклятое
 наследство&rdquo;.  Уже во время портирования второй игры я узнал,
 что  автор  этих  игр  &ndash;  Николай  Жариков,   автор   сайта
-<a href="http://www.questtext.narod.ru/,">http://www.questtext.narod.ru/,</a>  трагически  погиб  в  марте
+<a href="http://www.questtext.narod.ru/">http://www.questtext.narod.ru/</a>,  трагически  погиб  в  марте
 2007 года.</p>
 <p>Я задумался тогда о том,  стоит  ли  портировать  игру?   Во
 первых, мое отношение к игре как-то поменялось.  Во  вторых,
@@ -202,15 +202,15 @@ game.onact,   game.onwalk,    game.onuse    и    game.oninv.</p>
 вызываются  <em>перед</em>  событием,   и   позволяют   перехватить
 нормальный ход вещей.</p>
 <p>Так, для случая с раненой рукой, можно написать:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
-game.onact = function(s, w)
-    if ranen then
-        p [[Я ранен!]]
-        return false
-    end
-end;
-...
-</code></pre></div><p>Как видно из примера, обработчик может не  только  выполнить
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">...
+</span></span><span class="line"><span class="cl">game.onact = function(s, w)
+</span></span><span class="line"><span class="cl">    if ranen then
+</span></span><span class="line"><span class="cl">        p [[Я ранен!]]
+</span></span><span class="line"><span class="cl">        return false
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">end;
+</span></span><span class="line"><span class="cl">...
+</span></span></code></pre></div><p>Как видно из примера, обработчик может не  только  выполнить
 какие-то  действия,  но  и  запретить  выполнение   текущего
 события!  (return false).  Если вам нужен доступ к предмету,
 на которое направлено действие, то он приходит в  обработчик
@@ -224,61 +224,60 @@ end;
 избегайте рекурсий!  Так как если вы делаете walk из onwalk,
 то это снова  приведет  к  событию  walk  и  вызову  onwalk.
 Избежать рекурсии легко,  например,  с  помощью  переменной:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
-global { power = 100 };
-in_walk = false
-game.onwalk = function(s, w)
-    if in_onwalk or w == main then -- если рекурсия или вход 
-                                   -- в комнату main
-                                   -- ничего не делать
-        return
-    end
-    power = power - 1 -- уменьшаем силу при переходах
-    if power &lt; 0 then -- свалились с ног?
-        p &#34;Я устал! Я хочу спать!&#34;;
-        in_onwalk = true -- избежать рекурсию
-        walkin &#39;sleeping&#39; -- переход в сон
-        in_onwalk = false
-        return false -- прекратить первоначальный переход
-    end
-end
-...
-</code></pre></div><p>Наверное вы уже заметили, что эти обработчики удобно было бы
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">...
+</span></span><span class="line"><span class="cl">global { power = 100 };
+</span></span><span class="line"><span class="cl">in_walk = false
+</span></span><span class="line"><span class="cl">game.onwalk = function(s, w)
+</span></span><span class="line"><span class="cl">    if in_onwalk or w == main then -- если рекурсия или вход 
+</span></span><span class="line"><span class="cl">                                   -- в комнату main
+</span></span><span class="line"><span class="cl">                                   -- ничего не делать
+</span></span><span class="line"><span class="cl">        return
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">    power = power - 1 -- уменьшаем силу при переходах
+</span></span><span class="line"><span class="cl">    if power &lt; 0 then -- свалились с ног?
+</span></span><span class="line"><span class="cl">        p &#34;Я устал! Я хочу спать!&#34;;
+</span></span><span class="line"><span class="cl">        in_onwalk = true -- избежать рекурсию
+</span></span><span class="line"><span class="cl">        walkin &#39;sleeping&#39; -- переход в сон
+</span></span><span class="line"><span class="cl">        in_onwalk = false
+</span></span><span class="line"><span class="cl">        return false -- прекратить первоначальный переход
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">end
+</span></span><span class="line"><span class="cl">...
+</span></span></code></pre></div><p>Наверное вы уже заметили, что эти обработчики удобно было бы
 использовать для подсчета числа  событий.   Например,  число
 произошедших act для  заданного  объекта.   На  самом  деле,
 существует готовый модуль  &ldquo;counters&rdquo;,  который  как  раз  и
 использует эти обработчики.</p>
 <p>Например:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
-require &#34;counters&#34;
-
-apple = obj {
-    nam = &#39;яблоко&#39;;
-    inv = function(s)
-        if inv_count(s) &gt; 3 then
-            p [[Ладно, съем!]]
-            remove(s, me())
-            return
-        end
-        p [[Да это же яблоко!]]
-    end
-...
-}
-...
-</code></pre></div><p>Для   принудительного    сброса    счетчика,    используйте:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">...
+</span></span><span class="line"><span class="cl">require &#34;counters&#34;
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">apple = obj {
+</span></span><span class="line"><span class="cl">    nam = &#39;яблоко&#39;;
+</span></span><span class="line"><span class="cl">    inv = function(s)
+</span></span><span class="line"><span class="cl">        if inv_count(s) &gt; 3 then
+</span></span><span class="line"><span class="cl">            p [[Ладно, съем!]]
+</span></span><span class="line"><span class="cl">            remove(s, me())
+</span></span><span class="line"><span class="cl">            return
+</span></span><span class="line"><span class="cl">        end
+</span></span><span class="line"><span class="cl">        p [[Да это же яблоко!]]
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">...
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">...
+</span></span></code></pre></div><p>Для   принудительного    сброса    счетчика,    используйте:</p>
 <p>inv_count(что, число);</p>
 <p>Понятно,  что  определены  функции:  walk_count,  inv_count,
 use_count, act_count.</p>
 <p>Если  вы  хотите  использовать  модуль   counters   и   сами
 обработчики  onXXXXXX,  включите  модуль  после  определения
 своих функций, например:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
-game.oninv = [[Я действую!]];
-game.onwalk = [[Я хожу!!!]];
-require &#39;counters&#39;
-...
-
-</code></pre></div><p>На этом сегодняшний кружок закрывается. Надеюсь, информация
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">...
+</span></span><span class="line"><span class="cl">game.oninv = [[Я действую!]];
+</span></span><span class="line"><span class="cl">game.onwalk = [[Я хожу!!!]];
+</span></span><span class="line"><span class="cl">require &#39;counters&#39;
+</span></span><span class="line"><span class="cl">...
+</span></span></code></pre></div><p>На этом сегодняшний кружок закрывается. Надеюсь, информация
 была интересной.</p>
 <h2 id="слухи">Слухи</h2>
 <hr>

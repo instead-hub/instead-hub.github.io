@@ -17,7 +17,7 @@
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2021-09-08-instead-3-4-1/</guid>
       <description>Due to the fact that a nasty bug was detected in version 3.4.0, INSTEAD 3.4.1 has been released.
- Fixed a bug with scaling the scene image at dpi &amp;lt;96.</description>
+Fixed a bug with scaling the scene image at dpi &amp;lt;96.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2021-08-31-instead-3-4-0/</guid>
       <description>INSTEAD 3.4.0 with hi-dpi support is out! Changes are:
- fix: pxl:fill_triangle cw order normalization; fix: build with new SDL_image; new: dpi awarness for win; new: high dpi ready (scale by dpi/96 when HQ option is on); new: -dpi  parameter; new: instead.</description>
+fix: pxl:fill_triangle cw order normalization; fix: build with new SDL_image; new: dpi awarness for win; new: high dpi ready (scale by dpi/96 when HQ option is on); new: -dpi parameter; new: instead.</description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2021-03-24-instead-3-3-4/</guid>
       <description>Regression found in version 3.3.3! So, the INSTEAD 3.3.4 is out:
- regression with direct mode fixed; emscripten build is done with older emscripten version (compatibility with old browsers).</description>
+regression with direct mode fixed; emscripten build is done with older emscripten version (compatibility with old browsers).</description>
     </item>
     
     <item>
@@ -58,7 +58,7 @@ Also, as usual, this address works: https://instead-hub.</description>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2021-02-10-instead-3-3-3/</guid>
       <description>INSTEAD 3.3.3 is out! Changes are:
- new: scr.col.brd in theme.ini; new: rtl support (_USE_HARFBUZZ and new SDL_ttf needed); new: instead.</description>
+new: scr.col.brd in theme.ini; new: rtl support (_USE_HARFBUZZ and new SDL_ttf needed); new: instead.tiny flag in tiny; enh: emscripten 2.</description>
     </item>
     
     <item>
@@ -68,7 +68,7 @@ Also, as usual, this address works: https://instead-hub.</description>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2020-04-19-instead-3-3-2/</guid>
       <description>INSTEAD 3.3.2 is out! Changes are:
- fix: -lua parameter; fix: WM minimized state fix; fix: anigif and decorators fix; fix: gtk3 build warning; new: initial gamepad support; new: utf8 tiny library; enh: loadstring sandboxed; enh: stead3 debugger uses native text input; enh: doc fixes;  Binary builds will be available as soon as they are ready.</description>
+fix: -lua parameter; fix: WM minimized state fix; fix: anigif and decorators fix; fix: gtk3 build warning; new: initial gamepad support; new: utf8 tiny library; enh: loadstring sandboxed; enh: stead3 debugger uses native text input; enh: doc fixes; Binary builds will be available as soon as they are ready.</description>
     </item>
     
     <item>
@@ -78,7 +78,7 @@ Also, as usual, this address works: https://instead-hub.</description>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2019-10-04-instead-3-3-1/</guid>
       <description>INSTEAD 3.3.1 released:
- fix: build with SDL 2.0.10; enh: discord bot can be sticked to channel(s); enh: english doc fixes;  This is source code only release.</description>
+fix: build with SDL 2.0.10; enh: discord bot can be sticked to channel(s); enh: english doc fixes; This is source code only release.</description>
     </item>
     
     <item>
@@ -88,7 +88,7 @@ Also, as usual, this address works: https://instead-hub.</description>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2019-03-08-instead-3-3-0/</guid>
       <description>INSTEAD 3.3.0 is out! Changes are:
- new: input:text() event; new: tiny instead for metaparser; new: telegram, vk and discord bots; enh: english documentation; enh: Android port; fix: list:add() and order; fix: some compilation warnings; fix: makefile and source code cleanups; fix: possible segfault; fix: do not eat keyboard input; enh: emscripten port builded with -s WASM=1  Binary builds will be available as soon as they are ready.</description>
+new: input:text() event; new: tiny instead for metaparser; new: telegram, vk and discord bots; enh: english documentation; enh: Android port; fix: list:add() and order; fix: some compilation warnings; fix: makefile and source code cleanups; fix: possible segfault; fix: do not eat keyboard input; enh: emscripten port builded with -s WASM=1 Binary builds will be available as soon as they are ready.</description>
     </item>
     
     <item>
@@ -108,7 +108,7 @@ This is a serious age for an amateur project.</description>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2018-09-01-instead-3-2-2/</guid>
       <description>INSTEAD 3.2.2 is out! Changes are:
- new: mobile theme; new: -lang parameter; new: -notheme parameter; new: instead.screen_size(); enh: themes cleanups; new: cmake and LuaJIT build (-DWITH_LUAJIT=1); enh: autosave in emscripten build; enh: load status in emscripten build; new: machine-translated English manual; fix: Lua5.</description>
+new: mobile theme; new: -lang parameter; new: -notheme parameter; new: instead.screen_size(); enh: themes cleanups; new: cmake and LuaJIT build (-DWITH_LUAJIT=1); enh: autosave in emscripten build; enh: load status in emscripten build; new: machine-translated English manual; fix: Lua5.</description>
     </item>
     
     <item>
@@ -128,7 +128,7 @@ It is extremaly minimal now.</description>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/page/games/</guid>
       <description>Where to get? You can find games here:
- Some games on itch instead-games.ru repository  How to run? Manually You can download zip or idf file and select it from the INSTEAD menu.</description>
+Some games on itch instead-games.ru repository How to run? Manually You can download zip or idf file and select it from the INSTEAD menu.</description>
     </item>
     
     <item>
@@ -156,7 +156,7 @@ See ya!</description>
       <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/contact/</guid>
-      <description>Contacts  https://t.me/insteadtalk - Telegram https://discord.gg/9znH5tCf - Discord irc.oftc.net #instead - irc  </description>
+      <description>Contacts https://t.me/insteadtalk - Telegram https://discord.gg/9znH5tCf - Discord irc.oftc.net #instead - irc </description>
     </item>
     
     <item>
@@ -176,7 +176,7 @@ These games are mix of interactive fiction, visual novels and classic point &amp
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/download/</guid>
       <description>Download Version 3.4.1
-    Installer for Windows (.exe file) Archive for Windows (unpack and run)     PPA repository for Ubuntu     Repository for openSUSE     OS X     Android     Sources     Others     </description>
+Installer for Windows (.exe file) Archive for Windows (unpack and run) PPA repository for Ubuntu Repository for openSUSE OS X Android Sources Others </description>
     </item>
     
     <item>

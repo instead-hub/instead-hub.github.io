@@ -11,7 +11,7 @@
 	<link rel="canonical" href="/article/wander/">
 	<link rel="preload" href="/css/smorg.css" as="style">
 	<link rel="stylesheet" href="/css/smorg.css">
-	<meta name="generator" content="Hugo 0.80.0" />
+	<meta name="generator" content="Hugo 0.101.0" />
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -72,23 +72,23 @@
 <p>В нем можно обнаружить интерпретатор игровых сюжетов в виде объектного файла, а также три игры-приключения в текстовом формате. Одна из таких игр, Library, происходит в мире постапокалипсиса, в руинах библиотеки, где имеются сокровища и разнообразные опасности. Встречающиеся в игре комнаты, посвященные Муркоку, Андрэ Нортон и Дюне напоминают о популярной фантастике того времени. Еще одна игра из архива, Aldebaran III, представляет собой своеобразный фанфик на произведения Кейта Лаумера, еще одного известного фантаста. По сюжету третьей игры, Castle, герой проваливается в сказочный мир сквозь экран телевизора.</p>
 <p>Хотя эти игры и представляют известный интерес, более существенно в историческом отношении, что они написаны на удобном скриптовом языке с использованием инструментария Wander, созданном еще до выхода знаменитой ADVENT. Игры разбиваются на два файла: файл с общеигровой информацией (вводный текст, синонимы, начальные позиции объектов, состояния переменных, глобальные действия) и файл с локациями (в нем задаются локальные действия и описания). Любопытно, что выбор действий в Wander задается с помощью высокоуровневого механизма сопоставления с образцом. Далее разбирается код одной из игровых локаций.</p>
 <p>Пример кода</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">#1      Aldebaran III Spaceport
-You&#39;re in the Aldebaran III spaceport.  An electrified chain link fence
-surrounds the area with gates leading west and south.
-     south   2
-     west    100
-     north|east|ne|nw|se|sw  m=&#34;ZZZAAAAPPPP!       OUCH!&#34;
-     take\ card  o?card  t+card  m=&#34;\
-Done
-Your account has 50 credits left.
-(You can type &#34;balance&#34; any time to find current status).&#34;
-     drop\ card  t?card  o+card@101  m=&#34;\
-Done
-A southeast wind blows your credit card over the fence.&#34;
-     drop\ papers  t?papers  o+papers@2  m=&#34;\
-Done
-A brisk north wind blows your identity papers away.&#34;
-</code></pre></div><p>В первой строке указан номер локации (по этому номеру в нее можно вернуться) и краткое описание. Далее идет подробное описание. Остальные строки представляют собой правила, где описываются действия и их результаты. Правила «south 2» и «west 100» означают, что если пользователь ввел «south», то следует перейти в локацию 2, а если же было введено «west», то переход осуществляется в локацию с номером 100. Если были введены прочие стороны света (они задаются единообразно с помощью оператора альтернативы), выдается сообщение. Если пользователь ввел «take card» и объект «card» находится в данной локации, то забираем его и выдаем сообщение. При вводе «drop card» и наличии самой карты она «улетает» в локацию 101. Наконец, при вводе «drop papers» и наличии этих самых бумаг они тоже «улетают», теперь в локацию с номером 2.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">#1      Aldebaran III Spaceport
+</span></span><span class="line"><span class="cl">You&#39;re in the Aldebaran III spaceport.  An electrified chain link fence
+</span></span><span class="line"><span class="cl">surrounds the area with gates leading west and south.
+</span></span><span class="line"><span class="cl">     south   2
+</span></span><span class="line"><span class="cl">     west    100
+</span></span><span class="line"><span class="cl">     north|east|ne|nw|se|sw  m=&#34;ZZZAAAAPPPP!       OUCH!&#34;
+</span></span><span class="line"><span class="cl">     take\ card  o?card  t+card  m=&#34;\
+</span></span><span class="line"><span class="cl">Done
+</span></span><span class="line"><span class="cl">Your account has 50 credits left.
+</span></span><span class="line"><span class="cl">(You can type &#34;balance&#34; any time to find current status).&#34;
+</span></span><span class="line"><span class="cl">     drop\ card  t?card  o+card@101  m=&#34;\
+</span></span><span class="line"><span class="cl">Done
+</span></span><span class="line"><span class="cl">A southeast wind blows your credit card over the fence.&#34;
+</span></span><span class="line"><span class="cl">     drop\ papers  t?papers  o+papers@2  m=&#34;\
+</span></span><span class="line"><span class="cl">Done
+</span></span><span class="line"><span class="cl">A brisk north wind blows your identity papers away.&#34;
+</span></span></code></pre></div><p>В первой строке указан номер локации (по этому номеру в нее можно вернуться) и краткое описание. Далее идет подробное описание. Остальные строки представляют собой правила, где описываются действия и их результаты. Правила «south 2» и «west 100» означают, что если пользователь ввел «south», то следует перейти в локацию 2, а если же было введено «west», то переход осуществляется в локацию с номером 100. Если были введены прочие стороны света (они задаются единообразно с помощью оператора альтернативы), выдается сообщение. Если пользователь ввел «take card» и объект «card» находится в данной локации, то забираем его и выдаем сообщение. При вводе «drop card» и наличии самой карты она «улетает» в локацию 101. Наконец, при вводе «drop papers» и наличии этих самых бумаг они тоже «улетают», теперь в локацию с номером 2.</p>
 <h2 id="выводы">Выводы</h2>
 <p>Помимо очевидного исторического значения данная система может представлять некоторый интерес и для любопытствующих создателей IF-движков, в первую очередь благодаря новаторскому использованию правил и сопоставлению с образцом. Подробную документацию по Wander из архива 1978 года я перевел в html-формат, тексты доступны ниже. За первоначальную информацию о Wander я благодарю Virgil&rsquo;а.</p>
 <h2 id="источники">Источники</h2>
@@ -102,11 +102,11 @@ ahopeful.wordpress.com/2015/04/22/wander-1974-a-lost-mainframe-game-is-found/</p
 bluerenga.wordpress.com/2015/04/23/wander-1974-release-and-questions-answered/</p>
 </li>
 <li>
-<p>Сайт Питера Лэнгстона <a href="http://www.langston.com/">www.langston.com/</a></p>
+<p>Сайт Питера Лэнгстона <a href="https://www.langston.com/">www.langston.com/</a></p>
 </li>
 <li>
 <p>Выдержка из книги Droidmaker: George Lucas And the Digital Revolution
-<a href="http://www.gamasutra.com/features/20051221/Droidmaker.Ch18.pdf">www.gamasutra.com/features/20051221/Droidmaker.Ch18.pdf</a></p>
+<a href="https://www.gamasutra.com/features/20051221/Droidmaker.Ch18.pdf">www.gamasutra.com/features/20051221/Droidmaker.Ch18.pdf</a></p>
 </li>
 <li>
 <p>Документация

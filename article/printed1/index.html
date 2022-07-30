@@ -11,7 +11,7 @@
 	<link rel="canonical" href="/article/printed1/">
 	<link rel="preload" href="/css/smorg.css" as="style">
 	<link rel="stylesheet" href="/css/smorg.css">
-	<meta name="generator" content="Hugo 0.80.0" />
+	<meta name="generator" content="Hugo 0.101.0" />
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -244,50 +244,50 @@ WalkIn и Walk:  взбираться,  зайти  внутрь  чего-ни�
 других играх я его практически не вижу&hellip; Попробую исправить
 ситуацию.</p>
 <p>И так, представим себе, что мы пишем use обработчик:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
-hammer = obj {
-    nam = &#39;молоток&#39;;
-    use = function(s, w)
-        if w == window then
-            p [[Я разбил окно молотком.]]
-            w.broken = true
-            return
-        end
-    end
-}
-...
-</code></pre></div><p>Хорошо, если мы ударим молотком по окну, то  разобьем  окно.
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">...
+</span></span><span class="line"><span class="cl">hammer = obj {
+</span></span><span class="line"><span class="cl">    nam = &#39;молоток&#39;;
+</span></span><span class="line"><span class="cl">    use = function(s, w)
+</span></span><span class="line"><span class="cl">        if w == window then
+</span></span><span class="line"><span class="cl">            p [[Я разбил окно молотком.]]
+</span></span><span class="line"><span class="cl">            w.broken = true
+</span></span><span class="line"><span class="cl">            return
+</span></span><span class="line"><span class="cl">        end
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">...
+</span></span></code></pre></div><p>Хорошо, если мы ударим молотком по окну, то  разобьем  окно.
 Понятно, что хорошо бы еще  проверить  а  было  ли  оно  уже
 разбито, но в целях простоты примера &ndash; забудем.   Допустим,
 мы ударили молотком что-то еще. Как вы знаете, раз  в  таком
 случае use не вернет текста, то вызовется game.use,  который
 обычно   сообщит    что-то    вроде:    &ldquo;Не    получается.&rdquo;.
 Но это  же  скучно?   Тогда  можно  написать  что-то  вроде:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
-    use = function(s, w)
-        if w == window then
-            p [[Я разбил окно молотком.]]
-            w.broken = true
-            return
-        end
-        p [[Нечего молотком махать без толку!]]
-    end
-...
-</code></pre></div><p>Уже  лучше.   Правда  не  очень  читаемо.   Но   все   может
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">...
+</span></span><span class="line"><span class="cl">    use = function(s, w)
+</span></span><span class="line"><span class="cl">        if w == window then
+</span></span><span class="line"><span class="cl">            p [[Я разбил окно молотком.]]
+</span></span><span class="line"><span class="cl">            w.broken = true
+</span></span><span class="line"><span class="cl">            return
+</span></span><span class="line"><span class="cl">        end
+</span></span><span class="line"><span class="cl">        p [[Нечего молотком махать без толку!]]
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">...
+</span></span></code></pre></div><p>Уже  лучше.   Правда  не  очень  читаемо.   Но   все   может
 осложниться,  если  мы  захотим  сделать  used   обработчик.
 Например, сделаем мусорку:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
-trash = obj {
-    nam = &#39;мусорка&#39;;
-    dsc = [[В углу стоит мусорка.]];
-    act = [[Не буду я копаться в ней!]];
-    used = function(s, w)
-        remove(w, me())
-        p [[В мусорку лишний хлам!]]
-    end
-}
-...
-</code></pre></div><p>INSTEAD вызывает use обработчик, а затем used.  Это  значит,
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">...
+</span></span><span class="line"><span class="cl">trash = obj {
+</span></span><span class="line"><span class="cl">    nam = &#39;мусорка&#39;;
+</span></span><span class="line"><span class="cl">    dsc = [[В углу стоит мусорка.]];
+</span></span><span class="line"><span class="cl">    act = [[Не буду я копаться в ней!]];
+</span></span><span class="line"><span class="cl">    used = function(s, w)
+</span></span><span class="line"><span class="cl">        remove(w, me())
+</span></span><span class="line"><span class="cl">        p [[В мусорку лишний хлам!]]
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">...
+</span></span></code></pre></div><p>INSTEAD вызывает use обработчик, а затем used.  Это  значит,
 что если ударить молотком мусорку,  то  сначала  мы  получим
 фразу о том, что,  мол,  нечего  махать,  а  потом  выбросим
 топор. Вряд ли это соответствует замыслу.</p>
@@ -296,24 +296,24 @@ trash = obj {
 тогда должны учитывать ситуацию с мусоркой и в use и в used!
 Это очень запутывает логику.  И тут на сцену выходит  модуль
 nouse. Та-дам!</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">...
-require &#34;nouse&#34;
-
-...
-hammer = obj {
-    nam = &#39;молоток&#39;;
-
-    use = function(s, w)
-        if w == window then
-            p [[Я разбил окно молотком.]]
-            w.broken = true
-            return
-        end
-    end;
-    nouse = [[Нечего махать молотком зря!]];
-}
-...
-</code></pre></div><p>И это все!  nouse обработчик вызовется только в том  случае,
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">...
+</span></span><span class="line"><span class="cl">require &#34;nouse&#34;
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">...
+</span></span><span class="line"><span class="cl">hammer = obj {
+</span></span><span class="line"><span class="cl">    nam = &#39;молоток&#39;;
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    use = function(s, w)
+</span></span><span class="line"><span class="cl">        if w == window then
+</span></span><span class="line"><span class="cl">            p [[Я разбил окно молотком.]]
+</span></span><span class="line"><span class="cl">            w.broken = true
+</span></span><span class="line"><span class="cl">            return
+</span></span><span class="line"><span class="cl">        end
+</span></span><span class="line"><span class="cl">    end;
+</span></span><span class="line"><span class="cl">    nouse = [[Нечего махать молотком зря!]];
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">...
+</span></span></code></pre></div><p>И это все!  nouse обработчик вызовется только в том  случае,
 если ни use, ни  used  не  вернули  текста.   Кроме  решения
 проблемы, модуль nouse сделал код наглядней! Вы также можете
 определить  game.nouse  обработчик,  как  обработчик   такой
@@ -445,13 +445,13 @@ hammer = obj {
 еще нет&rdquo; (c) относится ко мне не в полной мере,  и  найдутся
 люди, которым мои игры не покажутся пустой  тратой  времени.
 :) До встречи на полях ПРИНТЕДА!</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">
-    Zzzzz  |\      _,,,--,,_        +-----------------------------+
-           /,`.-&#39;`&#39;   ._  \-;;,_    | Его сон спокоен, потому что |
-          |,4-  ) )_   .;.(  `&#39;-&#39;   | он уже зарегистрировался на |
-         &#39;---&#39;&#39;(_/._)-&#39;(_\_)        |       http://ifHub.ru       |
-                                    +-----------------------------+
-</code></pre></div><p>Ищите квантового кота на ифхабе!</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    Zzzzz  |\      _,,,--,,_        +-----------------------------+
+</span></span><span class="line"><span class="cl">           /,`.-&#39;`&#39;   ._  \-;;,_    | Его сон спокоен, потому что |
+</span></span><span class="line"><span class="cl">          |,4-  ) )_   .;.(  `&#39;-&#39;   | он уже зарегистрировался на |
+</span></span><span class="line"><span class="cl">         &#39;---&#39;&#39;(_/._)-&#39;(_\_)        |       http://ifHub.ru       |
+</span></span><span class="line"><span class="cl">                                    +-----------------------------+
+</span></span></code></pre></div><p>Ищите квантового кота на ифхабе!</p>
 
 
 <div class="block">

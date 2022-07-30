@@ -11,7 +11,7 @@
 	<link rel="canonical" href="/article/printed0/">
 	<link rel="preload" href="/css/smorg.css" as="style">
 	<link rel="stylesheet" href="/css/smorg.css">
-	<meta name="generator" content="Hugo 0.80.0" />
+	<meta name="generator" content="Hugo 0.101.0" />
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -284,19 +284,19 @@ Boulder.  Но именно так она была названа на  БК.   
 на самом деле, в современных версиях INSTEAD есть еще один
 довольно удобный способ. Это создание безымянных объектов.
 Например:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">home = room {
-    nam = &#39;Милый дом&#39;;
-    dsc = [[Я дома. Тут ничего нет!]];
-    obj = {
-        obj {
-            nam = &#39;кровать&#39;;
-            dsc = [[В пустой комнате стоит {кровать}.]];
-            act = [[Сейчас не время спать! Время спасать 
-галактику!]];
-        };
-    }
-}
-</code></pre></div><p>Как вы видите, я просто создал объект прямо в комнате. Без
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">home = room {
+</span></span><span class="line"><span class="cl">    nam = &#39;Милый дом&#39;;
+</span></span><span class="line"><span class="cl">    dsc = [[Я дома. Тут ничего нет!]];
+</span></span><span class="line"><span class="cl">    obj = {
+</span></span><span class="line"><span class="cl">        obj {
+</span></span><span class="line"><span class="cl">            nam = &#39;кровать&#39;;
+</span></span><span class="line"><span class="cl">            dsc = [[В пустой комнате стоит {кровать}.]];
+</span></span><span class="line"><span class="cl">            act = [[Сейчас не время спать! Время спасать 
+</span></span><span class="line"><span class="cl">галактику!]];
+</span></span><span class="line"><span class="cl">        };
+</span></span><span class="line"><span class="cl">    }
+</span></span><span class="line"><span class="cl">}
+</span></span></code></pre></div><p>Как вы видите, я просто создал объект прямо в комнате. Без
 хандла. Таким образом он не засоряет пространство объектов.<br>
 Вы даже можете писать use/used обработчики и
 идентифицировать объект конструкцией вида:</p>
