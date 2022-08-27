@@ -4,7 +4,7 @@
 	<link href="/en/atom.xml" rel="self"/>
 	<link href="/en/"/>
 	<generator uri="https://gohugo.io/" version="hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2021-09-08T19:00:00+00:00</updated>
+	<updated>2022-08-27T08:00:00+00:00</updated>
 	<id>/en/</id>
 	<author>
 		<name>Peter Kosyh</name>
@@ -14,8 +14,8 @@
 	<title>Posts</title>
     <link href="/en/post/"/>
 	<id>/en/post/</id>
-    <published>2021-09-08T19:00:00+00:00</published>
-    <updated>2021-09-08T19:00:00+00:00</updated>
+    <published>2022-08-27T08:00:00+00:00</published>
+    <updated>2022-08-27T08:00:00+00:00</updated>
 	<content type="html"><![CDATA[
 
 ]]></content>
@@ -62,7 +62,7 @@ These games are mix of interactive fiction, visual novels and classic point &amp
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
-Download Version 3.4.1
+Download Version 3.5.0
 Installer for Windows (.exe file) Archive for Windows (unpack and run) PPA repository for Ubuntu Repository for openSUSE OS X Android Sources Others 
 ]]></content>
   </entry>

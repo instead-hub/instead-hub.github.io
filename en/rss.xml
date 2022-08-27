@@ -9,7 +9,17 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2022</copyright>
-    <lastBuildDate>Wed, 08 Sep 2021 19:00:00 +0000</lastBuildDate><atom:link href="/en/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Aug 2022 08:00:00 +0000</lastBuildDate><atom:link href="/en/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INSTEAD 3.5.0</title>
+      <link>/en/post/2022-08-27-instead-3-5-0/</link>
+      <pubDate>Sat, 27 Aug 2022 08:00:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/en/post/2022-08-27-instead-3-5-0/</guid>
+      <description>INSTEAD 3.5.0 is out! Changes are:
+fix: menu font scaling; fix: get_bool; new: tutorial in stead3 API; new: wheel input event (grab_events mode); enh: do not scale-down non scalable themes via dpi scale &amp;lt; 1.</description>
+    </item>
+    
     <item>
       <title>INSTEAD 3.4.1</title>
       <link>/en/post/2021-09-08-instead-3-4-1/</link>
@@ -175,7 +185,7 @@ These games are mix of interactive fiction, visual novels and classic point &amp
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/download/</guid>
-      <description>Download Version 3.4.1
+      <description>Download Version 3.5.0
 Installer for Windows (.exe file) Archive for Windows (unpack and run) PPA repository for Ubuntu Repository for openSUSE OS X Android Sources Others </description>
     </item>
     

@@ -9,7 +9,17 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2022</copyright>
-    <lastBuildDate>Wed, 08 Sep 2021 19:00:00 +0000</lastBuildDate><atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Aug 2022 08:00:00 +0000</lastBuildDate><atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INSTEAD 3.5.0</title>
+      <link>/post/2022-08-27-instead-3-5-0/</link>
+      <pubDate>Sat, 27 Aug 2022 08:00:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/post/2022-08-27-instead-3-5-0/</guid>
+      <description>Выпущен INSTEAD 3.5.0!
+исправлено: масштабирование шрифта меню; исправлено: get_bool атрибут; новое: режим обучения переписан на stead3 API; новое: событие прокрутки колёсика мыши (grab_events mode); улучшение: не масштабировать немасштабируемые темы вниз при dpi масштабе &amp;lt; 1.</description>
+    </item>
+    
     <item>
       <title>INSTEAD 3.4.1</title>
       <link>/post/2021-09-08-instead-3-4-1/</link>
