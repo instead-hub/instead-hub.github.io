@@ -9,7 +9,17 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2023</copyright>
-    <lastBuildDate>Sat, 27 Aug 2022 08:00:00 +0000</lastBuildDate><atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 10:00:00 +0000</lastBuildDate><atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INSTEAD 3.5.1</title>
+      <link>/post/2023-09-01-instead-3-5-1/</link>
+      <pubDate>Fri, 01 Sep 2023 10:00:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/post/2023-09-01-instead-3-5-1/</guid>
+      <description>Выпущен bugfix-релиз INSTEAD 3.5.1!
+новое: поддержка геймпадов; исправлено: анимированные gif; исправлено: артефаеты с альфаканалом в спрайтах; улучшения в библиотеке и документации; исправлено: сборка для Windows XP; исправлено: параметр -software для Windows; исправлено: ввод в отладчике; исправлено: падение при рисовании линий.</description>
+    </item>
+    
     <item>
       <title>INSTEAD 3.5.0</title>
       <link>/post/2022-08-27-instead-3-5-0/</link>

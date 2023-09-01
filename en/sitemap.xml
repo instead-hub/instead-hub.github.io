@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/en/</loc>
-    <lastmod>2022-08-27T08:00:00+00:00</lastmod>
+    <lastmod>2023-09-01T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
+                />
+  </url><url>
+    <loc>/en/post/2023-09-01-instead-3-5-1/</loc>
+    <lastmod>2023-09-01T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/post/2023-09-01-instead-3-5-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/2023-09-01-instead-3-5-1/"
+                />
+  </url><url>
+    <loc>/en/post/</loc>
+    <lastmod>2023-09-01T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/"
                 />
   </url><url>
     <loc>/en/post/2022-08-27-instead-3-5-0/</loc>
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/post/2022-08-27-instead-3-5-0/"
-                />
-  </url><url>
-    <loc>/en/post/</loc>
-    <lastmod>2022-08-27T08:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/"
                 />
   </url><url>
     <loc>/en/post/2021-09-08-instead-3-4-1/</loc>
