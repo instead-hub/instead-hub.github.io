@@ -16,7 +16,7 @@
       <pubDate>Sun, 01 Sep 2024 08:00:00 +0000</pubDate>
       <author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2024-09-01-instead-3-5-2/</guid>
-      <description>Выпущен bugfix-релиз INSTEAD 3.5.2!
+      <description>Выпущен INSTEAD 3.5.2!
 улучшено: инсталлятор для Windows; улучшено: триггеры на геймпаде посылают события колеса мыши; исправлено: theme.reset(); множественные исправления в документации.</description>
     </item>
     
