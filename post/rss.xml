@@ -9,7 +9,17 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2024</copyright>
-    <lastBuildDate>Fri, 01 Sep 2023 10:00:00 +0000</lastBuildDate><atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2024 08:00:00 +0000</lastBuildDate><atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INSTEAD 3.5.2</title>
+      <link>/post/2024-09-01-instead-3-5-2/</link>
+      <pubDate>Sun, 01 Sep 2024 08:00:00 +0000</pubDate>
+      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/post/2024-09-01-instead-3-5-2/</guid>
+      <description>Выпущен bugfix-релиз INSTEAD 3.5.2!
+улучшено: инсталлятор для Windows; улучшено: триггеры на геймпаде посылают события колеса мыши; исправлено: theme.reset(); множественные исправления в документации.</description>
+    </item>
+    
     <item>
       <title>INSTEAD 3.5.1</title>
       <link>/post/2023-09-01-instead-3-5-1/</link>

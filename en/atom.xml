@@ -4,7 +4,7 @@
 	<link href="/en/atom.xml" rel="self"/>
 	<link href="/en/"/>
 	<generator uri="https://gohugo.io/" version="hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2023-09-01T10:00:00+00:00</updated>
+	<updated>2024-09-01T08:00:00+00:00</updated>
 	<id>/en/</id>
 	<author>
 		<name>Peter Kosyh</name>
@@ -14,8 +14,8 @@
 	<title>Posts</title>
     <link href="/en/post/"/>
 	<id>/en/post/</id>
-    <published>2023-09-01T10:00:00+00:00</published>
-    <updated>2023-09-01T10:00:00+00:00</updated>
+    <published>2024-09-01T08:00:00+00:00</published>
+    <updated>2024-09-01T08:00:00+00:00</updated>
 	<content type="html"><![CDATA[
 
 ]]></content>
