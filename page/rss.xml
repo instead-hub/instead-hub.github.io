@@ -4,49 +4,40 @@
     <title>Pages on INSTEAD</title>
     <link>/page/</link>
     <description>Recent content in Pages on INSTEAD</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
-    <copyright>&amp;copy; 2009-2024</copyright>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="/page/rss.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2009-2025</copyright>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/page/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>МЕТАПАРСЕР3</title>
       <link>/page/metaparser/</link>
-      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/page/metaparser/</guid>
       <description>Модуль для создания игр с текстовым вводом МЕТАПАРСЕР3 (далее, МП3) &amp;ndash; модуль INSTEAD3, который позволяет создавать игры с текстовым вводом на русском и английском языках.</description>
     </item>
-    
     <item>
       <title>Как скачать и запустить игру?</title>
       <link>/page/games/</link>
-      <pubDate>Sun, 22 Apr 2018 00:50:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 22 Apr 2018 00:50:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/page/games/</guid>
-      <description>Где брать? Данный ресурс не содержит игр. Но вы можете найти их на следующих сайтах:
-Некоторые игры на itch от автора INSTEAD Репозиторий instead-games.</description>
+      <description>Где брать? Данный ресурс не содержит игр. Но вы можете найти их на следующих сайтах:&#xA;Некоторые игры на itch от автора INSTEAD Репозиторий instead-games.</description>
     </item>
-    
     <item>
       <title>Скриншоты</title>
       <link>/page/screenshots/</link>
-      <pubDate>Tue, 09 May 2017 08:58:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Tue, 09 May 2017 08:58:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/page/screenshots/</guid>
-      <description>На данный момент под INSTEAD написано уже довольно много игр. Вы можете посмотреть на скриншоты некоторых из них.
-Возвращение квантового кота Первая игра на INSTEAD &amp;ndash; &amp;ldquo;Возвращение квантового кота.</description>
+      <description>На данный момент под INSTEAD написано уже довольно много игр. Вы можете посмотреть на скриншоты некоторых из них.&#xA;Возвращение квантового кота Первая игра на INSTEAD &amp;ndash; &amp;ldquo;Возвращение квантового кота.</description>
     </item>
-    
     <item>
       <title>INSTEAD Клуб</title>
       <link>/page/club/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/page/club/</guid>
       <description>Добро пожаловать! Что это? Уютное место для тех, кто устал от публичности. Для тех, кто хочет пообщаться в более неформальной обстановке.</description>
     </item>
-    
   </channel>
 </rss>

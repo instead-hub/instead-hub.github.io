@@ -4,131 +4,96 @@
     <title>Articles on INSTEAD</title>
     <link>/article/</link>
     <description>Recent content in Articles on INSTEAD</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
-    <copyright>&amp;copy; 2009-2024</copyright>
-    <lastBuildDate>Sat, 05 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="/article/rss.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2009-2025</copyright>
+    <lastBuildDate>Sat, 05 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/article/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Мой инди проект длиной в 10 лет</title>
       <link>/article/instead-10/</link>
-      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/instead-10/</guid>
-      <description>Статья была опубликована на dtf.ru.
-Эту статью я собирался написать не один раз, но каждый раз &amp;ndash; откладывал. Основных причин, по которым я не решался, было две.</description>
+      <description>Статья была опубликована на dtf.ru.&#xA;Эту статью я собирался написать не один раз, но каждый раз &amp;ndash; откладывал. Основных причин, по которым я не решался, было две.</description>
     </item>
-    
     <item>
       <title>ПРИНТЕД 4</title>
       <link>/article/printed4/</link>
-      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/printed4/</guid>
-      <description>4 ноября 2017 г.
-http://instead.hugeping.ru Когда просматриваешь старые электронные журналы, рассцвет которых в нашей стране пришелся на бум &amp;ldquo;бытовых&amp;rdquo; компьютеров, чувствуешь какую то странную ностальгию.</description>
+      <description>4 ноября 2017 г.&#xA;http://instead.hugeping.ru Когда просматриваешь старые электронные журналы, рассцвет которых в нашей стране пришелся на бум &amp;ldquo;бытовых&amp;rdquo; компьютеров, чувствуешь какую то странную ностальгию.</description>
     </item>
-    
     <item>
       <title>Понимание комикса</title>
       <link>/article/ponimanie-komiksa/</link>
-      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/ponimanie-komiksa/</guid>
       <description>О работе &amp;ldquo;Понимание комикса&amp;rdquo; я впервые узнал из списка &amp;ldquo;рекомендуемых вещей&amp;rdquo; Брета Виктора. В этом списке имеется множество интересной литературы, но на наличие там комикса я внимания особого не обратил, списав на американскую специфику.</description>
     </item>
-    
     <item>
       <title>12 правил для игр-приключений от Рона Гилберта</title>
       <link>/article/12-pravil/</link>
-      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/12-pravil/</guid>
       <description>В далеком 1989 году, в журнале, который уже давно не существует (The Journal of Computer Game Design) была напечатана заметка Рона Гилберта (Monkey Island и проч.</description>
     </item>
-    
     <item>
       <title>Истоки систем интерактивного повествования</title>
       <link>/article/istoki-sistem/</link>
-      <pubDate>Wed, 22 Mar 2017 00:01:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 22 Mar 2017 00:01:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/istoki-sistem/</guid>
-      <description>Речь пойдет о разработках далекого прошлого, которые несут в себе существенные элементы систем интерактивного повествования (ИП).
-Морфология сказки (1928) Советский ученый, филолог-фольклорист В.</description>
+      <description>Речь пойдет о разработках далекого прошлого, которые несут в себе существенные элементы систем интерактивного повествования (ИП).&#xA;Морфология сказки (1928) Советский ученый, филолог-фольклорист В.</description>
     </item>
-    
     <item>
       <title>Wander: забытые истоки IF</title>
       <link>/article/wander/</link>
-      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/wander/</guid>
       <description>Введение Любой поклонник интерактивной литературы знает, что начало этому жанру положила знаменитая Colossal Cave Adventure (1975). Но текстовые игры на мэйнфреймах существовали и до нее.</description>
     </item>
-    
     <item>
       <title>ПРИНТЕД 3</title>
       <link>/article/printed3/</link>
-      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/printed3/</guid>
-      <description>20 февраля 2016 г.
-http://instead.hugeping.ru
-Привет всем, кто на связи! Последний выпуск принтеда вышел уже почти год назад. Как я и обещал, выпуски ПРИНТЕДА без игр не имеют смысла, поэтому такой вот период молчания не стал неожиданностью.</description>
+      <description>20 февраля 2016 г.&#xA;http://instead.hugeping.ru&#xA;Привет всем, кто на связи! Последний выпуск принтеда вышел уже почти год назад. Как я и обещал, выпуски ПРИНТЕДА без игр не имеют смысла, поэтому такой вот период молчания не стал неожиданностью.</description>
     </item>
-    
     <item>
       <title>ПРИНТЕД 2</title>
       <link>/article/printed2/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/printed2/</guid>
-      <description>1 апреля 2015 г.
-http://instead.hugeping.ru
-Привет всем, кто читает #2 выпуск ПРИНТЕДА! За этот месяц произошло не так много событий, так что выпуск будет коротенький.</description>
+      <description>1 апреля 2015 г.&#xA;http://instead.hugeping.ru&#xA;Привет всем, кто читает #2 выпуск ПРИНТЕДА! За этот месяц произошло не так много событий, так что выпуск будет коротенький.</description>
     </item>
-    
     <item>
       <title>ПРИНТЕД 1</title>
       <link>/article/printed1/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/printed1/</guid>
-      <description>1 марта 2015 г.
-http://instead.hugeping.ru
-Вот и наступила весна! А вместе с ней и новый выпуск ПРИНТЕДА. Теперь уже под цифрой #1, а как мы все понимаем, #1 это не #0!</description>
+      <description>1 марта 2015 г.&#xA;http://instead.hugeping.ru&#xA;Вот и наступила весна! А вместе с ней и новый выпуск ПРИНТЕДА. Теперь уже под цифрой #1, а как мы все понимаем, #1 это не #0!</description>
     </item>
-    
     <item>
       <title>ПРИНТЕД 0</title>
       <link>/article/printed0/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/printed0/</guid>
-      <description>1 февраля 2015 г.
-http://instead.hugeping.ru
-Привет всем! Идея начать выпуск периодической сборки новостей, связанных с проектом INSTEAD, пришла ко мне во время чтения электронных газет на БК 0010 (теплых и ламповых!</description>
+      <description>1 февраля 2015 г.&#xA;http://instead.hugeping.ru&#xA;Привет всем! Идея начать выпуск периодической сборки новостей, связанных с проектом INSTEAD, пришла ко мне во время чтения электронных газет на БК 0010 (теплых и ламповых!</description>
     </item>
-    
     <item>
       <title>Обзор INSTEAD 1.2.0</title>
       <link>/article/2010-09-12-instead-1-2-0-review/</link>
-      <pubDate>Sun, 12 Sep 2010 09:08:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 12 Sep 2010 09:08:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/2010-09-12-instead-1-2-0-review/</guid>
-      <description>Выкладываю обзор INSTEAD, который был написан для журнала LGT непосредственно после выпуска версии 1.2.0.
-Введение В августе была выпущена новая версия INSTEAD — интерпретатора простых текстовых приключенческих игр.</description>
+      <description>Выкладываю обзор INSTEAD, который был написан для журнала LGT непосредственно после выпуска версии 1.2.0.&#xA;Введение В августе была выпущена новая версия INSTEAD — интерпретатора простых текстовых приключенческих игр.</description>
     </item>
-    
     <item>
       <title>Как все начиналось</title>
       <link>/article/2010-05-09-history/</link>
-      <pubDate>Sun, 09 May 2010 08:58:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 09 May 2010 08:58:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/2010-05-09-history/</guid>
       <description>Уже больше года назад, увидела свет первая публичная версия INSTEAD и игра «Возвращение квантового кота». В то же время я написал статью в электронный журнал LGT о том, как создавался движок…</description>
     </item>
-    
   </channel>
 </rss>

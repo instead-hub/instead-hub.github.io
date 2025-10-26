@@ -4,162 +4,117 @@
     <title>Posts on INSTEAD</title>
     <link>/en/post/</link>
     <description>Recent content in Posts on INSTEAD</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
-    <copyright>&amp;copy; 2009-2024</copyright>
-    <lastBuildDate>Sun, 01 Sep 2024 08:00:00 +0000</lastBuildDate><atom:link href="/en/post/rss.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2009-2025</copyright>
+    <lastBuildDate>Sun, 01 Sep 2024 08:00:00 +0000</lastBuildDate>
+    <atom:link href="/en/post/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>INSTEAD 3.5.2</title>
       <link>/en/post/2024-09-01-instead-3-5-2/</link>
-      <pubDate>Sun, 01 Sep 2024 08:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 01 Sep 2024 08:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2024-09-01-instead-3-5-2/</guid>
-      <description>INSTEAD 3.5.2 is released! This is mostly bug-fix release.
-enh: redesigned installer for Windows; enh: gamepad triggers simulate mouse wheel up/down; fix: theme.</description>
+      <description>INSTEAD 3.5.2 is released! This is mostly bug-fix release.&#xA;enh: redesigned installer for Windows; enh: gamepad triggers simulate mouse wheel up/down; fix: theme.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.5.1</title>
       <link>/en/post/2023-09-01-instead-3-5-1/</link>
-      <pubDate>Fri, 01 Sep 2023 10:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Fri, 01 Sep 2023 10:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2023-09-01-instead-3-5-1/</guid>
-      <description>INSTEAD 3.5.1 released!
-enh: gamepads support; fix: anigif logic; fix: sprite alpha artefacts; fix: cleanups in instead library and docs; fix: Windows XP build; fix: -software parameter in Windows; fix: dbg keyboard input fix; fix: segfault in pixels (line).</description>
+      <description>INSTEAD 3.5.1 released!&#xA;enh: gamepads support; fix: anigif logic; fix: sprite alpha artefacts; fix: cleanups in instead library and docs; fix: Windows XP build; fix: -software parameter in Windows; fix: dbg keyboard input fix; fix: segfault in pixels (line).</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.5.0</title>
       <link>/en/post/2022-08-27-instead-3-5-0/</link>
-      <pubDate>Sat, 27 Aug 2022 08:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 27 Aug 2022 08:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2022-08-27-instead-3-5-0/</guid>
-      <description>INSTEAD 3.5.0 is out! Changes are:
-fix: menu font scaling; fix: get_bool; new: tutorial in stead3 API; new: wheel input event (grab_events mode); enh: do not scale-down non scalable themes via dpi scale &amp;lt; 1.</description>
+      <description>INSTEAD 3.5.0 is out! Changes are:&#xA;fix: menu font scaling; fix: get_bool; new: tutorial in stead3 API; new: wheel input event (grab_events mode); enh: do not scale-down non scalable themes via dpi scale &amp;lt; 1.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.4.1</title>
       <link>/en/post/2021-09-08-instead-3-4-1/</link>
-      <pubDate>Wed, 08 Sep 2021 19:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 08 Sep 2021 19:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2021-09-08-instead-3-4-1/</guid>
-      <description>Due to the fact that a nasty bug was detected in version 3.4.0, INSTEAD 3.4.1 has been released.
-Fixed a bug with scaling the scene image at dpi &amp;lt;96.</description>
+      <description>Due to the fact that a nasty bug was detected in version 3.4.0, INSTEAD 3.4.1 has been released.&#xA;Fixed a bug with scaling the scene image at dpi &amp;lt;96.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.4.0</title>
       <link>/en/post/2021-08-31-instead-3-4-0/</link>
-      <pubDate>Tue, 31 Aug 2021 14:35:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Tue, 31 Aug 2021 14:35:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2021-08-31-instead-3-4-0/</guid>
-      <description>INSTEAD 3.4.0 with hi-dpi support is out! Changes are:
-fix: pxl:fill_triangle cw order normalization; fix: build with new SDL_image; new: dpi awarness for win; new: high dpi ready (scale by dpi/96 when HQ option is on); new: -dpi parameter; new: instead.</description>
+      <description>INSTEAD 3.4.0 with hi-dpi support is out! Changes are:&#xA;fix: pxl:fill_triangle cw order normalization; fix: build with new SDL_image; new: dpi awarness for win; new: high dpi ready (scale by dpi/96 when HQ option is on); new: -dpi parameter; new: instead.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.3.4</title>
       <link>/en/post/2021-03-24-instead-3-3-4/</link>
-      <pubDate>Wed, 24 Mar 2021 07:35:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 24 Mar 2021 07:35:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2021-03-24-instead-3-3-4/</guid>
-      <description>Regression found in version 3.3.3! So, the INSTEAD 3.3.4 is out:
-regression with direct mode fixed; emscripten build is done with older emscripten version (compatibility with old browsers).</description>
+      <description>Regression found in version 3.3.3! So, the INSTEAD 3.3.4 is out:&#xA;regression with direct mode fixed; emscripten build is done with older emscripten version (compatibility with old browsers).</description>
     </item>
-    
     <item>
       <title>DNS name changing!</title>
       <link>/en/post/2021-03-10-hugeping/</link>
-      <pubDate>Wed, 10 Mar 2021 12:03:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 10 Mar 2021 12:03:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2021-03-10-hugeping/</guid>
-      <description>ATTENTION! The INSTEAD project page will not be available at: https://instead.syscall.ru anymore!
-New address: https://instead.hugeping.ru.
-Also, as usual, this address works: https://instead-hub.</description>
+      <description>ATTENTION! The INSTEAD project page will not be available at: https://instead.syscall.ru anymore!&#xA;New address: https://instead.hugeping.ru.&#xA;Also, as usual, this address works: https://instead-hub.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.3.3</title>
       <link>/en/post/2021-02-10-instead-3-3-3/</link>
-      <pubDate>Wed, 10 Feb 2021 11:03:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 10 Feb 2021 11:03:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2021-02-10-instead-3-3-3/</guid>
-      <description>INSTEAD 3.3.3 is out! Changes are:
-new: scr.col.brd in theme.ini; new: rtl support (_USE_HARFBUZZ and new SDL_ttf needed); new: instead.tiny flag in tiny; enh: emscripten 2.</description>
+      <description>INSTEAD 3.3.3 is out! Changes are:&#xA;new: scr.col.brd in theme.ini; new: rtl support (_USE_HARFBUZZ and new SDL_ttf needed); new: instead.tiny flag in tiny; enh: emscripten 2.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.3.2</title>
       <link>/en/post/2020-04-19-instead-3-3-2/</link>
-      <pubDate>Sun, 19 Apr 2020 10:10:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 19 Apr 2020 10:10:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2020-04-19-instead-3-3-2/</guid>
-      <description>INSTEAD 3.3.2 is out! Changes are:
-fix: -lua parameter; fix: WM minimized state fix; fix: anigif and decorators fix; fix: gtk3 build warning; new: initial gamepad support; new: utf8 tiny library; enh: loadstring sandboxed; enh: stead3 debugger uses native text input; enh: doc fixes; Binary builds will be available as soon as they are ready.</description>
+      <description>INSTEAD 3.3.2 is out! Changes are:&#xA;fix: -lua parameter; fix: WM minimized state fix; fix: anigif and decorators fix; fix: gtk3 build warning; new: initial gamepad support; new: utf8 tiny library; enh: loadstring sandboxed; enh: stead3 debugger uses native text input; enh: doc fixes; Binary builds will be available as soon as they are ready.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.3.1</title>
       <link>/en/post/2019-10-04-instead-3-3-1/</link>
-      <pubDate>Fri, 04 Oct 2019 16:08:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Fri, 04 Oct 2019 16:08:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2019-10-04-instead-3-3-1/</guid>
-      <description>INSTEAD 3.3.1 released:
-fix: build with SDL 2.0.10; enh: discord bot can be sticked to channel(s); enh: english doc fixes; This is source code only release.</description>
+      <description>INSTEAD 3.3.1 released:&#xA;fix: build with SDL 2.0.10; enh: discord bot can be sticked to channel(s); enh: english doc fixes; This is source code only release.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.3.0</title>
       <link>/en/post/2019-03-08-instead-3-3-0/</link>
-      <pubDate>Fri, 08 Mar 2019 11:15:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Fri, 08 Mar 2019 11:15:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2019-03-08-instead-3-3-0/</guid>
-      <description>INSTEAD 3.3.0 is out! Changes are:
-new: input:text() event; new: tiny instead for metaparser; new: telegram, vk and discord bots; enh: english documentation; enh: Android port; fix: list:add() and order; fix: some compilation warnings; fix: makefile and source code cleanups; fix: possible segfault; fix: do not eat keyboard input; enh: emscripten port builded with -s WASM=1 Binary builds will be available as soon as they are ready.</description>
+      <description>INSTEAD 3.3.0 is out! Changes are:&#xA;new: input:text() event; new: tiny instead for metaparser; new: telegram, vk and discord bots; enh: english documentation; enh: Android port; fix: list:add() and order; fix: some compilation warnings; fix: makefile and source code cleanups; fix: possible segfault; fix: do not eat keyboard input; enh: emscripten port builded with -s WASM=1 Binary builds will be available as soon as they are ready.</description>
     </item>
-    
     <item>
       <title>Happy Birthday, INSTEAD!</title>
       <link>/en/post/2019-02-20-ten-years/</link>
-      <pubDate>Wed, 20 Feb 2019 07:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 20 Feb 2019 07:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2019-02-20-ten-years/</guid>
-      <description>Hello friends! Today is our project anniversary. Exactly 10 years ago [the first version of INSTEAD was released] (https://www.linux.org.ru/news/games/3518942).
-This is a serious age for an amateur project.</description>
+      <description>Hello friends! Today is our project anniversary. Exactly 10 years ago [the first version of INSTEAD was released] (https://www.linux.org.ru/news/games/3518942).&#xA;This is a serious age for an amateur project.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.2.2</title>
       <link>/en/post/2018-09-01-instead-3-2-2/</link>
-      <pubDate>Sat, 01 Sep 2018 07:18:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 01 Sep 2018 07:18:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2018-09-01-instead-3-2-2/</guid>
-      <description>INSTEAD 3.2.2 is out! Changes are:
-new: mobile theme; new: -lang parameter; new: -notheme parameter; new: instead.screen_size(); enh: themes cleanups; new: cmake and LuaJIT build (-DWITH_LUAJIT=1); enh: autosave in emscripten build; enh: load status in emscripten build; new: machine-translated English manual; fix: Lua5.</description>
+      <description>INSTEAD 3.2.2 is out! Changes are:&#xA;new: mobile theme; new: -lang parameter; new: -notheme parameter; new: instead.screen_size(); enh: themes cleanups; new: cmake and LuaJIT build (-DWITH_LUAJIT=1); enh: autosave in emscripten build; enh: load status in emscripten build; new: machine-translated English manual; fix: Lua5.</description>
     </item>
-    
     <item>
       <title>INSTEAD3 new website</title>
       <link>/en/post/2018-04-22-site/</link>
-      <pubDate>Sun, 22 Apr 2018 09:24:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 22 Apr 2018 09:24:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2018-04-22-site/</guid>
-      <description>Welcome to the new site of INSTEAD – interpreter of simple text adventures for Unix and Windows!
-It is extremaly minimal now.</description>
+      <description>Welcome to the new site of INSTEAD – interpreter of simple text adventures for Unix and Windows!&#xA;It is extremaly minimal now.</description>
     </item>
-    
     <item>
       <title>Forum has moved</title>
       <link>/en/post/2018-03-02-forum/</link>
-      <pubDate>Fri, 02 Mar 2018 14:27:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Fri, 02 Mar 2018 14:27:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/en/post/2018-03-02-forum/</guid>
-      <description>Attention! Forum has moved to http://instead-games.ru/forum Please, update your bookmarks. ;)
-See ya!</description>
+      <description>Attention! Forum has moved to http://instead-games.ru/forum Please, update your bookmarks. ;)&#xA;See ya!</description>
     </item>
-    
   </channel>
 </rss>

@@ -4,10 +4,11 @@
     <title>Tags on INSTEAD</title>
     <link>/en/tags/</link>
     <description>Recent content in Tags on INSTEAD</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
-    <copyright>&amp;copy; 2009-2024</copyright><atom:link href="/en/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2009-2025</copyright>
+    <atom:link href="/en/tags/rss.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

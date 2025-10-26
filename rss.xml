@@ -4,390 +4,278 @@
     <title>INSTEAD</title>
     <link>/</link>
     <description>Recent content on INSTEAD</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ru</language>
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
-    <copyright>&amp;copy; 2009-2024</copyright>
-    <lastBuildDate>Sun, 01 Sep 2024 08:00:00 +0000</lastBuildDate><atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2009-2025</copyright>
+    <lastBuildDate>Sun, 01 Sep 2024 08:00:00 +0000</lastBuildDate>
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>INSTEAD 3.5.2</title>
       <link>/post/2024-09-01-instead-3-5-2/</link>
-      <pubDate>Sun, 01 Sep 2024 08:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 01 Sep 2024 08:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2024-09-01-instead-3-5-2/</guid>
-      <description>Выпущен INSTEAD 3.5.2!
-улучшено: инсталлятор для Windows; улучшено: триггеры на геймпаде посылают события колеса мыши; исправлено: theme.reset(); множественные исправления в документации.</description>
+      <description>Выпущен INSTEAD 3.5.2!&#xA;улучшено: инсталлятор для Windows; улучшено: триггеры на геймпаде посылают события колеса мыши; исправлено: theme.reset(); множественные исправления в документации.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.5.1</title>
       <link>/post/2023-09-01-instead-3-5-1/</link>
-      <pubDate>Fri, 01 Sep 2023 10:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Fri, 01 Sep 2023 10:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2023-09-01-instead-3-5-1/</guid>
-      <description>Выпущен bugfix-релиз INSTEAD 3.5.1!
-новое: поддержка геймпадов; исправлено: анимированные gif; исправлено: артефаеты с альфаканалом в спрайтах; улучшения в библиотеке и документации; исправлено: сборка для Windows XP; исправлено: параметр -software для Windows; исправлено: ввод в отладчике; исправлено: падение при рисовании линий.</description>
+      <description>Выпущен bugfix-релиз INSTEAD 3.5.1!&#xA;новое: поддержка геймпадов; исправлено: анимированные gif; исправлено: артефаеты с альфаканалом в спрайтах; улучшения в библиотеке и документации; исправлено: сборка для Windows XP; исправлено: параметр -software для Windows; исправлено: ввод в отладчике; исправлено: падение при рисовании линий.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.5.0</title>
       <link>/post/2022-08-27-instead-3-5-0/</link>
-      <pubDate>Sat, 27 Aug 2022 08:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 27 Aug 2022 08:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2022-08-27-instead-3-5-0/</guid>
-      <description>Выпущен INSTEAD 3.5.0!
-исправлено: масштабирование шрифта меню; исправлено: get_bool атрибут; новое: режим обучения переписан на stead3 API; новое: событие прокрутки колёсика мыши (grab_events mode); улучшение: не масштабировать немасштабируемые темы вниз при dpi масштабе &amp;lt; 1.</description>
+      <description>Выпущен INSTEAD 3.5.0!&#xA;исправлено: масштабирование шрифта меню; исправлено: get_bool атрибут; новое: режим обучения переписан на stead3 API; новое: событие прокрутки колёсика мыши (grab_events mode); улучшение: не масштабировать немасштабируемые темы вниз при dpi масштабе &amp;lt; 1.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.4.1</title>
       <link>/post/2021-09-08-instead-3-4-1/</link>
-      <pubDate>Wed, 08 Sep 2021 19:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 08 Sep 2021 19:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2021-09-08-instead-3-4-1/</guid>
-      <description>В связи с тем, что в версии 3.4.0 выявлена неприятная ошибка, выпущен INSTEAD 3.4.1.
-исправлена ошибка масштабирования картинки сцены при dpi &amp;lt; 96.</description>
+      <description>В связи с тем, что в версии 3.4.0 выявлена неприятная ошибка, выпущен INSTEAD 3.4.1.&#xA;исправлена ошибка масштабирования картинки сцены при dpi &amp;lt; 96.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.4.0</title>
       <link>/post/2021-08-31-instead-3-4-0/</link>
-      <pubDate>Tue, 31 Aug 2021 14:35:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Tue, 31 Aug 2021 14:35:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2021-08-31-instead-3-4-0/</guid>
-      <description>Выпущен INSTEAD 3.4.0 с поддержкой высоких разрешений и адаптивных тем! Изменения:
-исправление в pxl:fill_triangle (сортировка вершин); исправлена сборка с новым SDL_image; корректная работа с масштабированием в Windows (dpi awarness); поддержка высоких dpi (если включена опция HQ); новый параметр -dpi ; новая функция instead.</description>
+      <description>Выпущен INSTEAD 3.4.0 с поддержкой высоких разрешений и адаптивных тем! Изменения:&#xA;исправление в pxl:fill_triangle (сортировка вершин); исправлена сборка с новым SDL_image; корректная работа с масштабированием в Windows (dpi awarness); поддержка высоких dpi (если включена опция HQ); новый параметр -dpi ; новая функция instead.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.3.4</title>
       <link>/post/2021-03-24-instead-3-3-4/</link>
-      <pubDate>Wed, 24 Mar 2021 07:35:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 24 Mar 2021 07:35:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2021-03-24-instead-3-3-4/</guid>
-      <description>В связи с тем, что в версии 3.3.3 выявлена неприятная регрессия, выпущен INSTEAD 3.3.4. Список изменений:
-исправлена регрессия при работе в direct режиме; emscripten версия собрана с более старым emscripten для совместимости со старыми браузерами.</description>
+      <description>В связи с тем, что в версии 3.3.3 выявлена неприятная регрессия, выпущен INSTEAD 3.3.4. Список изменений:&#xA;исправлена регрессия при работе в direct режиме; emscripten версия собрана с более старым emscripten для совместимости со старыми браузерами.</description>
     </item>
-    
     <item>
       <title>Смена доменного имени</title>
       <link>/post/2021-03-10-hugeping/</link>
-      <pubDate>Wed, 10 Mar 2021 12:03:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 10 Mar 2021 12:03:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2021-03-10-hugeping/</guid>
-      <description>Внимание! Страница проекта INSTEAD в скором времени перестанет быть доступна по адресу: https://instead.syscall.ru.
-Новый адрес: https://instead.hugeping.ru.
-Кроме того, как обычно, работает адрес: https://instead-hub.</description>
+      <description>Внимание! Страница проекта INSTEAD в скором времени перестанет быть доступна по адресу: https://instead.syscall.ru.&#xA;Новый адрес: https://instead.hugeping.ru.&#xA;Кроме того, как обычно, работает адрес: https://instead-hub.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.3.3</title>
       <link>/post/2021-02-10-instead-3-3-3/</link>
-      <pubDate>Wed, 10 Feb 2021 11:03:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 10 Feb 2021 11:03:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2021-02-10-instead-3-3-3/</guid>
-      <description>Выпущен INSTEAD 3.3.3. Список изменений:
-добавлен параметр темы scr.col.brd (цвет бордюра); поддержка RTL (при сборке с _USE_HARFBUZZ и новым SDL_ttf); добавлен флаг instead.</description>
+      <description>Выпущен INSTEAD 3.3.3. Список изменений:&#xA;добавлен параметр темы scr.col.brd (цвет бордюра); поддержка RTL (при сборке с _USE_HARFBUZZ и новым SDL_ttf); добавлен флаг instead.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.3.2</title>
       <link>/post/2020-04-19-instead-3-3-2/</link>
-      <pubDate>Sun, 19 Apr 2020 10:10:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 19 Apr 2020 10:10:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2020-04-19-instead-3-3-2/</guid>
-      <description>Выпущен INSTEAD 3.3.2. Список изменений:
-исправлен параметр -lua; исправлена работа в некоторых оконных менеджерах (минимизация); исправлена логика анимированных gif (совместная работа с декораторами); сборка с gtk3 больше не дает предупреждений; начальная поддержка геймпадов; добавлены функции utf8_XXX; loadstring не позволяет выполнять скомпилированный байткод; отладчик stead3 позволяет использовать системную раскладку; улучшения в документации.</description>
+      <description>Выпущен INSTEAD 3.3.2. Список изменений:&#xA;исправлен параметр -lua; исправлена работа в некоторых оконных менеджерах (минимизация); исправлена логика анимированных gif (совместная работа с декораторами); сборка с gtk3 больше не дает предупреждений; начальная поддержка геймпадов; добавлены функции utf8_XXX; loadstring не позволяет выполнять скомпилированный байткод; отладчик stead3 позволяет использовать системную раскладку; улучшения в документации.</description>
     </item>
-    
     <item>
       <title>МЕТАПАРСЕР 1.6</title>
       <link>/post/2019-10-05-metaparser-1-6/</link>
-      <pubDate>Sat, 05 Oct 2019 05:06:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 05 Oct 2019 05:06:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2019-10-05-metaparser-1-6/</guid>
-      <description>Обновлён МЕТАПАРСЕР &amp;ndash; модуль для создания парсерных игр. Среди изменений:
-улучшенная реакция на ошибки ввода; исправления в стандартной библиотеке. Одновременно с этим обновлена также и js версия.</description>
+      <description>Обновлён МЕТАПАРСЕР &amp;ndash; модуль для создания парсерных игр. Среди изменений:&#xA;улучшенная реакция на ошибки ввода; исправления в стандартной библиотеке. Одновременно с этим обновлена также и js версия.</description>
     </item>
-    
     <item>
       <title>Мой инди проект длиной в 10 лет</title>
       <link>/article/instead-10/</link>
-      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/instead-10/</guid>
-      <description>Статья была опубликована на dtf.ru.
-Эту статью я собирался написать не один раз, но каждый раз &amp;ndash; откладывал. Основных причин, по которым я не решался, было две.</description>
+      <description>Статья была опубликована на dtf.ru.&#xA;Эту статью я собирался написать не один раз, но каждый раз &amp;ndash; откладывал. Основных причин, по которым я не решался, было две.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.3.1</title>
       <link>/post/2019-10-04-instead-3-3-1/</link>
-      <pubDate>Fri, 04 Oct 2019 16:08:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Fri, 04 Oct 2019 16:08:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2019-10-04-instead-3-3-1/</guid>
-      <description>В связи с проблемой сборки INSTEAD с последней версией SDL2, экстренно выпущен INSTEAD 3.3.1.
-Изменения:
-исправлена сборка с SDL 2.0.10 (причина выпуска bugfix версии 3.</description>
+      <description>В связи с проблемой сборки INSTEAD с последней версией SDL2, экстренно выпущен INSTEAD 3.3.1.&#xA;Изменения:&#xA;исправлена сборка с SDL 2.0.10 (причина выпуска bugfix версии 3.</description>
     </item>
-    
     <item>
       <title>МЕТАПАРСЕР-js 1.0</title>
       <link>/post/2019-04-09-metaparser-js-1.0/</link>
-      <pubDate>Tue, 09 Apr 2019 09:56:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Tue, 09 Apr 2019 09:56:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2019-04-09-metaparser-js-1.0/</guid>
-      <description>Хорошие новости для любителей парсерных игр! Одновременно с выпуском МЕТАПАРСЕРА 1.4 выпущена специальная минимальная js версия интерпретатора парсерных игр!
-Посмотреть на то, как выглядят игры в этом формате можно в библиотеке парсерных игр: https://parser.</description>
+      <description>Хорошие новости для любителей парсерных игр! Одновременно с выпуском МЕТАПАРСЕРА 1.4 выпущена специальная минимальная js версия интерпретатора парсерных игр!&#xA;Посмотреть на то, как выглядят игры в этом формате можно в библиотеке парсерных игр: https://parser.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.3.0</title>
       <link>/post/2019-03-08-instead-3-3-0/</link>
-      <pubDate>Fri, 08 Mar 2019 11:15:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Fri, 08 Mar 2019 11:15:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2019-03-08-instead-3-3-0/</guid>
-      <description>Выпущен INSTEAD 3.3.0. Список изменений:
-возможность принимать unicode символы при вводе (SDL2, метапарсер3); tiny instead вариант для метапарсера3; боты для telegram, vk и discord (golang); улучшена английская документация; улучшен Android порт (от Бориса Тимофеева); исправлена ошибка сортировки при list:add(); исправлены замечания при компиляции; исправлена ошибка при освобождении темы (падение); улучшен клавиатурный ввод; emscripten версия собрана в режиме WASM.</description>
+      <description>Выпущен INSTEAD 3.3.0. Список изменений:&#xA;возможность принимать unicode символы при вводе (SDL2, метапарсер3); tiny instead вариант для метапарсера3; боты для telegram, vk и discord (golang); улучшена английская документация; улучшен Android порт (от Бориса Тимофеева); исправлена ошибка сортировки при list:add(); исправлены замечания при компиляции; исправлена ошибка при освобождении темы (падение); улучшен клавиатурный ввод; emscripten версия собрана в режиме WASM.</description>
     </item>
-    
     <item>
       <title>С Днём Рождения, INSTEAD!</title>
       <link>/post/2019-02-20-ten-years/</link>
-      <pubDate>Wed, 20 Feb 2019 07:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 20 Feb 2019 07:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2019-02-20-ten-years/</guid>
-      <description>Привет, друзья! Сегодня у нашего проекта юбилей. Ровно 10 лет назад вышла первая версия INSTEAD.
-Это серьезный возраст для любительского проекта.</description>
+      <description>Привет, друзья! Сегодня у нашего проекта юбилей. Ровно 10 лет назад вышла первая версия INSTEAD.&#xA;Это серьезный возраст для любительского проекта.</description>
     </item>
-    
     <item>
       <title>МЕТАПАРСЕР 0.9</title>
       <link>/post/2018-10-13-metaparser-0-9/</link>
-      <pubDate>Sat, 13 Oct 2018 10:10:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 13 Oct 2018 10:10:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2018-10-13-metaparser-0-9/</guid>
-      <description>После продолжительного периода разработки и бета-тестирования, Выпущена первая стабильная версия модуля &amp;ldquo;МЕТАПАРСЕР3&amp;rdquo;.
-Модуль предназначен для создания игр с текстовым вводом.</description>
+      <description>После продолжительного периода разработки и бета-тестирования, Выпущена первая стабильная версия модуля &amp;ldquo;МЕТАПАРСЕР3&amp;rdquo;.&#xA;Модуль предназначен для создания игр с текстовым вводом.</description>
     </item>
-    
     <item>
       <title>МЕТАПАРСЕР3</title>
       <link>/page/metaparser/</link>
-      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/page/metaparser/</guid>
       <description>Модуль для создания игр с текстовым вводом МЕТАПАРСЕР3 (далее, МП3) &amp;ndash; модуль INSTEAD3, который позволяет создавать игры с текстовым вводом на русском и английском языках.</description>
     </item>
-    
     <item>
       <title>INSTEAD 3.2.2</title>
       <link>/post/2018-09-01-instead-3-2-2/</link>
-      <pubDate>Sat, 01 Sep 2018 07:18:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 01 Sep 2018 07:18:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2018-09-01-instead-3-2-2/</guid>
-      <description>Выпущен INSTEAD 3.2.2. Список изменений:
-переработаны некоторые игровые темы, добавлена тема &amp;ldquo;Мобильная&amp;rdquo;; параметр -lang; параметр -notheme; функция instead.screen_size() (модуль autotheme в stead3-modules); сборка с LuaJIT в cmake (-DWITH_LUAJIT=1); улучшения в emscripten версии (автосохранение, статус загрузки); документация на английском; исправлена совместимость с Lua5.</description>
+      <description>Выпущен INSTEAD 3.2.2. Список изменений:&#xA;переработаны некоторые игровые темы, добавлена тема &amp;ldquo;Мобильная&amp;rdquo;; параметр -lang; параметр -notheme; функция instead.screen_size() (модуль autotheme в stead3-modules); сборка с LuaJIT в cmake (-DWITH_LUAJIT=1); улучшения в emscripten версии (автосохранение, статус загрузки); документация на английском; исправлена совместимость с Lua5.</description>
     </item>
-    
     <item>
       <title>Новая страница INSTEAD3</title>
       <link>/post/2018-04-22-site/</link>
-      <pubDate>Sun, 22 Apr 2018 09:24:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 22 Apr 2018 09:24:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2018-04-22-site/</guid>
-      <description>Если вы читаете это сообщение, значит вы находитесь на новом сайте INSTEAD3.
-Кроме того, что сайт стал экстремально простым (он прекрасно смотрится в w3m), в работе ресурсов INSTEAD произошли следующие изменения:</description>
+      <description>Если вы читаете это сообщение, значит вы находитесь на новом сайте INSTEAD3.&#xA;Кроме того, что сайт стал экстремально простым (он прекрасно смотрится в w3m), в работе ресурсов INSTEAD произошли следующие изменения:</description>
     </item>
-    
     <item>
       <title>Как скачать и запустить игру?</title>
       <link>/page/games/</link>
-      <pubDate>Sun, 22 Apr 2018 00:50:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 22 Apr 2018 00:50:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/page/games/</guid>
-      <description>Где брать? Данный ресурс не содержит игр. Но вы можете найти их на следующих сайтах:
-Некоторые игры на itch от автора INSTEAD Репозиторий instead-games.</description>
+      <description>Где брать? Данный ресурс не содержит игр. Но вы можете найти их на следующих сайтах:&#xA;Некоторые игры на itch от автора INSTEAD Репозиторий instead-games.</description>
     </item>
-    
     <item>
       <title>Форум переехал</title>
       <link>/post/2018-03-02-forum/</link>
-      <pubDate>Fri, 02 Mar 2018 14:27:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Fri, 02 Mar 2018 14:27:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/post/2018-03-02-forum/</guid>
-      <description>Друзья, то о чем так долго говорили &amp;ndash; произошло! Форум переезжает на площадку http://instead-games.ru/forum
-Администратором форума становится spline. (Andrew Lobanov) Я (автор INSTEAD) становлюсь просто рядовым пользователем этого ресурса.</description>
+      <description>Друзья, то о чем так долго говорили &amp;ndash; произошло! Форум переезжает на площадку http://instead-games.ru/forum&#xA;Администратором форума становится spline. (Andrew Lobanov) Я (автор INSTEAD) становлюсь просто рядовым пользователем этого ресурса.</description>
     </item>
-    
     <item>
       <title>ПРИНТЕД 4</title>
       <link>/article/printed4/</link>
-      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/printed4/</guid>
-      <description>4 ноября 2017 г.
-http://instead.hugeping.ru Когда просматриваешь старые электронные журналы, рассцвет которых в нашей стране пришелся на бум &amp;ldquo;бытовых&amp;rdquo; компьютеров, чувствуешь какую то странную ностальгию.</description>
+      <description>4 ноября 2017 г.&#xA;http://instead.hugeping.ru Когда просматриваешь старые электронные журналы, рассцвет которых в нашей стране пришелся на бум &amp;ldquo;бытовых&amp;rdquo; компьютеров, чувствуешь какую то странную ностальгию.</description>
     </item>
-    
     <item>
       <title>Понимание комикса</title>
       <link>/article/ponimanie-komiksa/</link>
-      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/ponimanie-komiksa/</guid>
       <description>О работе &amp;ldquo;Понимание комикса&amp;rdquo; я впервые узнал из списка &amp;ldquo;рекомендуемых вещей&amp;rdquo; Брета Виктора. В этом списке имеется множество интересной литературы, но на наличие там комикса я внимания особого не обратил, списав на американскую специфику.</description>
     </item>
-    
     <item>
       <title>Скриншоты</title>
       <link>/page/screenshots/</link>
-      <pubDate>Tue, 09 May 2017 08:58:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Tue, 09 May 2017 08:58:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/page/screenshots/</guid>
-      <description>На данный момент под INSTEAD написано уже довольно много игр. Вы можете посмотреть на скриншоты некоторых из них.
-Возвращение квантового кота Первая игра на INSTEAD &amp;ndash; &amp;ldquo;Возвращение квантового кота.</description>
+      <description>На данный момент под INSTEAD написано уже довольно много игр. Вы можете посмотреть на скриншоты некоторых из них.&#xA;Возвращение квантового кота Первая игра на INSTEAD &amp;ndash; &amp;ldquo;Возвращение квантового кота.</description>
     </item>
-    
     <item>
       <title>12 правил для игр-приключений от Рона Гилберта</title>
       <link>/article/12-pravil/</link>
-      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/12-pravil/</guid>
       <description>В далеком 1989 году, в журнале, который уже давно не существует (The Journal of Computer Game Design) была напечатана заметка Рона Гилберта (Monkey Island и проч.</description>
     </item>
-    
     <item>
       <title>Истоки систем интерактивного повествования</title>
       <link>/article/istoki-sistem/</link>
-      <pubDate>Wed, 22 Mar 2017 00:01:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 22 Mar 2017 00:01:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/istoki-sistem/</guid>
-      <description>Речь пойдет о разработках далекого прошлого, которые несут в себе существенные элементы систем интерактивного повествования (ИП).
-Морфология сказки (1928) Советский ученый, филолог-фольклорист В.</description>
+      <description>Речь пойдет о разработках далекого прошлого, которые несут в себе существенные элементы систем интерактивного повествования (ИП).&#xA;Морфология сказки (1928) Советский ученый, филолог-фольклорист В.</description>
     </item>
-    
     <item>
       <title>Wander: забытые истоки IF</title>
       <link>/article/wander/</link>
-      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/wander/</guid>
       <description>Введение Любой поклонник интерактивной литературы знает, что начало этому жанру положила знаменитая Colossal Cave Adventure (1975). Но текстовые игры на мэйнфреймах существовали и до нее.</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>/contact/</link>
-      <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/contact/</guid>
       <description>Сообщество https://t.me/insteadtalk - Telegram irc.oftc.net #instead - irc Поддержи проект Если вам нравится проект, вы можете перечислить произвольную сумму денег автору движка (мне).</description>
     </item>
-    
     <item>
       <title>Documentation</title>
       <link>/doc/</link>
-      <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/doc/</guid>
-      <description>Авторам Для создания игры вам понадобится редактор, поддерживающий UTF-8 без BOM.
-Документация для разработчиков игр поставляется вместе с дистрибутивом INSTEAD в соответствующем каталоге (doc/).</description>
+      <description>Авторам Для создания игры вам понадобится редактор, поддерживающий UTF-8 без BOM.&#xA;Документация для разработчиков игр поставляется вместе с дистрибутивом INSTEAD в соответствующем каталоге (doc/).</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>/about/</link>
-      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/about/</guid>
-      <description>О проекте INSTEAD позволяет создавать текстографические приключенческие игры.
-Жанр таких игр находится на стыке интерактивной литературы, визуальных новелл и классических point &amp;amp; click квестов.</description>
+      <description>О проекте INSTEAD позволяет создавать текстографические приключенческие игры.&#xA;Жанр таких игр находится на стыке интерактивной литературы, визуальных новелл и классических point &amp;amp; click квестов.</description>
     </item>
-    
     <item>
       <title>Download</title>
       <link>/download/</link>
-      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/download/</guid>
-      <description>Скачать Версия 3.5.2
-Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить) PPA репозиторий для Ubuntu Репозиторий для openSUSE Версия для OS X Версия для Android Исходный код Другие пакеты </description>
+      <description>Скачать Версия 3.5.2&#xA;Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить) PPA репозиторий для Ubuntu Репозиторий для openSUSE Версия для OS X Версия для Android Исходный код Другие пакеты </description>
     </item>
-    
     <item>
       <title>ПРИНТЕД 3</title>
       <link>/article/printed3/</link>
-      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/printed3/</guid>
-      <description>20 февраля 2016 г.
-http://instead.hugeping.ru
-Привет всем, кто на связи! Последний выпуск принтеда вышел уже почти год назад. Как я и обещал, выпуски ПРИНТЕДА без игр не имеют смысла, поэтому такой вот период молчания не стал неожиданностью.</description>
+      <description>20 февраля 2016 г.&#xA;http://instead.hugeping.ru&#xA;Привет всем, кто на связи! Последний выпуск принтеда вышел уже почти год назад. Как я и обещал, выпуски ПРИНТЕДА без игр не имеют смысла, поэтому такой вот период молчания не стал неожиданностью.</description>
     </item>
-    
     <item>
       <title>ПРИНТЕД 2</title>
       <link>/article/printed2/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/printed2/</guid>
-      <description>1 апреля 2015 г.
-http://instead.hugeping.ru
-Привет всем, кто читает #2 выпуск ПРИНТЕДА! За этот месяц произошло не так много событий, так что выпуск будет коротенький.</description>
+      <description>1 апреля 2015 г.&#xA;http://instead.hugeping.ru&#xA;Привет всем, кто читает #2 выпуск ПРИНТЕДА! За этот месяц произошло не так много событий, так что выпуск будет коротенький.</description>
     </item>
-    
     <item>
       <title>ПРИНТЕД 1</title>
       <link>/article/printed1/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/printed1/</guid>
-      <description>1 марта 2015 г.
-http://instead.hugeping.ru
-Вот и наступила весна! А вместе с ней и новый выпуск ПРИНТЕДА. Теперь уже под цифрой #1, а как мы все понимаем, #1 это не #0!</description>
+      <description>1 марта 2015 г.&#xA;http://instead.hugeping.ru&#xA;Вот и наступила весна! А вместе с ней и новый выпуск ПРИНТЕДА. Теперь уже под цифрой #1, а как мы все понимаем, #1 это не #0!</description>
     </item>
-    
     <item>
       <title>ПРИНТЕД 0</title>
       <link>/article/printed0/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/printed0/</guid>
-      <description>1 февраля 2015 г.
-http://instead.hugeping.ru
-Привет всем! Идея начать выпуск периодической сборки новостей, связанных с проектом INSTEAD, пришла ко мне во время чтения электронных газет на БК 0010 (теплых и ламповых!</description>
+      <description>1 февраля 2015 г.&#xA;http://instead.hugeping.ru&#xA;Привет всем! Идея начать выпуск периодической сборки новостей, связанных с проектом INSTEAD, пришла ко мне во время чтения электронных газет на БК 0010 (теплых и ламповых!</description>
     </item>
-    
     <item>
       <title>Обзор INSTEAD 1.2.0</title>
       <link>/article/2010-09-12-instead-1-2-0-review/</link>
-      <pubDate>Sun, 12 Sep 2010 09:08:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 12 Sep 2010 09:08:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/2010-09-12-instead-1-2-0-review/</guid>
-      <description>Выкладываю обзор INSTEAD, который был написан для журнала LGT непосредственно после выпуска версии 1.2.0.
-Введение В августе была выпущена новая версия INSTEAD — интерпретатора простых текстовых приключенческих игр.</description>
+      <description>Выкладываю обзор INSTEAD, который был написан для журнала LGT непосредственно после выпуска версии 1.2.0.&#xA;Введение В августе была выпущена новая версия INSTEAD — интерпретатора простых текстовых приключенческих игр.</description>
     </item>
-    
     <item>
       <title>Как все начиналось</title>
       <link>/article/2010-05-09-history/</link>
-      <pubDate>Sun, 09 May 2010 08:58:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Sun, 09 May 2010 08:58:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/article/2010-05-09-history/</guid>
       <description>Уже больше года назад, увидела свет первая публичная версия INSTEAD и игра «Возвращение квантового кота». В то же время я написал статью в электронный журнал LGT о том, как создавался движок…</description>
     </item>
-    
     <item>
       <title>INSTEAD Клуб</title>
       <link>/page/club/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>gl00my@mail.ru (Peter Kosyh)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/page/club/</guid>
       <description>Добро пожаловать! Что это? Уютное место для тех, кто устал от публичности. Для тех, кто хочет пообщаться в более неформальной обстановке.</description>
     </item>
-    
   </channel>
 </rss>
