@@ -9,8 +9,15 @@
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2026</copyright>
-    <lastBuildDate>Sun, 01 Sep 2024 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:00:00 +0000</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INSTEAD 3.6.0</title>
+      <link>/post/2026-09-27-instead-3-6-0/</link>
+      <pubDate>Sun, 27 Sep 2026 08:00:00 +0000</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
+      <guid>/post/2026-09-27-instead-3-6-0/</guid>
+      <description>После долгого перерыва выпущен INSTEAD 3.6.0!&#xA;В этот раз обновление очень объёмное. INSTEAD переписан для работы с SDL3. Это дало возможность ещё упростить код и облегчить его сопровождение в будущем.</description>
+    </item>
     <item>
       <title>INSTEAD 3.5.2</title>
       <link>/post/2024-09-01-instead-3-5-2/</link>
@@ -226,7 +233,7 @@
       <link>/download/</link>
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate><author>gl00my@mail.ru (Peter Kosyh)</author>
       <guid>/download/</guid>
-      <description>Скачать Версия 3.5.2&#xA;Установщих для Windows (.exe файл) Архив для Windows (распаковать и запустить) PPA репозиторий для Ubuntu Репозиторий для openSUSE Версия для OS X Версия для Android Исходный код Другие пакеты </description>
+      <description>Скачать Версия 3.6.0&#xA;Архив для Windows (распаковать и запустить) Linux AppImage Версия для OS X (x86_64)&#xA;Версия для OS X (arm) Версия для Android Исходный код Другие пакеты </description>
     </item>
     <item>
       <title>ПРИНТЕД 3</title>
