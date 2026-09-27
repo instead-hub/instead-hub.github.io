@@ -1,19 +1,19 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>INSTEAD</title>
-	<link href="//localhost:1313/atom.xml" rel="self"/>
-	<link href="//localhost:1313/"/>
+	<link href="/atom.xml" rel="self"/>
+	<link href="/"/>
 	<generator uri="https://gohugo.io/" version="hugo.Version">Hugo -- gohugo.io</generator>
 	<updated>2024-09-01T08:00:00+00:00</updated>
-	<id>//localhost:1313/</id>
+	<id>/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
   <entry>
 	<title>Posts</title>
-    <link href="//localhost:1313/post/"/>
-	<id>//localhost:1313/post/</id>
+    <link href="/post/"/>
+	<id>/post/</id>
     <published>2024-09-01T08:00:00+00:00</published>
     <updated>2024-09-01T08:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -23,8 +23,8 @@
 	
   <entry>
 	<title>Articles</title>
-    <link href="//localhost:1313/article/"/>
-	<id>//localhost:1313/article/</id>
+    <link href="/article/"/>
+	<id>/article/</id>
     <published>2019-10-05T00:00:00+00:00</published>
     <updated>2019-10-05T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -34,8 +34,8 @@
 	
   <entry>
 	<title>Pages</title>
-    <link href="//localhost:1313/page/"/>
-	<id>//localhost:1313/page/</id>
+    <link href="/page/"/>
+	<id>/page/</id>
     <published>2018-10-11T00:00:00+00:00</published>
     <updated>2018-10-11T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -45,8 +45,8 @@
 	
   <entry>
 	<title>Contact</title>
-    <link href="//localhost:1313/contact/"/>
-	<id>//localhost:1313/contact/</id>
+    <link href="/contact/"/>
+	<id>/contact/</id>
     <published>2017-03-09T13:23:28+08:00</published>
     <updated>2017-03-09T13:23:28+08:00</updated>
 	<content type="html"><![CDATA[
@@ -57,8 +57,8 @@
 	
   <entry>
 	<title>Documentation</title>
-    <link href="//localhost:1313/doc/"/>
-	<id>//localhost:1313/doc/</id>
+    <link href="/doc/"/>
+	<id>/doc/</id>
     <published>2017-03-09T13:23:28+08:00</published>
     <updated>2017-03-09T13:23:28+08:00</updated>
 	<content type="html"><![CDATA[
@@ -69,8 +69,8 @@
 	
   <entry>
 	<title>About</title>
-    <link href="//localhost:1313/about/"/>
-	<id>//localhost:1313/about/</id>
+    <link href="/about/"/>
+	<id>/about/</id>
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
@@ -81,8 +81,8 @@
 	
   <entry>
 	<title>Download</title>
-    <link href="//localhost:1313/download/"/>
-	<id>//localhost:1313/download/</id>
+    <link href="/download/"/>
+	<id>/download/</id>
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[

@@ -1,19 +1,19 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>INSTEAD</title>
-	<link href="//localhost:1313/en/atom.xml" rel="self"/>
-	<link href="//localhost:1313/en/"/>
+	<link href="/en/atom.xml" rel="self"/>
+	<link href="/en/"/>
 	<generator uri="https://gohugo.io/" version="hugo.Version">Hugo -- gohugo.io</generator>
 	<updated>2024-09-01T08:00:00+00:00</updated>
-	<id>//localhost:1313/en/</id>
+	<id>/en/</id>
 	<author>
 		<name>Peter Kosyh</name>
 		<email>gl00my@mail.ru</email>
 	</author>
   <entry>
 	<title>Posts</title>
-    <link href="//localhost:1313/en/post/"/>
-	<id>//localhost:1313/en/post/</id>
+    <link href="/en/post/"/>
+	<id>/en/post/</id>
     <published>2024-09-01T08:00:00+00:00</published>
     <updated>2024-09-01T08:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -23,8 +23,8 @@
 	
   <entry>
 	<title>Pages</title>
-    <link href="//localhost:1313/en/page/"/>
-	<id>//localhost:1313/en/page/</id>
+    <link href="/en/page/"/>
+	<id>/en/page/</id>
     <published>2018-04-22T00:50:00+00:00</published>
     <updated>2018-04-22T00:50:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -34,8 +34,8 @@
 	
   <entry>
 	<title>Contact</title>
-    <link href="//localhost:1313/en/contact/"/>
-	<id>//localhost:1313/en/contact/</id>
+    <link href="/en/contact/"/>
+	<id>/en/contact/</id>
     <published>2017-03-09T13:23:28+08:00</published>
     <updated>2017-03-09T13:23:28+08:00</updated>
 	<content type="html"><![CDATA[
@@ -45,8 +45,8 @@ Contacts https://t.me/insteadtalk - Telegram ircs://spline-online.ru:6697/#inste
 	
   <entry>
 	<title>About</title>
-    <link href="//localhost:1313/en/about/"/>
-	<id>//localhost:1313/en/about/</id>
+    <link href="/en/about/"/>
+	<id>/en/about/</id>
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
@@ -57,8 +57,8 @@ These games are mix of interactive fiction, visual novels and classic point &amp
 	
   <entry>
 	<title>Download</title>
-    <link href="//localhost:1313/en/download/"/>
-	<id>//localhost:1313/en/download/</id>
+    <link href="/en/download/"/>
+	<id>/en/download/</id>
     <published>2017-03-09T13:19:25+08:00</published>
     <updated>2017-03-09T13:19:25+08:00</updated>
 	<content type="html"><![CDATA[
@@ -69,8 +69,8 @@ Installer for Windows (.exe file) Archive for Windows (unpack and run) PPA repos
 	
   <entry>
 	<title>Articles</title>
-    <link href="//localhost:1313/en/article/"/>
-	<id>//localhost:1313/en/article/</id>
+    <link href="/en/article/"/>
+	<id>/en/article/</id>
     <published>2010-05-09T08:58:00+00:00</published>
     <updated>2010-05-09T08:58:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -80,8 +80,8 @@ Installer for Windows (.exe file) Archive for Windows (unpack and run) PPA repos
 	
   <entry>
 	<title>Documentation</title>
-    <link href="//localhost:1313/en/doc/"/>
-	<id>//localhost:1313/en/doc/</id>
+    <link href="/en/doc/"/>
+	<id>/en/doc/</id>
     <published>0001-01-01T00:00:00+00:00</published>
     <updated>0001-01-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[

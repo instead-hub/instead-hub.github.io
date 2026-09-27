@@ -2,355 +2,355 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2024-09-01T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/"
+                href="/en/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2024-09-01-instead-3-5-2/</loc>
+    <loc>/en/post/2024-09-01-instead-3-5-2/</loc>
     <lastmod>2024-09-01T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2024-09-01-instead-3-5-2/"
+                href="/post/2024-09-01-instead-3-5-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2024-09-01-instead-3-5-2/"
+                href="/en/post/2024-09-01-instead-3-5-2/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/</loc>
+    <loc>/en/post/</loc>
     <lastmod>2024-09-01T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/"
+                href="/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/"
+                href="/en/post/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2023-09-01-instead-3-5-1/</loc>
+    <loc>/en/post/2023-09-01-instead-3-5-1/</loc>
     <lastmod>2023-09-01T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2023-09-01-instead-3-5-1/"
+                href="/post/2023-09-01-instead-3-5-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2023-09-01-instead-3-5-1/"
+                href="/en/post/2023-09-01-instead-3-5-1/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2022-08-27-instead-3-5-0/</loc>
+    <loc>/en/post/2022-08-27-instead-3-5-0/</loc>
     <lastmod>2022-08-27T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2022-08-27-instead-3-5-0/"
+                href="/post/2022-08-27-instead-3-5-0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2022-08-27-instead-3-5-0/"
+                href="/en/post/2022-08-27-instead-3-5-0/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2021-09-08-instead-3-4-1/</loc>
+    <loc>/en/post/2021-09-08-instead-3-4-1/</loc>
     <lastmod>2021-09-08T19:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2021-09-08-instead-3-4-1/"
+                href="/post/2021-09-08-instead-3-4-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2021-09-08-instead-3-4-1/"
+                href="/en/post/2021-09-08-instead-3-4-1/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2021-08-31-instead-3-4-0/</loc>
+    <loc>/en/post/2021-08-31-instead-3-4-0/</loc>
     <lastmod>2021-08-31T14:35:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2021-08-31-instead-3-4-0/"
+                href="/post/2021-08-31-instead-3-4-0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2021-08-31-instead-3-4-0/"
+                href="/en/post/2021-08-31-instead-3-4-0/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2021-03-24-instead-3-3-4/</loc>
+    <loc>/en/post/2021-03-24-instead-3-3-4/</loc>
     <lastmod>2021-03-24T07:35:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2021-03-24-instead-3-3-4/"
+                href="/post/2021-03-24-instead-3-3-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2021-03-24-instead-3-3-4/"
+                href="/en/post/2021-03-24-instead-3-3-4/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2021-03-10-hugeping/</loc>
+    <loc>/en/post/2021-03-10-hugeping/</loc>
     <lastmod>2021-03-10T12:03:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2021-03-10-hugeping/"
+                href="/post/2021-03-10-hugeping/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2021-03-10-hugeping/"
+                href="/en/post/2021-03-10-hugeping/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2021-02-10-instead-3-3-3/</loc>
+    <loc>/en/post/2021-02-10-instead-3-3-3/</loc>
     <lastmod>2021-02-10T11:03:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2021-02-10-instead-3-3-3/"
+                href="/post/2021-02-10-instead-3-3-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2021-02-10-instead-3-3-3/"
+                href="/en/post/2021-02-10-instead-3-3-3/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2020-04-19-instead-3-3-2/</loc>
+    <loc>/en/post/2020-04-19-instead-3-3-2/</loc>
     <lastmod>2020-04-19T10:10:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2020-04-19-instead-3-3-2/"
+                href="/post/2020-04-19-instead-3-3-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2020-04-19-instead-3-3-2/"
+                href="/en/post/2020-04-19-instead-3-3-2/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2019-10-04-instead-3-3-1/</loc>
+    <loc>/en/post/2019-10-04-instead-3-3-1/</loc>
     <lastmod>2019-10-04T16:08:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2019-10-04-instead-3-3-1/"
+                href="/post/2019-10-04-instead-3-3-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2019-10-04-instead-3-3-1/"
+                href="/en/post/2019-10-04-instead-3-3-1/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2019-03-08-instead-3-3-0/</loc>
+    <loc>/en/post/2019-03-08-instead-3-3-0/</loc>
     <lastmod>2019-03-08T11:15:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2019-03-08-instead-3-3-0/"
+                href="/post/2019-03-08-instead-3-3-0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2019-03-08-instead-3-3-0/"
+                href="/en/post/2019-03-08-instead-3-3-0/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2019-02-20-ten-years/</loc>
+    <loc>/en/post/2019-02-20-ten-years/</loc>
     <lastmod>2019-02-20T07:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2019-02-20-ten-years/"
+                href="/post/2019-02-20-ten-years/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2019-02-20-ten-years/"
+                href="/en/post/2019-02-20-ten-years/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2018-09-01-instead-3-2-2/</loc>
+    <loc>/en/post/2018-09-01-instead-3-2-2/</loc>
     <lastmod>2018-09-01T07:18:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2018-09-01-instead-3-2-2/"
+                href="/post/2018-09-01-instead-3-2-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2018-09-01-instead-3-2-2/"
+                href="/en/post/2018-09-01-instead-3-2-2/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2018-04-22-site/</loc>
+    <loc>/en/post/2018-04-22-site/</loc>
     <lastmod>2018-04-22T09:24:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2018-04-22-site/"
+                href="/post/2018-04-22-site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2018-04-22-site/"
+                href="/en/post/2018-04-22-site/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/page/games/</loc>
+    <loc>/en/page/games/</loc>
     <lastmod>2018-04-22T00:50:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/page/games/"
+                href="/page/games/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/page/games/"
+                href="/en/page/games/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/page/</loc>
+    <loc>/en/page/</loc>
     <lastmod>2018-04-22T00:50:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/page/"
+                href="/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/page/"
+                href="/en/page/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/post/2018-03-02-forum/</loc>
+    <loc>/en/post/2018-03-02-forum/</loc>
     <lastmod>2018-03-02T14:27:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/post/2018-03-02-forum/"
+                href="/post/2018-03-02-forum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/post/2018-03-02-forum/"
+                href="/en/post/2018-03-02-forum/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/page/screenshots/</loc>
+    <loc>/en/page/screenshots/</loc>
     <lastmod>2017-05-09T08:58:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/page/screenshots/"
+                href="/page/screenshots/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/page/screenshots/"
+                href="/en/page/screenshots/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/contact/</loc>
+    <loc>/en/contact/</loc>
     <lastmod>2017-03-09T13:23:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/contact/"
+                href="/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/contact/"
+                href="/en/contact/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/about/</loc>
+    <loc>/en/about/</loc>
     <lastmod>2017-03-09T13:19:25+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/about/"
+                href="/en/about/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/download/</loc>
+    <loc>/en/download/</loc>
     <lastmod>2017-03-09T13:19:25+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/download/"
+                href="/download/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/download/"
+                href="/en/download/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/article/</loc>
+    <loc>/en/article/</loc>
     <lastmod>2010-05-09T08:58:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/article/"
+                href="/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/article/"
+                href="/en/article/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/article/english/</loc>
+    <loc>/en/article/english/</loc>
     <lastmod>2010-05-09T08:58:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/doc/</loc>
+    <loc>/en/doc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/doc/"
+                href="/doc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/doc/"
+                href="/en/doc/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="//localhost:1313/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/"
+                href="/en/tags/"
                 />
   </url>
 </urlset>
