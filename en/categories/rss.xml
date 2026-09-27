@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on INSTEAD</title>
-    <link>/en/categories/</link>
+    <link>//localhost:1313/en/categories/</link>
     <description>Recent content in Categories on INSTEAD</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>gl00my@mail.ru (Peter Kosyh)</managingEditor>
     <webMaster>gl00my@mail.ru (Peter Kosyh)</webMaster>
     <copyright>&amp;copy; 2009-2026</copyright>
-    <atom:link href="/en/categories/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/en/categories/rss.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
